@@ -1,0 +1,41 @@
+# The Philippine Islands, 1493-1898, Volume 33, 1519-1522: Explorations by early navigators, descriptions of the islands and their peoples, their history and records of the Catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with European nations to the close of the nineteenth century <kbd>GUTHENBURGE</kbd>
+
+![](./cover.medium.jpg "")
+
+## Authors
+
+
+ - Pigafetta, Antonio <small>(-1 - -1)</small>
+
+## Translators
+
+
+ - Robertson, James Alexander <small>(1873 - 1939)</small>
+
+## Subjects
+
+
+ - Demarcation line of Alexander VI
+ - Missions
+ - Philippines
+ - Philippines
+
+## Readablility
+
+
+ - **A1:** 39%
+ - **A2:** 56%
+ - **B1:** 68%
+ - **B2:** 78%
+ - **C1:** 91%
+ - **C2:** 100%
+
+## Words Count
+
+
+ - **A1:** 395
+ - **A2:** 429
+ - **B1:** 711
+ - **B2:** 975
+ - **C1:** 1038
+ - **C2:** 747
