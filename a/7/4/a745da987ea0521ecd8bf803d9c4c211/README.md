@@ -1,1 +1,48 @@
-"# Pride and Prejudice <kbd>GUTHENBURGE</kbd>\n\n![](./cover.medium.jpg \"\")\n\n## Authors\n\n\n - Austen, Jane <small>(1775 - 1817)</small>\n\n## Translators\n\n\n\n## Subjects\n\n\n - Courtship\n - Domestic fiction\n - England\n - Love stories\n - Sisters\n - Social classes\n - Young women\n\n## Readablility\n\n\n - **A1:** 54%\n - **A2:** 61%\n - **B1:** 72%\n - **B2:** 85%\n - **C1:** 88%\n - **C2:** 100%\n\n## Words Count\n\n\n - **A1:** 559\n - **A2:** 513\n - **B1:** 853\n - **B2:** 1241\n - **C1:** 489\n - **C2:** 2989\n\n## Tagger Version\n\n\n^2.0.0\n"
+# Pride and Prejudice <kbd>GUTHENBURGE</kbd>
+
+![](./cover.medium.jpg "")
+
+## Authors
+
+
+ - Austen, Jane <small>(1775 - 1817)</small>
+
+## Translators
+
+
+
+## Subjects
+
+
+ - Courtship
+ - Domestic fiction
+ - England
+ - Love stories
+ - Sisters
+ - Social classes
+ - Young women
+
+## Readablility
+
+
+ - **A1:** 54%
+ - **A2:** 61%
+ - **B1:** 72%
+ - **B2:** 85%
+ - **C1:** 88%
+ - **C2:** 100%
+
+## Words Count
+
+
+ - **A1:** 559
+ - **A2:** 513
+ - **B1:** 853
+ - **B2:** 1241
+ - **C1:** 489
+ - **C2:** 2989
+
+## Tagger Version
+
+
+^2.0.0
