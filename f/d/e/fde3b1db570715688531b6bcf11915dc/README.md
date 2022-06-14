@@ -1,4 +1,4 @@
-# The Tragical History of Doctor Faustus: From the Quarto of 1604 <kbd>v2.0.2</kbd>
+# The Tragical History of Doctor Faustus: From the Quarto of 1604 <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 44%
- - **A2:** 50%
- - **B1:** 60%
- - **B2:** 74%
+ - **A1:** 58%
+ - **A2:** 63%
+ - **B1:** 70%
+ - **B2:** 75%
  - **C1:** 77%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 424
- - **A2:** 302
- - **B1:** 467
- - **B2:** 621
- - **C1:** 225
- - **C2:** 2143
+ - **A1:** 601
+ - **A2:** 351
+ - **B1:** 465
+ - **B2:** 476
+ - **C1:** 147
+ - **C2:** 2142
 
 ## Source
 
