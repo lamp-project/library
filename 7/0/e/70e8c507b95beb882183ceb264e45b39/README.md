@@ -1,4 +1,4 @@
-# The Marriage of Heaven and Hell <kbd>GUTHENBURGE</kbd>
+# The Marriage of Heaven and Hell <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,19 +21,24 @@
 ## Readablility
 
 
- - **A1:** 39%
+ - **A1:** 46%
  - **A2:** 53%
- - **B1:** 69%
- - **B2:** 86%
- - **C1:** 97%
+ - **B1:** 64%
+ - **B2:** 82%
+ - **C1:** 86%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 292
- - **A2:** 181
- - **B1:** 262
- - **B2:** 347
- - **C1:** 257
- - **C2:** 85
+ - **A1:** 332
+ - **A2:** 203
+ - **B1:** 301
+ - **B2:** 390
+ - **C1:** 141
+ - **C2:** 567
+
+## Source
+
+
+<kbd>GUTHENBURGE:45315</kbd>
