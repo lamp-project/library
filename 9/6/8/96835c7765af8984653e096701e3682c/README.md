@@ -1,4 +1,4 @@
-# Anna Karenina <kbd>GUTHENBURGE</kbd>
+# Anna Karenina <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -41,7 +41,7 @@
  - **C1:** 927
  - **C2:** 7813
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:1399</kbd>
