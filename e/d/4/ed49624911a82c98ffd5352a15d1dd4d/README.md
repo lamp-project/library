@@ -1,4 +1,4 @@
-# Antiquities of the Jews <kbd>GUTHENBURGE</kbd>
+# Antiquities of the Jews <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 752
  - **C2:** 8590
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:2848</kbd>
