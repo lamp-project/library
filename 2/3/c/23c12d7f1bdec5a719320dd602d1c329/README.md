@@ -1,4 +1,4 @@
-# A Christmas Carol in Prose; Being a Ghost Story of Christmas <kbd>GUTHENBURGE</kbd>
+# A Christmas Carol in Prose; Being a Ghost Story of Christmas <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -42,7 +42,7 @@
  - **C1:** 356
  - **C2:** 1920
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:46</kbd>
