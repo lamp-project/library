@@ -1,4 +1,4 @@
-# A Pickle for the Knowing Ones <kbd>GUTHENBURGE</kbd>
+# A Pickle for the Knowing Ones <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 167
  - **C2:** 1626
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:43453</kbd>
