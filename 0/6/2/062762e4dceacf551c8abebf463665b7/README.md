@@ -1,4 +1,4 @@
-# Carmilla <kbd>GUTHENBURGE</kbd>
+# Carmilla <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 353
  - **C2:** 1733
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:10007</kbd>
