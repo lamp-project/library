@@ -1,4 +1,4 @@
-# Les Misérables <kbd>v2.0.7</kbd>
+# Les Misérables <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
