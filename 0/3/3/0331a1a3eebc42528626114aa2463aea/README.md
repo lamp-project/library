@@ -1,4 +1,4 @@
-# The Strange Case of Dr. Jekyll and Mr. Hyde <kbd>GUTHENBURGE</kbd>
+# The Strange Case of Dr. Jekyll and Mr. Hyde <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -42,7 +42,7 @@
  - **C1:** 312
  - **C2:** 1698
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:43</kbd>
