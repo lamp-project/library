@@ -1,4 +1,4 @@
-# Essays of Michel de Montaigne — Complete <kbd>v2.0.2</kbd>
+# Essays of Michel de Montaigne — Complete <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,21 +20,21 @@
 ## Readablility
 
 
- - **A1:** 51%
- - **A2:** 59%
- - **B1:** 69%
- - **B2:** 82%
+ - **A1:** 68%
+ - **A2:** 74%
+ - **B1:** 79%
+ - **B2:** 85%
  - **C1:** 86%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 664
- - **A2:** 710
- - **B1:** 1327
- - **B2:** 2388
- - **C1:** 1074
+ - **A1:** 930
+ - **A2:** 820
+ - **B1:** 1405
+ - **B2:** 2161
+ - **C1:** 848
  - **C2:** 19858
 
 ## Source
