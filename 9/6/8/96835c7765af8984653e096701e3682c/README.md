@@ -1,4 +1,4 @@
-# Anna Karenina <kbd>v2.0.7</kbd>
+# Anna Karenina <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
