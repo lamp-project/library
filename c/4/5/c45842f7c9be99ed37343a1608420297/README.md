@@ -1,4 +1,4 @@
-# Beowulf: An Anglo-Saxon Epic Poem <kbd>GUTHENBURGE</kbd>
+# Beowulf: An Anglo-Saxon Epic Poem <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 363
  - **C2:** 3210
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:16328</kbd>
