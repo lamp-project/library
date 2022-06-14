@@ -1,4 +1,4 @@
-# The Hound of the Baskervilles <kbd>GUTHENBURGE</kbd>
+# The Hound of the Baskervilles <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -41,7 +41,7 @@
  - **C1:** 464
  - **C2:** 2452
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:2852</kbd>
