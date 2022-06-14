@@ -1,4 +1,4 @@
-# The King in Yellow <kbd>GUTHENBURGE</kbd>
+# The King in Yellow <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 654
  - **C2:** 4442
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:8492</kbd>
