@@ -1,4 +1,4 @@
-# Peter Pan <kbd>GUTHENBURGE</kbd>
+# Peter Pan <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -40,7 +40,7 @@
  - **C1:** 406
  - **C2:** 2198
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:16</kbd>
