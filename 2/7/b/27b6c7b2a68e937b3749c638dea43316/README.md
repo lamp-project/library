@@ -1,4 +1,4 @@
-# Complete Original Short Stories of Guy De Maupassant <kbd>v2.0.2</kbd>
+# Complete Original Short Stories of Guy De Maupassant <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,21 +23,21 @@
 ## Readablility
 
 
- - **A1:** 56%
- - **A2:** 62%
- - **B1:** 73%
- - **B2:** 86%
+ - **A1:** 71%
+ - **A2:** 77%
+ - **B1:** 83%
+ - **B2:** 88%
  - **C1:** 90%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 672
- - **A2:** 723
- - **B1:** 1395
- - **B2:** 2501
- - **C1:** 1178
+ - **A1:** 943
+ - **A2:** 841
+ - **B1:** 1474
+ - **B2:** 2272
+ - **C1:** 940
  - **C2:** 12122
 
 ## Source
