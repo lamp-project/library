@@ -1,4 +1,4 @@
-# Thus Spake Zarathustra: A Book for All and None <kbd>v2.0.2</kbd>
+# Thus Spake Zarathustra: A Book for All and None <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 56%
- - **B1:** 67%
- - **B2:** 80%
+ - **A1:** 66%
+ - **A2:** 71%
+ - **B1:** 77%
+ - **B2:** 83%
  - **C1:** 85%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 574
- - **A2:** 529
- - **B1:** 911
- - **B2:** 1499
- - **C1:** 644
- - **C2:** 5533
+ - **A1:** 811
+ - **A2:** 608
+ - **B1:** 946
+ - **B2:** 1313
+ - **C1:** 481
+ - **C2:** 5531
 
 ## Source
 
