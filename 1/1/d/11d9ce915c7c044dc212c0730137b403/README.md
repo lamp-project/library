@@ -1,4 +1,4 @@
-# An Index of The Divine Comedy by Dante <kbd>GUTHENBURGE</kbd>
+# An Index of The Divine Comedy by Dante <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 39
  - **C2:** 160
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:8800</kbd>
