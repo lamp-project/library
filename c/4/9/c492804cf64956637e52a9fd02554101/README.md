@@ -1,4 +1,4 @@
-# An Occurrence at Owl Creek Bridge <kbd>v2.0.2</kbd>
+# An Occurrence at Owl Creek Bridge <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,21 +21,21 @@
 ## Readablility
 
 
- - **A1:** 47%
- - **A2:** 53%
- - **B1:** 65%
- - **B2:** 84%
+ - **A1:** 62%
+ - **A2:** 70%
+ - **B1:** 78%
+ - **B2:** 86%
  - **C1:** 88%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 302
- - **A2:** 197
- - **B1:** 306
- - **B2:** 354
- - **C1:** 125
+ - **A1:** 438
+ - **A2:** 229
+ - **B1:** 284
+ - **B2:** 266
+ - **C1:** 67
  - **C2:** 503
 
 ## Source
