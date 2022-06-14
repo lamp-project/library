@@ -1,4 +1,4 @@
-# Le Morte d'Arthur: Volume 1 <kbd>GUTHENBURGE</kbd>
+# Le Morte d'Arthur: Volume 1 <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 356
  - **C2:** 3532
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:1251</kbd>
