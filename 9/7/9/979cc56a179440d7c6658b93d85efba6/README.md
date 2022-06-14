@@ -1,4 +1,4 @@
-# Democracy and Education: An Introduction to the Philosophy of Education <kbd>v2.0.2</kbd>
+# Democracy and Education: An Introduction to the Philosophy of Education <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 60%
- - **B1:** 73%
- - **B2:** 89%
+ - **A1:** 66%
+ - **A2:** 76%
+ - **B1:** 83%
+ - **B2:** 90%
  - **C1:** 92%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 576
- - **A2:** 619
- - **B1:** 1008
- - **B2:** 1691
- - **C1:** 679
- - **C2:** 3782
+ - **A1:** 835
+ - **A2:** 709
+ - **B1:** 1042
+ - **B2:** 1490
+ - **C1:** 499
+ - **C2:** 3780
 
 ## Source
 
