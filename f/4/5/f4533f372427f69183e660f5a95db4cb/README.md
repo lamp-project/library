@@ -1,4 +1,4 @@
-# The Kama Sutra of Vatsyayana: Translated From the Sanscrit in Seven Parts With Preface, Introduction and Concluding Remarks <kbd>GUTHENBURGE</kbd>
+# The Kama Sutra of Vatsyayana: Translated From the Sanscrit in Seven Parts With Preface, Introduction and Concluding Remarks <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -10,9 +10,9 @@
 ## Translators
 
 
+ - Burton, Richard Francis, Sir <small>(1821 - 1890)</small>
  - Indrajit, Bhagavanlal <small>(-1 - -1)</small>
  - Bhide, Shivaram Parashuram <small>(-1 - -1)</small>
- - Burton, Richard Francis, Sir <small>(1821 - 1890)</small>
 
 ## Subjects
 
@@ -40,7 +40,7 @@
  - **C1:** 394
  - **C2:** 2431
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:27827</kbd>
