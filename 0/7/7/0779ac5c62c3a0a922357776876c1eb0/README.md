@@ -1,4 +1,4 @@
-# The Man with Two Left Feet, and Other Stories <kbd>GUTHENBURGE</kbd>
+# The Man with Two Left Feet, and Other Stories <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 568
  - **C2:** 3658
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:7471</kbd>
