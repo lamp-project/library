@@ -1,4 +1,4 @@
-# The Odyssey: Rendered into English prose for the use of those who cannot read the original <kbd>v2.0.9</kbd>
+# The Odyssey: Rendered into English prose for the use of those who cannot read the original <kbd>v2.1.0</kbd>
 
 ![](./cover.medium.jpg "")
 
