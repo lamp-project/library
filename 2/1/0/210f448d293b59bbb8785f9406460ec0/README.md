@@ -1,4 +1,4 @@
-# The Works of Edgar Allan Poe — Volume 2 <kbd>GUTHENBURGE</kbd>
+# The Works of Edgar Allan Poe — Volume 2 <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 699
  - **C2:** 6042
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:2148</kbd>
