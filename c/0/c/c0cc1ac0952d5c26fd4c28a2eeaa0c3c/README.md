@@ -1,4 +1,4 @@
-# The Philippines a Century Hence <kbd>GUTHENBURGE</kbd>
+# The Philippines a Century Hence <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 290
  - **C2:** 1457
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:35899</kbd>
