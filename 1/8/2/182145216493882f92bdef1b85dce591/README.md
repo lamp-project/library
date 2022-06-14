@@ -1,4 +1,4 @@
-# Northanger Abbey <kbd>GUTHENBURGE</kbd>
+# Northanger Abbey <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -45,7 +45,7 @@
  - **C1:** 482
  - **C2:** 2822
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:121</kbd>
