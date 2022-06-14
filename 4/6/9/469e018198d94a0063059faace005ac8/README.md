@@ -1,4 +1,4 @@
-# The Social Cancer: A Complete English Version of Noli Me Tangere <kbd>GUTHENBURGE</kbd>
+# The Social Cancer: A Complete English Version of Noli Me Tangere <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 969
  - **C2:** 7903
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:6737</kbd>
