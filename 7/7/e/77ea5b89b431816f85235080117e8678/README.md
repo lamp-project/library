@@ -1,4 +1,4 @@
-# The Confessions of St. Augustine <kbd>GUTHENBURGE</kbd>
+# The Confessions of St. Augustine <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -40,7 +40,7 @@
  - **C1:** 510
  - **C2:** 4033
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:3296</kbd>
