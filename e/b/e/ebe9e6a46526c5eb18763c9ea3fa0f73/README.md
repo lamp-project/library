@@ -1,4 +1,4 @@
-# Meditations <kbd>GUTHENBURGE</kbd>
+# Meditations <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 431
  - **C2:** 3251
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:2680</kbd>
