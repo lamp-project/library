@@ -1,4 +1,4 @@
-# Dracula <kbd>GUTHENBURGE</kbd>
+# Dracula <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -42,7 +42,7 @@
  - **C1:** 729
  - **C2:** 5091
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:345</kbd>
