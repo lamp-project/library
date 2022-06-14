@@ -1,4 +1,4 @@
-# Ulysses <kbd>GUTHENBURGE</kbd>
+# Ulysses <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -45,7 +45,7 @@
  - **C1:** 1263
  - **C2:** 23788
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:4300</kbd>
