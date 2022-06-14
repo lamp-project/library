@@ -1,4 +1,4 @@
-# Crime and Punishment <kbd>GUTHENBURGE</kbd>
+# Crime and Punishment <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -41,7 +41,7 @@
  - **C1:** 746
  - **C2:** 5213
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:2554</kbd>
