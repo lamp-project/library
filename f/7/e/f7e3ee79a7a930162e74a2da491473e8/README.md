@@ -1,4 +1,4 @@
-# Bradford's History of 'Plimoth Plantation': From the Original Manuscript. With a Report of the Proceedings Incident to the Return of the Manuscript to Massachusetts <kbd>v2.0.2</kbd>
+# Bradford's History of 'Plimoth Plantation': From the Original Manuscript. With a Report of the Proceedings Incident to the Return of the Manuscript to Massachusetts <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,21 +19,21 @@
 ## Readablility
 
 
- - **A1:** 45%
- - **A2:** 49%
- - **B1:** 58%
- - **B2:** 69%
+ - **A1:** 60%
+ - **A2:** 63%
+ - **B1:** 68%
+ - **B2:** 71%
  - **C1:** 72%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 579
- - **A2:** 497
- - **B1:** 849
- - **B2:** 1295
- - **C1:** 521
+ - **A1:** 818
+ - **A2:** 569
+ - **B1:** 874
+ - **B2:** 1100
+ - **C1:** 381
  - **C2:** 8379
 
 ## Source
