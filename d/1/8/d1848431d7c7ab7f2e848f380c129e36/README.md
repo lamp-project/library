@@ -1,4 +1,4 @@
-# Grimms' Fairy Tales <kbd>GUTHENBURGE</kbd>
+# Grimms' Fairy Tales <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 437
  - **C2:** 2245
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:2591</kbd>
