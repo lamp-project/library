@@ -1,4 +1,4 @@
-# The Adventures of Sherlock Holmes <kbd>v2.0.6</kbd>
+# The Adventures of Sherlock Holmes <kbd>v2.0.7</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 0%
- - **A2:** 0%
- - **B1:** 0%
- - **B2:** 0%
- - **C1:** 0%
+ - **A1:** 72%
+ - **A2:** 78%
+ - **B1:** 84%
+ - **B2:** 89%
+ - **C1:** 90%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 0
- - **A2:** 0
- - **B1:** 0
- - **B2:** 0
- - **C1:** 0
- - **C2:** 8259
+ - **A1:** 842
+ - **A2:** 661
+ - **B1:** 1032
+ - **B2:** 1273
+ - **C1:** 454
+ - **C2:** 3997
 
 ## Source
 
