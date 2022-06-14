@@ -1,4 +1,4 @@
-# Cookery and Dining in Imperial Rome <kbd>v2.0.2</kbd>
+# Cookery and Dining in Imperial Rome <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 36%
- - **A2:** 42%
- - **B1:** 52%
- - **B2:** 68%
+ - **A1:** 48%
+ - **A2:** 54%
+ - **B1:** 61%
+ - **B2:** 70%
  - **C1:** 72%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 539
- - **A2:** 536
- - **B1:** 890
- - **B2:** 1476
- - **C1:** 576
- - **C2:** 8377
+ - **A1:** 770
+ - **A2:** 623
+ - **B1:** 921
+ - **B2:** 1285
+ - **C1:** 420
+ - **C2:** 8375
 
 ## Source
 
