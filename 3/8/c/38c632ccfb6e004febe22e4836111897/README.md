@@ -1,4 +1,4 @@
-# A Modest Proposal: For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick <kbd>v2.0.7</kbd>
+# A Modest Proposal: For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
