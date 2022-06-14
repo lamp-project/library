@@ -1,4 +1,4 @@
-# The Elements of Style <kbd>GUTHENBURGE</kbd>
+# The Elements of Style <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 217
  - **C2:** 1048
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:37134</kbd>
