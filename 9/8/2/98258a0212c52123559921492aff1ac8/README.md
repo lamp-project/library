@@ -1,4 +1,4 @@
-# Pygmalion <kbd>GUTHENBURGE</kbd>
+# Pygmalion <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -41,7 +41,7 @@
  - **C1:** 368
  - **C2:** 1895
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:3825</kbd>
