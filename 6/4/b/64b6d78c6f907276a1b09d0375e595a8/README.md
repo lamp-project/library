@@ -1,4 +1,4 @@
-# The Life and Adventures of Robinson Crusoe <kbd>v2.0.2</kbd>
+# The Life and Adventures of Robinson Crusoe <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -24,22 +24,22 @@
 ## Readablility
 
 
- - **A1:** 58%
- - **A2:** 66%
- - **B1:** 77%
- - **B2:** 90%
+ - **A1:** 76%
+ - **A2:** 81%
+ - **B1:** 87%
+ - **B2:** 92%
  - **C1:** 93%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 545
- - **A2:** 476
- - **B1:** 800
- - **B2:** 1253
- - **C1:** 519
- - **C2:** 2791
+ - **A1:** 767
+ - **A2:** 550
+ - **B1:** 840
+ - **B2:** 1068
+ - **C1:** 368
+ - **C2:** 2792
 
 ## Source
 
