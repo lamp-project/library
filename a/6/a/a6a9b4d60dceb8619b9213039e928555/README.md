@@ -1,4 +1,4 @@
-# Cyrano de Bergerac <kbd>GUTHENBURGE</kbd>
+# Cyrano de Bergerac <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -40,7 +40,7 @@
  - **C1:** 386
  - **C2:** 2612
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:1254</kbd>
