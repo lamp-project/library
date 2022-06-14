@@ -1,4 +1,4 @@
-# The Kama Sutra of Vatsyayana: Translated From the Sanscrit in Seven Parts With Preface, Introduction and Concluding Remarks <kbd>v2.0.2</kbd>
+# The Kama Sutra of Vatsyayana: Translated From the Sanscrit in Seven Parts With Preface, Introduction and Concluding Remarks <kbd>v2.0.7</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 56%
- - **A2:** 63%
- - **B1:** 73%
- - **B2:** 87%
+ - **A1:** 71%
+ - **A2:** 78%
+ - **B1:** 84%
+ - **B2:** 89%
  - **C1:** 91%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 528
- - **A2:** 493
- - **B1:** 716
- - **B2:** 1030
- - **C1:** 394
- - **C2:** 2431
+ - **A1:** 756
+ - **A2:** 561
+ - **B1:** 725
+ - **B2:** 856
+ - **C1:** 265
+ - **C2:** 2429
 
 ## Source
 
