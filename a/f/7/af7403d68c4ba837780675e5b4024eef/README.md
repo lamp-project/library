@@ -1,4 +1,4 @@
-# David Copperfield <kbd>GUTHENBURGE</kbd>
+# David Copperfield <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -43,7 +43,7 @@
  - **C1:** 998
  - **C2:** 9397
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:766</kbd>
