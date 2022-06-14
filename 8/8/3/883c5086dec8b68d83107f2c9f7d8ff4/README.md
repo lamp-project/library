@@ -1,4 +1,4 @@
-# The Adventures of Sherlock Holmes <kbd>v2.0.9</kbd>
+# The Adventures of Sherlock Holmes <kbd>v2.1.0</kbd>
 
 ![](./cover.medium.jpg "")
 
