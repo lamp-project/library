@@ -1,4 +1,4 @@
-# The Divine Comedy by Dante, Illustrated, Paradise, Complete <kbd>v2.0.2</kbd>
+# The Divine Comedy by Dante, Illustrated, Paradise, Complete <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 43%
- - **A2:** 50%
- - **B1:** 60%
- - **B2:** 74%
+ - **A1:** 58%
+ - **A2:** 64%
+ - **B1:** 70%
+ - **B2:** 76%
  - **C1:** 79%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 451
- - **A2:** 358
- - **B1:** 610
- - **B2:** 911
- - **C1:** 400
- - **C2:** 3943
+ - **A1:** 666
+ - **A2:** 417
+ - **B1:** 617
+ - **B2:** 757
+ - **C1:** 275
+ - **C2:** 3941
 
 ## Source
 
