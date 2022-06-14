@@ -1,4 +1,4 @@
-# Emma <kbd>GUTHENBURGE</kbd>
+# Emma <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -43,7 +43,7 @@
  - **C1:** 551
  - **C2:** 3519
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:158</kbd>
