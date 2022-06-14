@@ -1,4 +1,4 @@
-# Anne of Green Gables <kbd>GUTHENBURGE</kbd>
+# Anne of Green Gables <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -44,7 +44,7 @@
  - **C1:** 603
  - **C2:** 3997
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:45</kbd>
