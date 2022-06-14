@@ -1,4 +1,4 @@
-# Little Women <kbd>GUTHENBURGE</kbd>
+# Little Women <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -44,7 +44,7 @@
  - **C1:** 804
  - **C2:** 6630
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:514</kbd>
