@@ -1,4 +1,4 @@
-# Heart of Darkness <kbd>GUTHENBURGE</kbd>
+# Heart of Darkness <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -41,7 +41,7 @@
  - **C1:** 465
  - **C2:** 2616
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:219</kbd>
