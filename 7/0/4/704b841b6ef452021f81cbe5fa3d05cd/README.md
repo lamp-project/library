@@ -1,4 +1,4 @@
-# Hard Times <kbd>GUTHENBURGE</kbd>
+# Hard Times <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -41,7 +41,7 @@
  - **C1:** 657
  - **C2:** 5199
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:786</kbd>
