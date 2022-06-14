@@ -1,4 +1,4 @@
-# The Souls of Black Folk <kbd>v2.0.7</kbd>
+# The Souls of Black Folk <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
