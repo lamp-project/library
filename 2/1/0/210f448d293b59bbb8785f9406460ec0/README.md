@@ -1,4 +1,4 @@
-# The Works of Edgar Allan Poe — Volume 2 <kbd>v2.0.7</kbd>
+# The Works of Edgar Allan Poe — Volume 2 <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
