@@ -1,4 +1,4 @@
-# Around the World in Eighty Days <kbd>GUTHENBURGE</kbd>
+# Around the World in Eighty Days <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 544
  - **C2:** 3334
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:103</kbd>
