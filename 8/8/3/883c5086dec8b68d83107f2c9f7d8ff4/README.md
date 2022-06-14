@@ -1,4 +1,4 @@
-# The Adventures of Sherlock Holmes <kbd>GUTHENBURGE</kbd>
+# The Adventures of Sherlock Holmes <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 622
  - **C2:** 3997
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:1661</kbd>
