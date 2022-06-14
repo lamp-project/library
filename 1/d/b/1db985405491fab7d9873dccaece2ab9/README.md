@@ -1,4 +1,4 @@
-# Persuasion <kbd>GUTHENBURGE</kbd>
+# Persuasion <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -45,7 +45,7 @@
  - **C1:** 465
  - **C2:** 2599
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:105</kbd>
