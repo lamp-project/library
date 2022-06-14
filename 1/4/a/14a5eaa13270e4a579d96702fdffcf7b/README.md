@@ -1,4 +1,4 @@
-# Japanese Girls and Women: Revised and Enlarged Edition <kbd>v2.0.9</kbd>
+# Japanese Girls and Women: Revised and Enlarged Edition <kbd>v2.1.0</kbd>
 
 ![](./cover.medium.jpg "")
 
