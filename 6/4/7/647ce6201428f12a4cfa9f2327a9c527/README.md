@@ -1,4 +1,4 @@
-# Old Granny Fox <kbd>GUTHENBURGE</kbd>
+# Old Granny Fox <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 202
  - **C2:** 698
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:4980</kbd>
