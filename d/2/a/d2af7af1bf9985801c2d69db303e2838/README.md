@@ -1,4 +1,4 @@
-# A Tale of Two Cities <kbd>GUTHENBURGE</kbd>
+# A Tale of Two Cities <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -44,7 +44,7 @@
  - **C1:** 754
  - **C2:** 5474
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:98</kbd>
