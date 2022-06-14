@@ -1,4 +1,4 @@
-# The Communist Manifesto <kbd>GUTHENBURGE</kbd>
+# The Communist Manifesto <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 201
  - **C2:** 840
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:61</kbd>
