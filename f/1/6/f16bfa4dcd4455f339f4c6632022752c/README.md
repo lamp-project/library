@@ -1,4 +1,4 @@
-# Alice's Adventures in Wonderland <kbd>v2.0.5</kbd>
+# Alice's Adventures in Wonderland <kbd>v2.0.6</kbd>
 
 ![](./cover.medium.jpg "")
 
