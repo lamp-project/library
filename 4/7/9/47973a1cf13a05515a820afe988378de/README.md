@@ -1,4 +1,4 @@
-# Frankenstein; Or, The Modern Prometheus <kbd>GUTHENBURGE</kbd>
+# Frankenstein; Or, The Modern Prometheus <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -42,7 +42,7 @@
  - **C1:** 542
  - **C2:** 3466
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:84</kbd>
