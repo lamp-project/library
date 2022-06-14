@@ -1,4 +1,4 @@
-# Moby Multiple Language Lists of Common Words <kbd>GUTHENBURGE</kbd>
+# Moby Multiple Language Lists of Common Words <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -36,7 +36,7 @@
  - **C1:** 45
  - **C2:** 157
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:3206</kbd>
