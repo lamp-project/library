@@ -1,4 +1,4 @@
-# Through the Looking-Glass <kbd>GUTHENBURGE</kbd>
+# Through the Looking-Glass <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 267
  - **C2:** 1153
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:12</kbd>
