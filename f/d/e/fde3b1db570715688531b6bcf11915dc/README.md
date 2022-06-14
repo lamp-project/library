@@ -1,4 +1,4 @@
-# The Tragical History of Doctor Faustus: From the Quarto of 1604 <kbd>GUTHENBURGE</kbd>
+# The Tragical History of Doctor Faustus: From the Quarto of 1604 <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 225
  - **C2:** 2143
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:779</kbd>
