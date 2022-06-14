@@ -1,4 +1,4 @@
-# Beyond Good and Evil <kbd>GUTHENBURGE</kbd>
+# Beyond Good and Evil <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 542
  - **C2:** 4299
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:4363</kbd>
