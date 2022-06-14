@@ -1,4 +1,4 @@
-# Middlemarch <kbd>GUTHENBURGE</kbd>
+# Middlemarch <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -43,7 +43,7 @@
  - **C1:** 1030
  - **C2:** 9913
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:145</kbd>
