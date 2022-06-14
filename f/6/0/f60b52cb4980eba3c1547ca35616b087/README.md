@@ -1,4 +1,4 @@
-# The Time Machine <kbd>GUTHENBURGE</kbd>
+# The Time Machine <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 388
  - **C2:** 2044
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:35</kbd>
