@@ -1,4 +1,4 @@
-# The Call of the Wild <kbd>GUTHENBURGE</kbd>
+# The Call of the Wild <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -43,7 +43,7 @@
  - **C1:** 397
  - **C2:** 2322
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:215</kbd>
