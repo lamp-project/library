@@ -1,4 +1,4 @@
-# Narrative of the Life of Frederick Douglass, an American Slave <kbd>GUTHENBURGE</kbd>
+# Narrative of the Life of Frederick Douglass, an American Slave <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 431
  - **C2:** 2210
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:23</kbd>
