@@ -1,4 +1,4 @@
-# Siddhartha <kbd>GUTHENBURGE</kbd>
+# Siddhartha <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -43,7 +43,7 @@
  - **C1:** 341
  - **C2:** 1355
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:2500</kbd>
