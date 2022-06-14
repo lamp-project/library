@@ -1,4 +1,4 @@
-# The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African: Written By Himself <kbd>v2.0.2</kbd>
+# The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African: Written By Himself <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,21 +21,21 @@
 ## Readablility
 
 
- - **A1:** 55%
- - **A2:** 62%
- - **B1:** 72%
- - **B2:** 86%
+ - **A1:** 71%
+ - **A2:** 76%
+ - **B1:** 82%
+ - **B2:** 88%
  - **C1:** 89%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 557
- - **A2:** 510
- - **B1:** 861
- - **B2:** 1296
- - **C1:** 537
+ - **A1:** 788
+ - **A2:** 589
+ - **B1:** 891
+ - **B2:** 1104
+ - **C1:** 390
  - **C2:** 3608
 
 ## Source
