@@ -1,4 +1,4 @@
-# The Odyssey: Rendered into English prose for the use of those who cannot read the original <kbd>GUTHENBURGE</kbd>
+# The Odyssey: Rendered into English prose for the use of those who cannot read the original <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 555
  - **C2:** 3940
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:1727</kbd>
