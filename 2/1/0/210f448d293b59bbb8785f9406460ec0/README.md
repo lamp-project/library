@@ -1,4 +1,4 @@
-# The Works of Edgar Allan Poe — Volume 2 <kbd>v2.0.2</kbd>
+# The Works of Edgar Allan Poe — Volume 2 <kbd>v2.0.7</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,21 +22,21 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 58%
- - **B1:** 68%
- - **B2:** 83%
+ - **A1:** 65%
+ - **A2:** 72%
+ - **B1:** 78%
+ - **B2:** 85%
  - **C1:** 87%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 582
- - **A2:** 591
- - **B1:** 996
- - **B2:** 1676
- - **C1:** 699
+ - **A1:** 824
+ - **A2:** 673
+ - **B1:** 1032
+ - **B2:** 1483
+ - **C1:** 533
  - **C2:** 6042
 
 ## Source
