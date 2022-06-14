@@ -1,4 +1,4 @@
-# The Prince <kbd>GUTHENBURGE</kbd>
+# The Prince <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 376
  - **C2:** 2375
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:1232</kbd>
