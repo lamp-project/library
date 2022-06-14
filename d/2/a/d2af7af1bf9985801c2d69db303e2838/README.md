@@ -1,4 +1,4 @@
-# A Tale of Two Cities <kbd>v2.0.7</kbd>
+# A Tale of Two Cities <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
