@@ -1,4 +1,4 @@
-# A Modest Proposal: For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick <kbd>GUTHENBURGE</kbd>
+# A Modest Proposal: For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 104
  - **C2:** 431
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:1080</kbd>
