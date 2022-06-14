@@ -1,4 +1,4 @@
-# The City of God, Volume I <kbd>GUTHENBURGE</kbd>
+# The City of God, Volume I <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,19 +20,24 @@
 ## Readablility
 
 
- - **A1:** 47%
- - **A2:** 57%
- - **B1:** 72%
+ - **A1:** 52%
+ - **A2:** 59%
+ - **B1:** 71%
  - **B2:** 85%
- - **C1:** 95%
+ - **C1:** 88%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 406
- - **A2:** 460
- - **B1:** 872
- - **B2:** 1475
- - **C1:** 2009
- - **C2:** 1735
+ - **A1:** 629
+ - **A2:** 611
+ - **B1:** 1072
+ - **B2:** 1773
+ - **C1:** 760
+ - **C2:** 7145
+
+## Source
+
+
+<kbd>GUTHENBURGE:45304</kbd>
