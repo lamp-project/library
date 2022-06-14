@@ -1,4 +1,4 @@
-# An Index of The Divine Comedy by Dante <kbd>v2.0.2</kbd>
+# An Index of The Divine Comedy by Dante <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,21 +21,21 @@
 ## Readablility
 
 
- - **A1:** 41%
- - **A2:** 47%
- - **B1:** 60%
- - **B2:** 81%
+ - **A1:** 57%
+ - **A2:** 65%
+ - **B1:** 75%
+ - **B2:** 84%
  - **C1:** 86%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 160
- - **A2:** 106
- - **B1:** 158
- - **B2:** 153
- - **C1:** 39
+ - **A1:** 236
+ - **A2:** 116
+ - **B1:** 131
+ - **B2:** 112
+ - **C1:** 21
  - **C2:** 160
 
 ## Source
