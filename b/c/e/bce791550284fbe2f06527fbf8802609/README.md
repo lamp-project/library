@@ -1,4 +1,4 @@
-# An Inquiry into the Nature and Causes of the Wealth of Nations <kbd>GUTHENBURGE</kbd>
+# An Inquiry into the Nature and Causes of the Wealth of Nations <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,19 +19,24 @@
 ## Readablility
 
 
- - **A1:** 41%
- - **A2:** 54%
- - **B1:** 71%
- - **B2:** 85%
- - **C1:** 96%
+ - **A1:** 51%
+ - **A2:** 59%
+ - **B1:** 70%
+ - **B2:** 87%
+ - **C1:** 91%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 396
- - **A2:** 448
- - **B1:** 788
- - **B2:** 1319
- - **C1:** 1725
- - **C2:** 1372
+ - **A1:** 605
+ - **A2:** 592
+ - **B1:** 1011
+ - **B2:** 1699
+ - **C1:** 657
+ - **C2:** 5175
+
+## Source
+
+
+<kbd>GUTHENBURGE:3300</kbd>
