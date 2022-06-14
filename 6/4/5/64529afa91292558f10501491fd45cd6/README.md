@@ -1,4 +1,4 @@
-# Sense and Sensibility <kbd>GUTHENBURGE</kbd>
+# Sense and Sensibility <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -46,7 +46,7 @@
  - **C1:** 499
  - **C2:** 3075
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:161</kbd>
