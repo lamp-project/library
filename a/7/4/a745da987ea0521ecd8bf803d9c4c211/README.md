@@ -1,4 +1,4 @@
-# Pride and Prejudice <kbd>v2.0.5</kbd>
+# Pride and Prejudice <kbd>v2.0.6</kbd>
 
 ![](./cover.medium.jpg "")
 
