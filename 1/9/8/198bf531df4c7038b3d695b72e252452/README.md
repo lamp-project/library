@@ -1,4 +1,4 @@
-# A Doll's House : a play <kbd>v2.0.9</kbd>
+# A Doll's House : a play <kbd>v2.1.0</kbd>
 
 ![](./cover.medium.jpg "")
 
