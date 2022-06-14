@@ -1,4 +1,4 @@
-# The Prophet <kbd>GUTHENBURGE</kbd>
+# The Prophet <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 226
  - **C2:** 770
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:58585</kbd>
