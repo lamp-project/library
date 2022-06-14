@@ -1,4 +1,4 @@
-# Pride and Prejudice <kbd>GUTHENBURGE</kbd>
+# Pride and Prejudice <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -42,7 +42,7 @@
  - **C1:** 489
  - **C2:** 2989
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:1342</kbd>
