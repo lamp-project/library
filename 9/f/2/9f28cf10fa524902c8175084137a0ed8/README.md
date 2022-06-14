@@ -1,4 +1,4 @@
-# The Wonderful Wizard of Oz <kbd>GUTHENBURGE</kbd>
+# The Wonderful Wizard of Oz <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -49,7 +49,7 @@
  - **C1:** 264
  - **C2:** 1043
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:55</kbd>
