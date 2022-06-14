@@ -1,4 +1,4 @@
-# The War of the Worlds <kbd>GUTHENBURGE</kbd>
+# The War of the Worlds <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -42,7 +42,7 @@
  - **C1:** 540
  - **C2:** 3485
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:36</kbd>
