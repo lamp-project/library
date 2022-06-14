@@ -1,4 +1,4 @@
-# Essays of Michel de Montaigne — Complete <kbd>GUTHENBURGE</kbd>
+# Essays of Michel de Montaigne — Complete <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 1074
  - **C2:** 19858
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:3600</kbd>
