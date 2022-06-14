@@ -1,4 +1,4 @@
-# The Romance of Lust: A classic Victorian erotic novel <kbd>v2.0.9</kbd>
+# The Romance of Lust: A classic Victorian erotic novel <kbd>v2.1.0</kbd>
 
 ![](./cover.medium.jpg "")
 
