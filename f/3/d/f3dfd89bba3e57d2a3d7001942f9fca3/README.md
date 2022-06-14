@@ -1,4 +1,4 @@
-# The Souls of Black Folk <kbd>GUTHENBURGE</kbd>
+# The Souls of Black Folk <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -36,7 +36,7 @@
  - **C1:** 627
  - **C2:** 4360
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:408</kbd>
