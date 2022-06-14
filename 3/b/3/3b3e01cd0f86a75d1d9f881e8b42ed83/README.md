@@ -1,4 +1,4 @@
-# The Brothers Karamazov <kbd>GUTHENBURGE</kbd>
+# The Brothers Karamazov <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -40,7 +40,7 @@
  - **C1:** 876
  - **C2:** 7289
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:28054</kbd>
