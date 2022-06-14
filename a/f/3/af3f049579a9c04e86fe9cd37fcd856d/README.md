@@ -1,4 +1,4 @@
-# The Red Badge of Courage: An Episode of the American Civil War <kbd>GUTHENBURGE</kbd>
+# The Red Badge of Courage: An Episode of the American Civil War <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,19 +23,24 @@
 ## Readablility
 
 
- - **A1:** 40%
- - **A2:** 55%
- - **B1:** 70%
- - **B2:** 83%
- - **C1:** 94%
+ - **A1:** 49%
+ - **A2:** 56%
+ - **B1:** 66%
+ - **B2:** 81%
+ - **C1:** 85%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 388
- - **A2:** 415
- - **B1:** 703
- - **B2:** 1046
- - **C1:** 1150
- - **C2:** 810
+ - **A1:** 497
+ - **A2:** 467
+ - **B1:** 736
+ - **B2:** 1158
+ - **C1:** 493
+ - **C2:** 3250
+
+## Source
+
+
+<kbd>GUTHENBURGE:73</kbd>
