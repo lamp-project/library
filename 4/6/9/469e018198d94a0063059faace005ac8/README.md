@@ -1,4 +1,4 @@
-# The Social Cancer: A Complete English Version of Noli Me Tangere <kbd>v2.0.2</kbd>
+# The Social Cancer: A Complete English Version of Noli Me Tangere <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 51%
- - **A2:** 59%
- - **B1:** 69%
- - **B2:** 82%
+ - **A1:** 66%
+ - **A2:** 72%
+ - **B1:** 79%
+ - **B2:** 84%
  - **C1:** 86%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 654
- - **A2:** 686
- - **B1:** 1244
- - **B2:** 2115
- - **C1:** 969
- - **C2:** 7903
+ - **A1:** 917
+ - **A2:** 797
+ - **B1:** 1326
+ - **B2:** 1880
+ - **C1:** 748
+ - **C2:** 7906
 
 ## Source
 
