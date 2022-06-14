@@ -1,4 +1,4 @@
-# Alice's Adventures in Wonderland <kbd>v2.0.6</kbd>
+# Alice's Adventures in Wonderland <kbd>v2.0.7</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 0%
- - **A2:** 0%
- - **B1:** 0%
- - **B2:** 0%
- - **C1:** 0%
+ - **A1:** 72%
+ - **A2:** 77%
+ - **B1:** 83%
+ - **B2:** 88%
+ - **C1:** 89%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 0
- - **A2:** 0
- - **B1:** 0
- - **B2:** 0
- - **C1:** 0
- - **C2:** 3091
+ - **A1:** 650
+ - **A2:** 376
+ - **B1:** 487
+ - **B2:** 461
+ - **C1:** 146
+ - **C2:** 971
 
 ## Source
 
