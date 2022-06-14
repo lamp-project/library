@@ -1,4 +1,4 @@
-# Japanese Girls and Women: Revised and Enlarged Edition <kbd>GUTHENBURGE</kbd>
+# Japanese Girls and Women: Revised and Enlarged Edition <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 699
  - **C2:** 3977
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:32449</kbd>
