@@ -1,4 +1,4 @@
-# Autobiography of Benjamin Franklin <kbd>v2.0.2</kbd>
+# Autobiography of Benjamin Franklin <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,21 +20,21 @@
 ## Readablility
 
 
- - **A1:** 52%
- - **A2:** 59%
- - **B1:** 70%
- - **B2:** 84%
+ - **A1:** 68%
+ - **A2:** 74%
+ - **B1:** 80%
+ - **B2:** 86%
  - **C1:** 87%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 578
- - **A2:** 519
- - **B1:** 920
- - **B2:** 1362
- - **C1:** 533
+ - **A1:** 812
+ - **A2:** 606
+ - **B1:** 939
+ - **B2:** 1168
+ - **C1:** 388
  - **C2:** 3894
 
 ## Source
