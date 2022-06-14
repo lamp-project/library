@@ -1,4 +1,4 @@
-# The Happy Prince, and Other Tales <kbd>GUTHENBURGE</kbd>
+# The Happy Prince, and Other Tales <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 191
  - **C2:** 780
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:902</kbd>
