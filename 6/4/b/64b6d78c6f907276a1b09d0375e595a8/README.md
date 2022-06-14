@@ -1,4 +1,4 @@
-# The Life and Adventures of Robinson Crusoe <kbd>GUTHENBURGE</kbd>
+# The Life and Adventures of Robinson Crusoe <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -41,7 +41,7 @@
  - **C1:** 519
  - **C2:** 2791
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:521</kbd>
