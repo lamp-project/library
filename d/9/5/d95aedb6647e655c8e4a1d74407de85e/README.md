@@ -1,4 +1,4 @@
-# The Jungle Book <kbd>GUTHENBURGE</kbd>
+# The Jungle Book <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -44,7 +44,7 @@
  - **C1:** 395
  - **C2:** 2256
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:236</kbd>
