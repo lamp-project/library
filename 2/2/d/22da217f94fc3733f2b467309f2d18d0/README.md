@@ -1,4 +1,4 @@
-# The Ladies' Book of Etiquette, and Manual of Politeness: A Complete Hand Book for the Use of the Lady in Polite Society <kbd>v2.0.2</kbd>
+# The Ladies' Book of Etiquette, and Manual of Politeness: A Complete Hand Book for the Use of the Lady in Polite Society <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,21 +21,21 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 58%
- - **B1:** 70%
- - **B2:** 85%
+ - **A1:** 66%
+ - **A2:** 74%
+ - **B1:** 81%
+ - **B2:** 87%
  - **C1:** 89%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 566
- - **A2:** 569
- - **B1:** 931
- - **B2:** 1542
- - **C1:** 634
+ - **A1:** 814
+ - **A2:** 655
+ - **B1:** 964
+ - **B2:** 1339
+ - **C1:** 471
  - **C2:** 3747
 
 ## Source
