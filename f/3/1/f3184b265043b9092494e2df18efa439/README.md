@@ -1,4 +1,4 @@
-# Narrative of the Life of Frederick Douglass, an American Slave <kbd>v2.0.2</kbd>
+# Narrative of the Life of Frederick Douglass, an American Slave <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,21 +22,21 @@
 ## Readablility
 
 
- - **A1:** 54%
- - **A2:** 61%
- - **B1:** 71%
- - **B2:** 85%
+ - **A1:** 70%
+ - **A2:** 75%
+ - **B1:** 81%
+ - **B2:** 87%
  - **C1:** 89%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 530
- - **A2:** 459
- - **B1:** 749
- - **B2:** 1065
- - **C1:** 431
+ - **A1:** 752
+ - **A2:** 524
+ - **B1:** 767
+ - **B2:** 892
+ - **C1:** 300
  - **C2:** 2210
 
 ## Source
