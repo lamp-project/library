@@ -1,4 +1,4 @@
-# The Mysterious Affair at Styles <kbd>v2.0.2</kbd>
+# The Mysterious Affair at Styles <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,21 +22,21 @@
 ## Readablility
 
 
- - **A1:** 52%
- - **A2:** 60%
- - **B1:** 71%
- - **B2:** 83%
+ - **A1:** 69%
+ - **A2:** 75%
+ - **B1:** 80%
+ - **B2:** 85%
  - **C1:** 86%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 541
- - **A2:** 484
- - **B1:** 744
- - **B2:** 1109
- - **C1:** 435
+ - **A1:** 761
+ - **A2:** 555
+ - **B1:** 757
+ - **B2:** 931
+ - **C1:** 310
  - **C2:** 2376
 
 ## Source
