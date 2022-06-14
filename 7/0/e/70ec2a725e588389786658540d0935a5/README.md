@@ -1,4 +1,4 @@
-# The Romance of Lust: A classic Victorian erotic novel <kbd>v2.0.2</kbd>
+# The Romance of Lust: A classic Victorian erotic novel <kbd>v2.0.7</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -24,22 +24,22 @@
 ## Readablility
 
 
- - **A1:** 54%
- - **A2:** 61%
- - **B1:** 71%
- - **B2:** 84%
+ - **A1:** 69%
+ - **A2:** 75%
+ - **B1:** 81%
+ - **B2:** 86%
  - **C1:** 88%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 588
- - **A2:** 550
- - **B1:** 940
- - **B2:** 1506
- - **C1:** 659
- - **C2:** 4295
+ - **A1:** 833
+ - **A2:** 640
+ - **B1:** 970
+ - **B2:** 1309
+ - **C1:** 491
+ - **C2:** 4298
 
 ## Source
 
