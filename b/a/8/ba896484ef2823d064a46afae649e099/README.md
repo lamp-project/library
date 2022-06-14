@@ -1,4 +1,4 @@
-# Autobiography of Benjamin Franklin <kbd>GUTHENBURGE</kbd>
+# Autobiography of Benjamin Franklin <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 533
  - **C2:** 3894
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:20203</kbd>
