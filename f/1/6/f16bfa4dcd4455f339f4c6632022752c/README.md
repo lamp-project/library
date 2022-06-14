@@ -1,4 +1,4 @@
-# Alice's Adventures in Wonderland <kbd>GUTHENBURGE</kbd>
+# Alice's Adventures in Wonderland <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 240
  - **C2:** 968
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:11</kbd>
