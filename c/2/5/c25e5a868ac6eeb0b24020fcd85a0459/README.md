@@ -1,4 +1,4 @@
-# War and Peace <kbd>v2.0.9</kbd>
+# War and Peace <kbd>v2.1.0</kbd>
 
 ![](./cover.medium.jpg "")
 
