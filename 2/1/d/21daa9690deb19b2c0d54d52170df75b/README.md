@@ -1,4 +1,4 @@
-# Twenty Thousand Leagues under the Sea <kbd>v2.0.2</kbd>
+# Twenty Thousand Leagues under the Sea <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,21 +23,21 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 57%
- - **B1:** 69%
- - **B2:** 84%
+ - **A1:** 65%
+ - **A2:** 71%
+ - **B1:** 79%
+ - **B2:** 86%
  - **C1:** 87%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 560
- - **A2:** 548
- - **B1:** 966
- - **B2:** 1572
- - **C1:** 653
+ - **A1:** 801
+ - **A2:** 636
+ - **B1:** 1010
+ - **B2:** 1375
+ - **C1:** 478
  - **C2:** 4702
 
 ## Source
