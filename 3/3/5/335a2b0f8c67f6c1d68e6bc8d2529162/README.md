@@ -1,4 +1,4 @@
-# Beyond Good and Evil <kbd>v2.0.7</kbd>
+# Beyond Good and Evil <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
