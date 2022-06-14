@@ -1,4 +1,4 @@
-# Tess of the d'Urbervilles: A Pure Woman <kbd>v2.0.2</kbd>
+# Tess of the d'Urbervilles: A Pure Woman <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -29,22 +29,22 @@
 ## Readablility
 
 
- - **A1:** 53%
- - **A2:** 60%
- - **B1:** 70%
- - **B2:** 83%
+ - **A1:** 69%
+ - **A2:** 75%
+ - **B1:** 80%
+ - **B2:** 85%
  - **C1:** 87%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 631
- - **A2:** 612
- - **B1:** 1115
- - **B2:** 1881
- - **C1:** 849
- - **C2:** 7508
+ - **A1:** 883
+ - **A2:** 713
+ - **B1:** 1164
+ - **B2:** 1679
+ - **C1:** 649
+ - **C2:** 7511
 
 ## Source
 
