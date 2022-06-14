@@ -1,4 +1,4 @@
-# The Decameron of Giovanni Boccaccio <kbd>GUTHENBURGE</kbd>
+# The Decameron of Giovanni Boccaccio <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,19 +23,24 @@
 ## Readablility
 
 
- - **A1:** 52%
- - **A2:** 64%
- - **B1:** 75%
- - **B2:** 86%
- - **C1:** 95%
+ - **A1:** 53%
+ - **A2:** 60%
+ - **B1:** 69%
+ - **B2:** 81%
+ - **C1:** 84%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 407
- - **A2:** 472
- - **B1:** 875
- - **B2:** 1434
- - **C1:** 1876
- - **C2:** 1818
+ - **A1:** 591
+ - **A2:** 548
+ - **B1:** 971
+ - **B2:** 1593
+ - **C1:** 699
+ - **C2:** 8830
+
+## Source
+
+
+<kbd>GUTHENBURGE:23700</kbd>
