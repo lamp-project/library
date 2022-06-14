@@ -1,4 +1,4 @@
-# Divine Comedy, Longfellow's Translation, Hell <kbd>v2.0.2</kbd>
+# Divine Comedy, Longfellow's Translation, Hell <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 57%
- - **B1:** 67%
- - **B2:** 80%
+ - **A1:** 66%
+ - **A2:** 71%
+ - **B1:** 77%
+ - **B2:** 82%
  - **C1:** 84%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 469
- - **A2:** 357
- - **B1:** 582
- - **B2:** 864
- - **C1:** 397
- - **C2:** 3043
+ - **A1:** 681
+ - **A2:** 415
+ - **B1:** 576
+ - **B2:** 717
+ - **C1:** 282
+ - **C2:** 3041
 
 ## Source
 
