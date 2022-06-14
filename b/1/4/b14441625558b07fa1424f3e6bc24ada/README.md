@@ -1,4 +1,4 @@
-# Tess of the d'Urbervilles: A Pure Woman <kbd>GUTHENBURGE</kbd>
+# Tess of the d'Urbervilles: A Pure Woman <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -46,7 +46,7 @@
  - **C1:** 849
  - **C2:** 7508
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:110</kbd>
