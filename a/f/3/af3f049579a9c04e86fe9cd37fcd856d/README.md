@@ -1,4 +1,4 @@
-# The Red Badge of Courage: An Episode of the American Civil War <kbd>v2.0.2</kbd>
+# The Red Badge of Courage: An Episode of the American Civil War <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 56%
- - **B1:** 66%
- - **B2:** 81%
+ - **A1:** 64%
+ - **A2:** 70%
+ - **B1:** 77%
+ - **B2:** 83%
  - **C1:** 85%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 497
- - **A2:** 467
- - **B1:** 736
- - **B2:** 1158
- - **C1:** 493
- - **C2:** 3250
+ - **A1:** 711
+ - **A2:** 534
+ - **B1:** 750
+ - **B2:** 1006
+ - **C1:** 350
+ - **C2:** 3251
 
 ## Source
 
