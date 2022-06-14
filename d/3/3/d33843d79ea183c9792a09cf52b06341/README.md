@@ -1,4 +1,4 @@
-# Leviathan <kbd>GUTHENBURGE</kbd>
+# Leviathan <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 539
  - **C2:** 6146
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:3207</kbd>
