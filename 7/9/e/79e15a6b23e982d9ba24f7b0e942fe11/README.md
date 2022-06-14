@@ -1,4 +1,4 @@
-# The History of the Peloponnesian War <kbd>v2.0.2</kbd>
+# The History of the Peloponnesian War <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 54%
- - **A2:** 61%
- - **B1:** 71%
- - **B2:** 84%
+ - **A1:** 69%
+ - **A2:** 75%
+ - **B1:** 81%
+ - **B2:** 86%
  - **C1:** 88%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 601
- - **A2:** 583
- - **B1:** 1003
- - **B2:** 1623
- - **C1:** 654
- - **C2:** 5380
+ - **A1:** 844
+ - **A2:** 676
+ - **B1:** 1040
+ - **B2:** 1408
+ - **C1:** 498
+ - **C2:** 5378
 
 ## Source
 
