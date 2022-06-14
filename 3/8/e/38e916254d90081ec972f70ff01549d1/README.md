@@ -1,4 +1,4 @@
-# Walden, and On The Duty Of Civil Disobedience <kbd>v2.0.2</kbd>
+# Walden, and On The Duty Of Civil Disobedience <kbd>v2.0.7</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -26,21 +26,21 @@
 ## Readablility
 
 
- - **A1:** 52%
- - **A2:** 59%
- - **B1:** 71%
- - **B2:** 85%
+ - **A1:** 69%
+ - **A2:** 75%
+ - **B1:** 81%
+ - **B2:** 88%
  - **C1:** 89%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 647
- - **A2:** 624
- - **B1:** 1169
- - **B2:** 1900
- - **C1:** 807
+ - **A1:** 902
+ - **A2:** 716
+ - **B1:** 1227
+ - **B2:** 1689
+ - **C1:** 614
  - **C2:** 6202
 
 ## Source
