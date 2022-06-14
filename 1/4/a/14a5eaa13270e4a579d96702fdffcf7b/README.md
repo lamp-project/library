@@ -1,4 +1,4 @@
-# Japanese Girls and Women: Revised and Enlarged Edition <kbd>v2.0.2</kbd>
+# Japanese Girls and Women: Revised and Enlarged Edition <kbd>v2.0.7</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 53%
- - **A2:** 61%
- - **B1:** 71%
- - **B2:** 86%
+ - **A1:** 69%
+ - **A2:** 76%
+ - **B1:** 82%
+ - **B2:** 88%
  - **C1:** 90%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 629
- - **A2:** 658
- - **B1:** 1074
- - **B2:** 1673
- - **C1:** 699
- - **C2:** 3977
+ - **A1:** 892
+ - **A2:** 757
+ - **B1:** 1119
+ - **B2:** 1446
+ - **C1:** 519
+ - **C2:** 3978
 
 ## Source
 
