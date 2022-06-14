@@ -1,4 +1,4 @@
-# Hamlet, Prince of Denmark <kbd>GUTHENBURGE</kbd>
+# Hamlet, Prince of Denmark <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -26,19 +26,24 @@
 ## Readablility
 
 
- - **A1:** 48%
- - **A2:** 60%
- - **B1:** 73%
- - **B2:** 85%
- - **C1:** 95%
+ - **A1:** 46%
+ - **A2:** 53%
+ - **B1:** 63%
+ - **B2:** 77%
+ - **C1:** 81%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 374
- - **A2:** 361
- - **B1:** 572
- - **B2:** 756
- - **C1:** 767
- - **C2:** 580
+ - **A1:** 478
+ - **A2:** 345
+ - **B1:** 562
+ - **B2:** 875
+ - **C1:** 344
+ - **C2:** 2817
+
+## Source
+
+
+<kbd>GUTHENBURGE:1524</kbd>
