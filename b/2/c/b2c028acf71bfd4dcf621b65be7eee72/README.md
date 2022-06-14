@@ -1,4 +1,4 @@
-# The Hound of the Baskervilles <kbd>v2.0.9</kbd>
+# The Hound of the Baskervilles <kbd>v2.1.0</kbd>
 
 ![](./cover.medium.jpg "")
 
