@@ -1,4 +1,4 @@
-# The Romance of Lust: A classic Victorian erotic novel <kbd>GUTHENBURGE</kbd>
+# The Romance of Lust: A classic Victorian erotic novel <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -41,7 +41,7 @@
  - **C1:** 659
  - **C2:** 4295
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:30254</kbd>
