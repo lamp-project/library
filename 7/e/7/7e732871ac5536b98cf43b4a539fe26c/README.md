@@ -1,4 +1,4 @@
-# The Secret Garden <kbd>GUTHENBURGE</kbd>
+# The Secret Garden <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 401
  - **C2:** 2403
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:113</kbd>
