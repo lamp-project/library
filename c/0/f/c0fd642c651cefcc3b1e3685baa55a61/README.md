@@ -1,4 +1,4 @@
-# The Art of War <kbd>GUTHENBURGE</kbd>
+# The Art of War <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 512
  - **C2:** 3097
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:132</kbd>
