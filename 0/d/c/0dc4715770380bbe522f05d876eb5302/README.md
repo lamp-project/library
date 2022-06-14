@@ -1,4 +1,4 @@
-# The American Diary of a Japanese Girl <kbd>GUTHENBURGE</kbd>
+# The American Diary of a Japanese Girl <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 517
  - **C2:** 2959
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:63256</kbd>
