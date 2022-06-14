@@ -1,4 +1,4 @@
-# Cookery and Dining in Imperial Rome <kbd>GUTHENBURGE</kbd>
+# Cookery and Dining in Imperial Rome <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 576
  - **C2:** 8377
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:29728</kbd>
