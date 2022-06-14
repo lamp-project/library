@@ -1,4 +1,4 @@
-# A Very Naughty Girl <kbd>GUTHENBURGE</kbd>
+# A Very Naughty Girl <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -40,7 +40,7 @@
  - **C1:** 468
  - **C2:** 2497
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:36853</kbd>
