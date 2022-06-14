@@ -1,4 +1,4 @@
-# Thus Spake Zarathustra: A Book for All and None <kbd>GUTHENBURGE</kbd>
+# Thus Spake Zarathustra: A Book for All and None <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 644
  - **C2:** 5533
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:1998</kbd>
