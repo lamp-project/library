@@ -1,4 +1,4 @@
-# Complete Original Short Stories of Guy De Maupassant <kbd>GUTHENBURGE</kbd>
+# Complete Original Short Stories of Guy De Maupassant <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,19 +23,24 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 63%
- - **B1:** 76%
- - **B2:** 87%
- - **C1:** 96%
+ - **A1:** 56%
+ - **A2:** 62%
+ - **B1:** 73%
+ - **B2:** 86%
+ - **C1:** 90%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 408
- - **A2:** 489
- - **B1:** 971
- - **B2:** 1894
- - **C1:** 3138
- - **C2:** 3516
+ - **A1:** 672
+ - **A2:** 723
+ - **B1:** 1395
+ - **B2:** 2501
+ - **C1:** 1178
+ - **C2:** 12122
+
+## Source
+
+
+<kbd>GUTHENBURGE:3090</kbd>
