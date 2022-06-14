@@ -1,4 +1,4 @@
-# Birds from North Borneo: University of Kansas Publications, Museum of Natural History, Volume 17, No. 8, pp. 377-433, October 27, 1966 <kbd>v2.0.2</kbd>
+# Birds from North Borneo: University of Kansas Publications, Museum of Natural History, Volume 17, No. 8, pp. 377-433, October 27, 1966 <kbd>v2.0.7</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 30%
- - **A2:** 38%
- - **B1:** 52%
- - **B2:** 65%
+ - **A1:** 42%
+ - **A2:** 49%
+ - **B1:** 62%
+ - **B2:** 67%
  - **C1:** 68%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 332
- - **A2:** 277
- - **B1:** 401
- - **B2:** 525
- - **C1:** 172
- - **C2:** 1968
+ - **A1:** 493
+ - **A2:** 317
+ - **B1:** 379
+ - **B2:** 413
+ - **C1:** 105
+ - **C2:** 1969
 
 ## Source
 
