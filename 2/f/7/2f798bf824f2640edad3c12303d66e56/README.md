@@ -1,4 +1,4 @@
-# The Mysterious Affair at Styles <kbd>GUTHENBURGE</kbd>
+# The Mysterious Affair at Styles <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 435
  - **C2:** 2376
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:863</kbd>
