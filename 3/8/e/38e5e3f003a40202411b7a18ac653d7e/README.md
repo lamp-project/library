@@ -1,4 +1,4 @@
-# The Reign of Greed <kbd>GUTHENBURGE</kbd>
+# The Reign of Greed <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 831
  - **C2:** 6212
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:10676</kbd>
