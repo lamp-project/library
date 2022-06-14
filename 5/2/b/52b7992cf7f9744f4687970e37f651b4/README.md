@@ -1,4 +1,4 @@
-# Anthem <kbd>GUTHENBURGE</kbd>
+# Anthem <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -41,7 +41,7 @@
  - **C1:** 200
  - **C2:** 548
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:1250</kbd>
