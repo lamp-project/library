@@ -1,4 +1,4 @@
-# The Complete Herbal: To which is now added, upwards of one hundred additional herbs, with a display of their medicinal and occult qualities physically applied to the cure of all disorders incident to mankind: to which are now first annexed, the English physician enlarged, and key to Physic. <kbd>GUTHENBURGE</kbd>
+# The Complete Herbal: To which is now added, upwards of one hundred additional herbs, with a display of their medicinal and occult qualities physically applied to the cure of all disorders incident to mankind: to which are now first annexed, the English physician enlarged, and key to Physic. <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -24,19 +24,24 @@
 ## Readablility
 
 
- - **A1:** 41%
- - **A2:** 54%
- - **B1:** 65%
- - **B2:** 79%
- - **C1:** 91%
+ - **A1:** 44%
+ - **A2:** 51%
+ - **B1:** 62%
+ - **B2:** 76%
+ - **C1:** 80%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 391
- - **A2:** 394
- - **B1:** 649
- - **B2:** 926
- - **C1:** 1050
- - **C2:** 1011
+ - **A1:** 515
+ - **A2:** 457
+ - **B1:** 752
+ - **B2:** 1186
+ - **C1:** 460
+ - **C2:** 6655
+
+## Source
+
+
+<kbd>GUTHENBURGE:49513</kbd>
