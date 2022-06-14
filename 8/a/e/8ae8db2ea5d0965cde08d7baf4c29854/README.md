@@ -1,4 +1,4 @@
-# A Study in Scarlet <kbd>GUTHENBURGE</kbd>
+# A Study in Scarlet <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 460
  - **C2:** 2707
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:244</kbd>
