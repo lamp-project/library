@@ -1,4 +1,4 @@
-# Winnie-the-Pooh <kbd>GUTHENBURGE</kbd>
+# Winnie-the-Pooh <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -41,7 +41,7 @@
  - **C1:** 175
  - **C2:** 679
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:67098</kbd>
