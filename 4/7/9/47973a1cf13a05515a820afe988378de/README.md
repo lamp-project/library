@@ -1,4 +1,4 @@
-# Frankenstein; Or, The Modern Prometheus <kbd>v2.0.6</kbd>
+# Frankenstein; Or, The Modern Prometheus <kbd>v2.0.7</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -25,22 +25,22 @@
 ## Readablility
 
 
- - **A1:** 0%
- - **A2:** 0%
- - **B1:** 0%
- - **B2:** 0%
- - **C1:** 0%
+ - **A1:** 67%
+ - **A2:** 73%
+ - **B1:** 80%
+ - **B2:** 87%
+ - **C1:** 88%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 0
- - **A2:** 0
- - **B1:** 0
- - **B2:** 0
- - **C1:** 0
- - **C2:** 7324
+ - **A1:** 784
+ - **A2:** 601
+ - **B1:** 884
+ - **B2:** 1195
+ - **C1:** 394
+ - **C2:** 3466
 
 ## Source
 
