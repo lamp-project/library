@@ -1,4 +1,4 @@
-# Simple Sabotage Field Manual <kbd>GUTHENBURGE</kbd>
+# Simple Sabotage Field Manual <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -36,7 +36,7 @@
  - **C1:** 207
  - **C2:** 735
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:26184</kbd>
