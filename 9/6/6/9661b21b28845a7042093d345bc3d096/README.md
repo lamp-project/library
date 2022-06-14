@@ -1,4 +1,4 @@
-# Peter Pan <kbd>v2.0.9</kbd>
+# Peter Pan <kbd>v2.1.0</kbd>
 
 ![](./cover.medium.jpg "")
 
