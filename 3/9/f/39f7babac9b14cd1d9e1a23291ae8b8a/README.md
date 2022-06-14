@@ -1,4 +1,4 @@
-# The Scarlet Letter <kbd>GUTHENBURGE</kbd>
+# The Scarlet Letter <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -46,7 +46,7 @@
  - **C1:** 657
  - **C2:** 4723
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:25344</kbd>
