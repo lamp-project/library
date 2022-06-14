@@ -1,4 +1,4 @@
-# The Legend of Sleepy Hollow <kbd>GUTHENBURGE</kbd>
+# The Legend of Sleepy Hollow <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 266
  - **C2:** 1526
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:41</kbd>
