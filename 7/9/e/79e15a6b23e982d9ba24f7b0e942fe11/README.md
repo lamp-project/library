@@ -1,4 +1,4 @@
-# The History of the Peloponnesian War <kbd>GUTHENBURGE</kbd>
+# The History of the Peloponnesian War <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 654
  - **C2:** 5380
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:7142</kbd>
