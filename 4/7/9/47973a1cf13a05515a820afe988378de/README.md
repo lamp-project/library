@@ -1,4 +1,4 @@
-# Frankenstein; Or, The Modern Prometheus <kbd>v2.0.5</kbd>
+# Frankenstein; Or, The Modern Prometheus <kbd>v2.0.6</kbd>
 
 ![](./cover.medium.jpg "")
 
