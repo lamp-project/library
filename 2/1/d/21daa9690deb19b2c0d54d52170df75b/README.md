@@ -1,4 +1,4 @@
-# Twenty Thousand Leagues under the Sea <kbd>GUTHENBURGE</kbd>
+# Twenty Thousand Leagues under the Sea <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -40,7 +40,7 @@
  - **C1:** 653
  - **C2:** 4702
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:164</kbd>
