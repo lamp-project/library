@@ -1,4 +1,4 @@
-# Birds from North Borneo: University of Kansas Publications, Museum of Natural History, Volume 17, No. 8, pp. 377-433, October 27, 1966 <kbd>GUTHENBURGE</kbd>
+# Birds from North Borneo: University of Kansas Publications, Museum of Natural History, Volume 17, No. 8, pp. 377-433, October 27, 1966 <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -36,7 +36,7 @@
  - **C1:** 172
  - **C2:** 1968
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:33044</kbd>
