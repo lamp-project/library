@@ -1,4 +1,4 @@
-# The Importance of Being Earnest: A Trivial Comedy for Serious People <kbd>GUTHENBURGE</kbd>
+# The Importance of Being Earnest: A Trivial Comedy for Serious People <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 221
  - **C2:** 964
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:844</kbd>
