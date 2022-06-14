@@ -1,4 +1,4 @@
-# Walden, and On The Duty Of Civil Disobedience <kbd>v2.0.7</kbd>
+# Walden, and On The Duty Of Civil Disobedience <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
