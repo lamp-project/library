@@ -1,4 +1,4 @@
-# Second Treatise of Government <kbd>GUTHENBURGE</kbd>
+# Second Treatise of Government <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 322
  - **C2:** 2172
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:7370</kbd>
