@@ -1,4 +1,4 @@
-# Les Misérables <kbd>GUTHENBURGE</kbd>
+# Les Misérables <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -41,7 +41,7 @@
  - **C1:** 1248
  - **C2:** 16792
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:135</kbd>
