@@ -1,4 +1,4 @@
-# The Yellow Wallpaper <kbd>GUTHENBURGE</kbd>
+# The Yellow Wallpaper <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -40,7 +40,7 @@
  - **C1:** 121
  - **C2:** 440
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:1952</kbd>
