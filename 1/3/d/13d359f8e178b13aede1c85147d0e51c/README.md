@@ -1,4 +1,4 @@
-# A Portrait of the Artist as a Young Man <kbd>GUTHENBURGE</kbd>
+# A Portrait of the Artist as a Young Man <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -40,7 +40,7 @@
  - **C1:** 649
  - **C2:** 5464
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:4217</kbd>
