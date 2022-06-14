@@ -1,4 +1,4 @@
-# Notes from the Underground <kbd>GUTHENBURGE</kbd>
+# Notes from the Underground <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
  - **C1:** 409
  - **C2:** 2141
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:600</kbd>
