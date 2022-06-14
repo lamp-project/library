@@ -1,4 +1,4 @@
-# Wuthering Heights <kbd>GUTHENBURGE</kbd>
+# Wuthering Heights <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -45,7 +45,7 @@
  - **C1:** 738
  - **C2:** 5263
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:768</kbd>
