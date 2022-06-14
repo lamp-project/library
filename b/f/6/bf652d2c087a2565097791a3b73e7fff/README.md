@@ -1,4 +1,4 @@
-# The Picture of Dorian Gray <kbd>GUTHENBURGE</kbd>
+# The Picture of Dorian Gray <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -43,7 +43,7 @@
  - **C1:** 509
  - **C2:** 3589
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:174</kbd>
