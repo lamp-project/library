@@ -1,4 +1,4 @@
-# The Kama Sutra of Vatsyayana: Translated From the Sanscrit in Seven Parts With Preface, Introduction and Concluding Remarks <kbd>v2.0.7</kbd>
+# The Kama Sutra of Vatsyayana: Translated From the Sanscrit in Seven Parts With Preface, Introduction and Concluding Remarks <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
