@@ -1,4 +1,4 @@
-# The Great Gatsby <kbd>GUTHENBURGE</kbd>
+# The Great Gatsby <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -40,7 +40,7 @@
  - **C1:** 472
  - **C2:** 2883
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:64317</kbd>
