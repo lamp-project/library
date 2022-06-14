@@ -1,4 +1,4 @@
-# Romeo and Juliet <kbd>GUTHENBURGE</kbd>
+# Romeo and Juliet <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -42,7 +42,7 @@
  - **C1:** 283
  - **C2:** 2171
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:1513</kbd>
