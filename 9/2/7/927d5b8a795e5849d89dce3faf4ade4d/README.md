@@ -1,4 +1,4 @@
-# Master and Man <kbd>GUTHENBURGE</kbd>
+# Master and Man <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -40,7 +40,7 @@
  - **C1:** 236
  - **C2:** 1105
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:986</kbd>
