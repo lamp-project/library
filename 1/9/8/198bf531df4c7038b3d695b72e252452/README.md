@@ -1,4 +1,4 @@
-# A Doll's House : a play <kbd>GUTHENBURGE</kbd>
+# A Doll's House : a play <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 206
  - **C2:** 786
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:2542</kbd>
