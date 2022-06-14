@@ -1,4 +1,4 @@
-# Moby Dick; Or, The Whale <kbd>GUTHENBURGE</kbd>
+# Moby Dick; Or, The Whale <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -44,7 +44,7 @@
  - **C1:** 1054
  - **C2:** 11874
 
-## Tagger Version
+## Source
 
 
-v2.0.2
+<kbd>GUTHENBURGE:2701</kbd>
