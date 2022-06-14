@@ -1,4 +1,4 @@
-# The Man with Two Left Feet, and Other Stories <kbd>v2.0.2</kbd>
+# The Man with Two Left Feet, and Other Stories <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 55%
- - **A2:** 61%
- - **B1:** 71%
- - **B2:** 83%
+ - **A1:** 70%
+ - **A2:** 76%
+ - **B1:** 81%
+ - **B2:** 85%
  - **C1:** 86%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 581
- - **A2:** 541
- - **B1:** 900
- - **B2:** 1392
- - **C1:** 568
- - **C2:** 3658
+ - **A1:** 821
+ - **A2:** 625
+ - **B1:** 933
+ - **B2:** 1199
+ - **C1:** 404
+ - **C2:** 3662
 
 ## Source
 
