@@ -1,4 +1,4 @@
-# Oliver Twist <kbd>GUTHENBURGE</kbd>
+# Oliver Twist <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -41,7 +41,7 @@
  - **C1:** 786
  - **C2:** 5879
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:730</kbd>
