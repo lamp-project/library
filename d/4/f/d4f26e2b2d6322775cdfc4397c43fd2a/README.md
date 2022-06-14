@@ -1,4 +1,4 @@
-# Jane Eyre: An Autobiography <kbd>GUTHENBURGE</kbd>
+# Jane Eyre: An Autobiography <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -46,7 +46,7 @@
  - **C1:** 862
  - **C2:** 7877
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:1260</kbd>
