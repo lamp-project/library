@@ -1,4 +1,4 @@
-# Uncle Tom's Cabin <kbd>GUTHENBURGE</kbd>
+# Uncle Tom's Cabin <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -45,7 +45,7 @@
  - **C1:** 833
  - **C2:** 6947
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:203</kbd>
