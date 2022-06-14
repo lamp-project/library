@@ -1,4 +1,4 @@
-# War and Peace <kbd>GUTHENBURGE</kbd>
+# War and Peace <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -42,7 +42,7 @@
  - **C1:** 1165
  - **C2:** 11897
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:2600</kbd>
