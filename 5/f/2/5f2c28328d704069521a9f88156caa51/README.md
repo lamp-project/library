@@ -1,4 +1,4 @@
-# Dubliners <kbd>GUTHENBURGE</kbd>
+# Dubliners <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
  - **C1:** 575
  - **C2:** 3947
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:2814</kbd>
