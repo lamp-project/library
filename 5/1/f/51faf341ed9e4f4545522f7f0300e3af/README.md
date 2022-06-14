@@ -1,4 +1,4 @@
-# On Liberty <kbd>GUTHENBURGE</kbd>
+# On Liberty <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -36,7 +36,7 @@
  - **C1:** 453
  - **C2:** 2554
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:34901</kbd>
