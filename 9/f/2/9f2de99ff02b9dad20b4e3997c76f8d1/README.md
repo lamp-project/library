@@ -1,4 +1,4 @@
-# Anne of Green Gables <kbd>v2.0.7</kbd>
+# Anne of Green Gables <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
