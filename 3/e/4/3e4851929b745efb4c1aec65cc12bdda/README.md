@@ -1,4 +1,4 @@
-# The Complete Works of William Shakespeare <kbd>GUTHENBURGE</kbd>
+# The Complete Works of William Shakespeare <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -36,7 +36,7 @@
  - **C1:** 1157
  - **C2:** 24191
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:100</kbd>
