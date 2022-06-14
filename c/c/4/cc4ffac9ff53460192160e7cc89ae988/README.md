@@ -1,4 +1,4 @@
-# Ulysses <kbd>v2.0.7</kbd>
+# Ulysses <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
