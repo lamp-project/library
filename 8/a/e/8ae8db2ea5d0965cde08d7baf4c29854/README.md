@@ -1,4 +1,4 @@
-# A Study in Scarlet <kbd>v2.0.7</kbd>
+# A Study in Scarlet <kbd>v2.0.9</kbd>
 
 ![](./cover.medium.jpg "")
 
