@@ -1,4 +1,4 @@
-# Gulliver's Travels into Several Remote Nations of the World <kbd>GUTHENBURGE</kbd>
+# Gulliver's Travels into Several Remote Nations of the World <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -40,7 +40,7 @@
  - **C1:** 649
  - **C2:** 4128
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:829</kbd>
