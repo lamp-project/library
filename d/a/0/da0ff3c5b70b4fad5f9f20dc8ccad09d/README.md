@@ -1,4 +1,4 @@
-# Poirot Investigates <kbd>GUTHENBURGE</kbd>
+# Poirot Investigates <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
  - **C1:** 488
  - **C2:** 2729
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:61262</kbd>
