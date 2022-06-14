@@ -1,4 +1,4 @@
-# The Republic <kbd>GUTHENBURGE</kbd>
+# The Republic <kbd>v2.0.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -40,7 +40,7 @@
  - **C1:** 752
  - **C2:** 5694
 
-## Tagger Version
+## Source
 
 
-v2.0.0
+<kbd>GUTHENBURGE:1497</kbd>
