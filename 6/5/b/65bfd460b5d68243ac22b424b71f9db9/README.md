@@ -1,4 +1,4 @@
-# She Stoops to Conquer; Or, The Mistakes of a Night: A Comedy <kbd>v2.0.2</kbd>
+# She Stoops to Conquer; Or, The Mistakes of a Night: A Comedy <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 56%
- - **B1:** 66%
- - **B2:** 80%
- - **C1:** 83%
+ - **A1:** 76%
+ - **A2:** 82%
+ - **B1:** 87%
+ - **B2:** 92%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 437
- - **A2:** 315
- - **B1:** 505
- - **B2:** 655
- - **C1:** 266
- - **C2:** 1351
+ - **A1:** 460
+ - **A2:** 351
+ - **B1:** 485
+ - **B2:** 631
+ - **C1:** 583
+ - **C2:** 285
 
 ## Source
 
