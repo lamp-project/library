@@ -1,4 +1,4 @@
-# Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson <kbd>v2.0.2</kbd>
+# Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 57%
- - **A2:** 64%
- - **B1:** 75%
- - **B2:** 87%
- - **C1:** 91%
+ - **A1:** 80%
+ - **A2:** 86%
+ - **B1:** 91%
+ - **B2:** 95%
+ - **C1:** 99%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 414
- - **A2:** 260
- - **B1:** 417
+ - **A1:** 443
+ - **A2:** 295
+ - **B1:** 427
  - **B2:** 505
- - **C1:** 193
- - **C2:** 968
+ - **C1:** 405
+ - **C2:** 158
 
 ## Source
 
