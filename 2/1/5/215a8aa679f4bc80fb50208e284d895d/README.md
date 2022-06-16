@@ -1,4 +1,4 @@
-# Struwwelpeter: Merry Stories and Funny Pictures <kbd>v2.0.2</kbd>
+# Struwwelpeter: Merry Stories and Funny Pictures <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -24,22 +24,22 @@
 ## Readablility
 
 
- - **A1:** 46%
- - **A2:** 52%
- - **B1:** 64%
- - **B2:** 81%
- - **C1:** 86%
+ - **A1:** 70%
+ - **A2:** 77%
+ - **B1:** 85%
+ - **B2:** 93%
+ - **C1:** 99%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 277
- - **A2:** 156
- - **B1:** 244
- - **B2:** 258
- - **C1:** 86
- - **C2:** 318
+ - **A1:** 328
+ - **A2:** 167
+ - **B1:** 199
+ - **B2:** 239
+ - **C1:** 165
+ - **C2:** 50
 
 ## Source
 
