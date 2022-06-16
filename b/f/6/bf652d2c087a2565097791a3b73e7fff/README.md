@@ -1,4 +1,4 @@
-# The Picture of Dorian Gray <kbd>v2.2.0</kbd>
+# The Picture of Dorian Gray <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -36,7 +36,7 @@
 ## Words Count
 
 
- - **A1:** 2579
+ - **A1:** 489
  - **A2:** 471
  - **B1:** 807
  - **B2:** 1184
