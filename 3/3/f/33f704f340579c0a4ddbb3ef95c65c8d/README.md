@@ -1,4 +1,4 @@
-# The Lives of the Twelve Caesars, Complete <kbd>v2.0.2</kbd>
+# The Lives of the Twelve Caesars, Complete <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 55%
- - **B1:** 65%
- - **B2:** 80%
- - **C1:** 83%
+ - **A1:** 76%
+ - **A2:** 81%
+ - **B1:** 87%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 609
- - **A2:** 652
- - **B1:** 1177
- - **B2:** 2003
- - **C1:** 843
- - **C2:** 10732
+ - **A1:** 493
+ - **A2:** 485
+ - **B1:** 933
+ - **B2:** 1639
+ - **C1:** 2444
+ - **C2:** 2025
 
 ## Source
 
