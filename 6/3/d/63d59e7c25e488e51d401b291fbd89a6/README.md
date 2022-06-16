@@ -1,4 +1,4 @@
-# Darkwater: Voices from Within the Veil <kbd>v2.0.2</kbd>
+# Darkwater: Voices from Within the Veil <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 51%
- - **A2:** 58%
- - **B1:** 69%
- - **B2:** 84%
- - **C1:** 88%
+ - **A1:** 72%
+ - **A2:** 78%
+ - **B1:** 85%
+ - **B2:** 92%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 624
- - **A2:** 590
- - **B1:** 993
- - **B2:** 1524
- - **C1:** 649
- - **C2:** 4371
+ - **A1:** 492
+ - **A2:** 481
+ - **B1:** 876
+ - **B2:** 1353
+ - **C1:** 1582
+ - **C2:** 1121
 
 ## Source
 
