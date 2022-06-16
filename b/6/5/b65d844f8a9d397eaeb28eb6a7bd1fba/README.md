@@ -1,4 +1,4 @@
-# The Lady with the Dog and Other Stories <kbd>v2.0.2</kbd>
+# The Lady with the Dog and Other Stories <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 56%
- - **A2:** 62%
- - **B1:** 72%
- - **B2:** 85%
- - **C1:** 88%
+ - **A1:** 78%
+ - **A2:** 84%
+ - **B1:** 89%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 568
- - **A2:** 516
- - **B1:** 820
- - **B2:** 1211
- - **C1:** 506
- - **C2:** 3215
+ - **A1:** 488
+ - **A2:** 462
+ - **B1:** 787
+ - **B2:** 1190
+ - **C1:** 1311
+ - **C2:** 784
 
 ## Source
 
