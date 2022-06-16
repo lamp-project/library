@@ -1,4 +1,4 @@
-# The Elementary Forms of the Religious Life <kbd>v2.0.2</kbd>
+# The Elementary Forms of the Religious Life <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -24,22 +24,22 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 58%
- - **B1:** 70%
- - **B2:** 85%
- - **C1:** 88%
+ - **A1:** 75%
+ - **A2:** 81%
+ - **B1:** 87%
+ - **B2:** 92%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 584
- - **A2:** 619
- - **B1:** 1011
- - **B2:** 1688
- - **C1:** 673
- - **C2:** 5128
+ - **A1:** 481
+ - **A2:** 444
+ - **B1:** 821
+ - **B2:** 1253
+ - **C1:** 1589
+ - **C2:** 1343
 
 ## Source
 
