@@ -1,4 +1,4 @@
-# Perpetual Peace: A Philosophical Essay <kbd>v2.0.2</kbd>
+# Perpetual Peace: A Philosophical Essay <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 57%
- - **B1:** 69%
- - **B2:** 84%
- - **C1:** 87%
+ - **A1:** 73%
+ - **A2:** 80%
+ - **B1:** 86%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 521
- - **A2:** 488
- - **B1:** 741
- - **B2:** 1153
- - **C1:** 407
- - **C2:** 3010
+ - **A1:** 471
+ - **A2:** 401
+ - **B1:** 661
+ - **B2:** 1006
+ - **C1:** 1083
+ - **C2:** 668
 
 ## Source
 
