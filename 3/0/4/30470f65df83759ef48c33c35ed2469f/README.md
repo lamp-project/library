@@ -1,4 +1,4 @@
-# Heart of Darkness <kbd>v2.2.0</kbd>
+# Heart of Darkness <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -34,7 +34,7 @@
 ## Words Count
 
 
- - **A1:** 1811
+ - **A1:** 486
  - **A2:** 425
  - **B1:** 721
  - **B2:** 1037
