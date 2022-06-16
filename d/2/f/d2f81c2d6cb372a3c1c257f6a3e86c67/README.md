@@ -1,4 +1,4 @@
-# Gargantua and Pantagruel <kbd>v2.0.2</kbd>
+# Gargantua and Pantagruel <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -10,8 +10,8 @@
 ## Translators
 
 
- - Urquhart, Thomas, Sir <small>(1611 - 1660)</small>
  - Motteux, Peter Anthony <small>(1660 - 1718)</small>
+ - Urquhart, Thomas, Sir <small>(1611 - 1660)</small>
 
 ## Subjects
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 55%
- - **B1:** 65%
- - **B2:** 77%
- - **C1:** 81%
+ - **A1:** 77%
+ - **A2:** 81%
+ - **B1:** 87%
+ - **B2:** 91%
+ - **C1:** 96%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 658
- - **A2:** 685
- - **B1:** 1239
- - **B2:** 2298
- - **C1:** 1055
- - **C2:** 20419
+ - **A1:** 495
+ - **A2:** 492
+ - **B1:** 965
+ - **B2:** 1774
+ - **C1:** 2870
+ - **C2:** 3226
 
 ## Source
 
