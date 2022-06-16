@@ -1,4 +1,4 @@
-# Moby Multiple Language Lists of Common Words <kbd>v2.0.9</kbd>
+# Moby Multiple Language Lists of Common Words <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 56%
- - **A2:** 66%
- - **B1:** 75%
- - **B2:** 84%
- - **C1:** 86%
+ - **A1:** 66%
+ - **A2:** 74%
+ - **B1:** 84%
+ - **B2:** 93%
+ - **C1:** 99%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 248
- - **A2:** 125
- - **B1:** 134
- - **B2:** 113
- - **C1:** 25
- - **C2:** 157
+ - **A1:** 204
+ - **A2:** 85
+ - **B1:** 139
+ - **B2:** 167
+ - **C1:** 96
+ - **C2:** 18
 
 ## Source
 
