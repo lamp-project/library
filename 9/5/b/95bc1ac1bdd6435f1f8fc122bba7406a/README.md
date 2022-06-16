@@ -1,4 +1,4 @@
-# An Enquiry Concerning Human Understanding <kbd>v2.0.2</kbd>
+# An Enquiry Concerning Human Understanding <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 58%
- - **B1:** 71%
- - **B2:** 86%
- - **C1:** 90%
+ - **A1:** 71%
+ - **A2:** 78%
+ - **B1:** 85%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 481
- - **A2:** 428
- - **B1:** 692
- - **B2:** 1030
- - **C1:** 361
- - **C2:** 2099
+ - **A1:** 455
+ - **A2:** 378
+ - **B1:** 622
+ - **B2:** 912
+ - **C1:** 929
+ - **C2:** 541
 
 ## Source
 
