@@ -1,4 +1,4 @@
-# The Legends and Myths of Hawaii: The fables and folk-lore of a strange people <kbd>v2.0.2</kbd>
+# The Legends and Myths of Hawaii: The fables and folk-lore of a strange people <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 57%
- - **B1:** 67%
- - **B2:** 81%
- - **C1:** 85%
+ - **A1:** 74%
+ - **A2:** 79%
+ - **B1:** 87%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 593
- - **A2:** 618
- - **B1:** 1079
- - **B2:** 1762
- - **C1:** 781
- - **C2:** 6518
+ - **A1:** 485
+ - **A2:** 469
+ - **B1:** 908
+ - **B2:** 1575
+ - **C1:** 2140
+ - **C2:** 1473
 
 ## Source
 
