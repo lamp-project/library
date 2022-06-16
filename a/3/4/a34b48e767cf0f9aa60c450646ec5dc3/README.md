@@ -1,4 +1,4 @@
-# The Kybalion: A Study of The Hermetic Philosophy of Ancient Egypt and Greece <kbd>v2.0.9</kbd>
+# The Kybalion: A Study of The Hermetic Philosophy of Ancient Egypt and Greece <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 67%
- - **A2:** 75%
- - **B1:** 84%
- - **B2:** 90%
- - **C1:** 91%
+ - **A1:** 71%
+ - **A2:** 78%
+ - **B1:** 85%
+ - **B2:** 92%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 665
- - **A2:** 461
- - **B1:** 546
- - **B2:** 639
- - **C1:** 167
- - **C2:** 1186
+ - **A1:** 424
+ - **A2:** 332
+ - **B1:** 522
+ - **B2:** 663
+ - **C1:** 616
+ - **C2:** 350
 
 ## Source
 
