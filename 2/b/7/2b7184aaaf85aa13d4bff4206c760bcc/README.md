@@ -1,4 +1,4 @@
-# The Invisible Man: A Grotesque Romance <kbd>v2.0.2</kbd>
+# The Invisible Man: A Grotesque Romance <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 52%
- - **A2:** 58%
- - **B1:** 68%
- - **B2:** 82%
- - **C1:** 86%
+ - **A1:** 74%
+ - **A2:** 81%
+ - **B1:** 86%
+ - **B2:** 92%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 531
- - **A2:** 457
- - **B1:** 738
- - **B2:** 1137
- - **C1:** 472
- - **C2:** 2819
+ - **A1:** 483
+ - **A2:** 436
+ - **B1:** 680
+ - **B2:** 1029
+ - **C1:** 1119
+ - **C2:** 715
 
 ## Source
 
