@@ -1,4 +1,4 @@
-# Complete Original Short Stories of Guy De Maupassant <kbd>v2.0.9</kbd>
+# Complete Original Short Stories of Guy De Maupassant <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -10,8 +10,8 @@
 ## Translators
 
 
- - Quesada, Louise Charlotte Garstin <small>(-1 - -1)</small>
  - Henderson, A. E. <small>(-1 - -1)</small>
+ - Quesada, Louise Charlotte Garstin <small>(-1 - -1)</small>
  - McMaster, Albert Cohn <small>(-1 - -1)</small>
 
 ## Subjects
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 71%
- - **A2:** 77%
- - **B1:** 83%
- - **B2:** 88%
- - **C1:** 90%
+ - **A1:** 77%
+ - **A2:** 83%
+ - **B1:** 89%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 943
- - **A2:** 841
- - **B1:** 1474
- - **B2:** 2272
- - **C1:** 940
- - **C2:** 12122
+ - **A1:** 494
+ - **A2:** 495
+ - **B1:** 985
+ - **B2:** 1910
+ - **C1:** 3166
+ - **C2:** 3230
 
 ## Source
 
