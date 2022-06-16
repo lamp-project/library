@@ -1,4 +1,4 @@
-# Alice's Adventures in Wonderland: Illustrated by Arthur Rackham. With a Proem by Austin Dobson <kbd>v2.0.2</kbd>
+# Alice's Adventures in Wonderland: Illustrated by Arthur Rackham. With a Proem by Austin Dobson <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 54%
- - **A2:** 61%
- - **B1:** 72%
- - **B2:** 85%
- - **C1:** 89%
+ - **A1:** 79%
+ - **A2:** 84%
+ - **B1:** 90%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 462
- - **A2:** 324
- - **B1:** 506
- - **B2:** 642
- - **C1:** 246
- - **C2:** 1054
+ - **A1:** 469
+ - **A2:** 357
+ - **B1:** 505
+ - **B2:** 562
+ - **C1:** 484
+ - **C2:** 214
 
 ## Source
 
