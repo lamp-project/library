@@ -1,4 +1,4 @@
-# Stories from the Iliad; Or, the siege of Troy <kbd>v2.0.2</kbd>
+# Stories from the Iliad; Or, the siege of Troy <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 54%
- - **B1:** 64%
- - **B2:** 78%
- - **C1:** 83%
+ - **A1:** 75%
+ - **A2:** 81%
+ - **B1:** 88%
+ - **B2:** 94%
+ - **C1:** 99%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 390
- - **A2:** 255
- - **B1:** 403
- - **B2:** 518
- - **C1:** 232
- - **C2:** 1201
+ - **A1:** 431
+ - **A2:** 282
+ - **B1:** 424
+ - **B2:** 531
+ - **C1:** 463
+ - **C2:** 197
 
 ## Source
 
