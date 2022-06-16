@@ -1,4 +1,4 @@
-# Flatland: A Romance of Many Dimensions (Illustrated) <kbd>v2.0.2</kbd>
+# Flatland: A Romance of Many Dimensions (Illustrated) <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 51%
- - **A2:** 59%
- - **B1:** 70%
- - **B2:** 86%
- - **C1:** 89%
+ - **A1:** 73%
+ - **A2:** 79%
+ - **B1:** 86%
+ - **B2:** 92%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 506
- - **A2:** 443
- - **B1:** 690
- - **B2:** 976
- - **C1:** 373
- - **C2:** 1983
+ - **A1:** 479
+ - **A2:** 406
+ - **B1:** 619
+ - **B2:** 941
+ - **C1:** 951
+ - **C2:** 532
 
 ## Source
 
