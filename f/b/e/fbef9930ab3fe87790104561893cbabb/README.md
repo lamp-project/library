@@ -1,4 +1,4 @@
-# The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1: Books 1, 2 and 3 <kbd>v2.0.2</kbd>
+# The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1: Books 1, 2 and 3 <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 47%
- - **A2:** 54%
- - **B1:** 64%
- - **B2:** 76%
- - **C1:** 80%
+ - **A1:** 76%
+ - **A2:** 81%
+ - **B1:** 87%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 627
- - **A2:** 645
- - **B1:** 1170
- - **B2:** 1985
- - **C1:** 886
- - **C2:** 12958
+ - **A1:** 491
+ - **A2:** 484
+ - **B1:** 935
+ - **B2:** 1702
+ - **C1:** 2459
+ - **C2:** 2195
 
 ## Source
 
