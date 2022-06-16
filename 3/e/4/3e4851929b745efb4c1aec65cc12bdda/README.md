@@ -1,4 +1,4 @@
-# The Complete Works of William Shakespeare <kbd>v2.0.9</kbd>
+# The Complete Works of William Shakespeare <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 60%
- - **A2:** 66%
- - **B1:** 72%
- - **B2:** 77%
- - **C1:** 79%
+ - **A1:** 76%
+ - **A2:** 82%
+ - **B1:** 87%
+ - **B2:** 92%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 954
- - **A2:** 783
- - **B1:** 1372
- - **B2:** 2143
- - **C1:** 923
- - **C2:** 24191
+ - **A1:** 493
+ - **A2:** 486
+ - **B1:** 921
+ - **B2:** 1717
+ - **C1:** 2900
+ - **C2:** 3507
 
 ## Source
 
