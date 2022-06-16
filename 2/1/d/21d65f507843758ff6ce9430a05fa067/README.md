@@ -1,4 +1,4 @@
-# An Essay Concerning Humane Understanding, Volume 1: MDCXC, Based on the 2nd Edition, Books 1 and 2 <kbd>v2.0.2</kbd>
+# An Essay Concerning Humane Understanding, Volume 1: MDCXC, Based on the 2nd Edition, Books 1 and 2 <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 54%
- - **A2:** 62%
- - **B1:** 75%
- - **B2:** 89%
- - **C1:** 92%
+ - **A1:** 76%
+ - **A2:** 82%
+ - **B1:** 89%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 547
- - **A2:** 489
- - **B1:** 816
- - **B2:** 1250
- - **C1:** 420
- - **C2:** 3059
+ - **A1:** 478
+ - **A2:** 423
+ - **B1:** 714
+ - **B2:** 1055
+ - **C1:** 1177
+ - **C2:** 770
 
 ## Source
 
