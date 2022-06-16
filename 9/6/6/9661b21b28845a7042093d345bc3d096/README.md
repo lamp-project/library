@@ -1,4 +1,4 @@
-# Peter Pan <kbd>v2.2.0</kbd>
+# Peter Pan <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -33,7 +33,7 @@
 ## Words Count
 
 
- - **A1:** 1716
+ - **A1:** 487
  - **A2:** 428
  - **B1:** 693
  - **B2:** 947
