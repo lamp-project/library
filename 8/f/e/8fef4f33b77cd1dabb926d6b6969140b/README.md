@@ -1,4 +1,4 @@
-# The Gentlemen's Book of Etiquette and Manual of Politeness: Being a Complete Guide for a Gentleman's Conduct in All His Relations Towards Society <kbd>v2.0.2</kbd>
+# The Gentlemen's Book of Etiquette and Manual of Politeness: Being a Complete Guide for a Gentleman's Conduct in All His Relations Towards Society <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 52%
- - **A2:** 60%
- - **B1:** 71%
- - **B2:** 86%
- - **C1:** 90%
+ - **A1:** 74%
+ - **A2:** 81%
+ - **B1:** 87%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 604
- - **A2:** 584
- - **B1:** 995
- - **B2:** 1541
- - **C1:** 663
- - **C2:** 4222
+ - **A1:** 493
+ - **A2:** 478
+ - **B1:** 897
+ - **B2:** 1401
+ - **C1:** 1749
+ - **C2:** 1132
 
 ## Source
 
