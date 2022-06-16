@@ -1,4 +1,4 @@
-# The Genealogy of Morals: The Complete Works, Volume Thirteen, edited by Dr. Oscar Levy. <kbd>v2.0.9</kbd>
+# The Genealogy of Morals: The Complete Works, Volume Thirteen, edited by Dr. Oscar Levy. <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 66%
- - **A2:** 72%
- - **B1:** 78%
- - **B2:** 85%
- - **C1:** 87%
+ - **A1:** 72%
+ - **A2:** 78%
+ - **B1:** 84%
+ - **B2:** 91%
+ - **C1:** 96%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 778
- - **A2:** 560
- - **B1:** 822
- - **B2:** 1069
- - **C1:** 375
- - **C2:** 3894
+ - **A1:** 477
+ - **A2:** 417
+ - **B1:** 719
+ - **B2:** 1055
+ - **C1:** 1282
+ - **C2:** 1063
 
 ## Source
 
