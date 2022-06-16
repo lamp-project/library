@@ -1,4 +1,4 @@
-# The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar <kbd>v2.0.2</kbd>
+# The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 51%
- - **A2:** 59%
- - **B1:** 70%
- - **B2:** 84%
- - **C1:** 87%
+ - **A1:** 74%
+ - **A2:** 80%
+ - **B1:** 87%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 527
- - **A2:** 496
- - **B1:** 821
- - **B2:** 1223
- - **C1:** 489
- - **C2:** 2532
+ - **A1:** 484
+ - **A2:** 459
+ - **B1:** 792
+ - **B2:** 1140
+ - **C1:** 1182
+ - **C2:** 598
 
 ## Source
 
