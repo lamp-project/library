@@ -1,4 +1,4 @@
-# Wuthering Heights <kbd>v2.2.0</kbd>
+# Wuthering Heights <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
 ## Words Count
 
 
- - **A1:** 3445
+ - **A1:** 492
  - **A2:** 473
  - **B1:** 894
  - **B2:** 1514
