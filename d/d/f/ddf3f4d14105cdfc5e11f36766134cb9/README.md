@@ -1,4 +1,4 @@
-# A Vindication of the Rights of Woman: With Strictures on Political and Moral Subjects <kbd>v2.0.2</kbd>
+# A Vindication of the Rights of Woman: With Strictures on Political and Moral Subjects <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 51%
- - **A2:** 58%
- - **B1:** 70%
- - **B2:** 84%
- - **C1:** 88%
+ - **A1:** 71%
+ - **A2:** 77%
+ - **B1:** 84%
+ - **B2:** 91%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 565
- - **A2:** 523
- - **B1:** 880
- - **B2:** 1448
- - **C1:** 569
- - **C2:** 4055
+ - **A1:** 486
+ - **A2:** 444
+ - **B1:** 784
+ - **B2:** 1245
+ - **C1:** 1564
+ - **C2:** 1194
 
 ## Source
 
