@@ -1,4 +1,4 @@
-# Project Gutenberg Compilation of Short Stories by Chekhov <kbd>v2.0.2</kbd>
+# Project Gutenberg Compilation of Short Stories by Chekhov <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 55%
- - **A2:** 61%
- - **B1:** 72%
- - **B2:** 84%
- - **C1:** 88%
+ - **A1:** 77%
+ - **A2:** 83%
+ - **B1:** 89%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 692
- - **A2:** 785
- - **B1:** 1477
- - **B2:** 2718
- - **C1:** 1297
- - **C2:** 17188
+ - **A1:** 495
+ - **A2:** 497
+ - **B1:** 989
+ - **B2:** 1946
+ - **C1:** 3435
+ - **C2:** 4086
 
 ## Source
 
