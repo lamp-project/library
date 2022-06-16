@@ -1,4 +1,4 @@
-# The Birth of Tragedy; or, Hellenism and Pessimism <kbd>v2.0.2</kbd>
+# The Birth of Tragedy; or, Hellenism and Pessimism <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -25,22 +25,22 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 55%
- - **B1:** 66%
- - **B2:** 81%
- - **C1:** 85%
+ - **A1:** 72%
+ - **A2:** 77%
+ - **B1:** 84%
+ - **B2:** 91%
+ - **C1:** 96%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 532
- - **A2:** 495
- - **B1:** 798
- - **B2:** 1239
- - **C1:** 478
- - **C2:** 3754
+ - **A1:** 484
+ - **A2:** 426
+ - **B1:** 708
+ - **B2:** 1064
+ - **C1:** 1314
+ - **C2:** 946
 
 ## Source
 
