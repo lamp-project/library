@@ -1,4 +1,4 @@
-# A Modest Proposal: For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick <kbd>v2.2.0</kbd>
+# A Modest Proposal: For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -31,7 +31,7 @@
 ## Words Count
 
 
- - **A1:** 545
+ - **A1:** 340
  - **A2:** 182
  - **B1:** 251
  - **B2:** 307
