@@ -1,4 +1,4 @@
-# Simple Sabotage Field Manual <kbd>v2.2.0</kbd>
+# Simple Sabotage Field Manual <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -29,7 +29,7 @@
 ## Words Count
 
 
- - **A1:** 837
+ - **A1:** 358
  - **A2:** 231
  - **B1:** 317
  - **B2:** 427
