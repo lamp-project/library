@@ -1,4 +1,4 @@
-# The Tempest: The Works of William Shakespeare [Cambridge Edition] [9 vols.] <kbd>v2.0.2</kbd>
+# The Tempest: The Works of William Shakespeare [Cambridge Edition] [9 vols.] <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -25,22 +25,22 @@
 ## Readablility
 
 
- - **A1:** 42%
- - **A2:** 48%
- - **B1:** 58%
- - **B2:** 72%
- - **C1:** 76%
+ - **A1:** 74%
+ - **A2:** 79%
+ - **B1:** 86%
+ - **B2:** 91%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 418
- - **A2:** 313
- - **B1:** 512
- - **B2:** 726
- - **C1:** 247
- - **C2:** 2067
+ - **A1:** 451
+ - **A2:** 330
+ - **B1:** 509
+ - **B2:** 652
+ - **C1:** 664
+ - **C2:** 408
 
 ## Source
 
