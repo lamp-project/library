@@ -1,4 +1,4 @@
-# A Tale of Two Cities <kbd>v2.2.0</kbd>
+# A Tale of Two Cities <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
 ## Words Count
 
 
- - **A1:** 3491
+ - **A1:** 494
  - **A2:** 487
  - **B1:** 920
  - **B2:** 1572
