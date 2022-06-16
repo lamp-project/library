@@ -1,4 +1,4 @@
-# Aniwee; or, the Warrior Queen: A tale of the Araucanian Indians and the mythical Trauco people <kbd>v2.0.2</kbd>
+# Aniwee; or, the Warrior Queen: A tale of the Araucanian Indians and the mythical Trauco people <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 57%
- - **B1:** 68%
- - **B2:** 82%
- - **C1:** 86%
+ - **A1:** 74%
+ - **A2:** 80%
+ - **B1:** 87%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 529
- - **A2:** 476
- - **B1:** 797
- - **B2:** 1240
- - **C1:** 513
- - **C2:** 3213
+ - **A1:** 487
+ - **A2:** 460
+ - **B1:** 791
+ - **B2:** 1195
+ - **C1:** 1294
+ - **C2:** 709
 
 ## Source
 
