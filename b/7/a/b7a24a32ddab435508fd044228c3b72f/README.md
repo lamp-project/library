@@ -1,4 +1,4 @@
-# The Mysterious Stranger, and Other Stories <kbd>v2.0.2</kbd>
+# The Mysterious Stranger, and Other Stories <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 56%
- - **A2:** 63%
- - **B1:** 74%
- - **B2:** 87%
- - **C1:** 91%
+ - **A1:** 78%
+ - **A2:** 84%
+ - **B1:** 90%
+ - **B2:** 95%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 545
- - **A2:** 446
- - **B1:** 710
- - **B2:** 1059
- - **C1:** 439
- - **C2:** 2046
+ - **A1:** 483
+ - **A2:** 440
+ - **B1:** 730
+ - **B2:** 993
+ - **C1:** 921
+ - **C2:** 489
 
 ## Source
 
