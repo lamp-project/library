@@ -1,4 +1,4 @@
-# On Heroes, Hero-Worship, and the Heroic in History <kbd>v2.0.2</kbd>
+# On Heroes, Hero-Worship, and the Heroic in History <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 57%
- - **B1:** 68%
- - **B2:** 83%
- - **C1:** 87%
+ - **A1:** 77%
+ - **A2:** 82%
+ - **B1:** 87%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 588
- - **A2:** 569
- - **B1:** 895
- - **B2:** 1448
- - **C1:** 603
- - **C2:** 4684
+ - **A1:** 490
+ - **A2:** 461
+ - **B1:** 838
+ - **B2:** 1300
+ - **C1:** 1549
+ - **C2:** 1059
 
 ## Source
 
