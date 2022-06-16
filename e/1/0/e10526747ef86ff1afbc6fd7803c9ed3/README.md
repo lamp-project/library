@@ -1,4 +1,4 @@
-# Emma <kbd>v2.2.0</kbd>
+# Emma <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -36,7 +36,7 @@
 ## Words Count
 
 
- - **A1:** 2410
+ - **A1:** 491
  - **A2:** 462
  - **B1:** 838
  - **B2:** 1297
