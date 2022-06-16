@@ -1,4 +1,4 @@
-# Mosses from an Old Manse, and Other Stories <kbd>v2.0.2</kbd>
+# Mosses from an Old Manse, and Other Stories <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 56%
- - **B1:** 67%
- - **B2:** 81%
- - **C1:** 85%
+ - **A1:** 72%
+ - **A2:** 78%
+ - **B1:** 85%
+ - **B2:** 92%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 582
- - **A2:** 556
- - **B1:** 938
- - **B2:** 1558
- - **C1:** 634
- - **C2:** 4575
+ - **A1:** 494
+ - **A2:** 482
+ - **B1:** 892
+ - **B2:** 1484
+ - **C1:** 1857
+ - **C2:** 1155
 
 ## Source
 
