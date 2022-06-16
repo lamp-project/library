@@ -1,4 +1,4 @@
-# The Philippine Islands, 1493-1898, Volume 33, 1519-1522: Explorations by early navigators, descriptions of the islands and their peoples, their history and records of the Catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with European nations to the close of the nineteenth century <kbd>v2.0.9</kbd>
+# The Philippine Islands, 1493-1898, Volume 33, 1519-1522: Explorations by early navigators, descriptions of the islands and their peoples, their history and records of the Catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with European nations to the close of the nineteenth century <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 45%
- - **A2:** 51%
- - **B1:** 56%
- - **B2:** 60%
- - **C1:** 61%
+ - **A1:** 77%
+ - **A2:** 83%
+ - **B1:** 88%
+ - **B2:** 92%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 774
- - **A2:** 575
- - **B1:** 789
- - **B2:** 965
- - **C1:** 343
- - **C2:** 9387
+ - **A1:** 483
+ - **A2:** 443
+ - **B1:** 735
+ - **B2:** 1008
+ - **C1:** 1079
+ - **C2:** 735
 
 ## Source
 
