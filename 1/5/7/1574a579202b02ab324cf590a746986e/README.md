@@ -1,4 +1,4 @@
-# Laura Middleton; Her Brother and her Lover <kbd>v2.0.2</kbd>
+# Laura Middleton; Her Brother and her Lover <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 55%
- - **A2:** 63%
- - **B1:** 72%
- - **B2:** 87%
- - **C1:** 91%
+ - **A1:** 75%
+ - **A2:** 81%
+ - **B1:** 88%
+ - **B2:** 94%
+ - **C1:** 99%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 452
- - **A2:** 372
- - **B1:** 521
- - **B2:** 806
- - **C1:** 307
- - **C2:** 1221
+ - **A1:** 463
+ - **A2:** 364
+ - **B1:** 553
+ - **B2:** 753
+ - **C1:** 686
+ - **C2:** 270
 
 ## Source
 
