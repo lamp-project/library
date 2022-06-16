@@ -1,4 +1,4 @@
-# Incidents in the Life of a Slave Girl, Written by Herself <kbd>v2.0.2</kbd>
+# Incidents in the Life of a Slave Girl, Written by Herself <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 58%
- - **A2:** 65%
- - **B1:** 74%
- - **B2:** 87%
- - **C1:** 90%
+ - **A1:** 78%
+ - **A2:** 84%
+ - **B1:** 90%
+ - **B2:** 95%
+ - **C1:** 99%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 582
- - **A2:** 513
- - **B1:** 841
- - **B2:** 1297
- - **C1:** 562
- - **C2:** 3109
+ - **A1:** 490
+ - **A2:** 475
+ - **B1:** 857
+ - **B2:** 1285
+ - **C1:** 1424
+ - **C2:** 705
 
 ## Source
 
