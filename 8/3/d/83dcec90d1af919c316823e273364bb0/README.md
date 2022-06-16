@@ -1,4 +1,4 @@
-# The Prophet <kbd>v2.2.0</kbd>
+# The Prophet <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,7 +30,7 @@
 ## Words Count
 
 
- - **A1:** 796
+ - **A1:** 398
  - **A2:** 248
  - **B1:** 380
  - **B2:** 464
