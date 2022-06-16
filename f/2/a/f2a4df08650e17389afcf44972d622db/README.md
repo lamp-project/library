@@ -1,4 +1,4 @@
-# Shakespearean Tragedy: Lectures on Hamlet, Othello, King Lear, Macbeth <kbd>v2.0.2</kbd>
+# Shakespearean Tragedy: Lectures on Hamlet, Othello, King Lear, Macbeth <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 48%
- - **A2:** 57%
- - **B1:** 67%
- - **B2:** 82%
- - **C1:** 85%
+ - **A1:** 76%
+ - **A2:** 82%
+ - **B1:** 88%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 619
- - **A2:** 631
- - **B1:** 1066
- - **B2:** 1776
- - **C1:** 729
- - **C2:** 6399
+ - **A1:** 492
+ - **A2:** 485
+ - **B1:** 887
+ - **B2:** 1505
+ - **C1:** 1999
+ - **C2:** 1510
 
 ## Source
 
