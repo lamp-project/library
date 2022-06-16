@@ -1,4 +1,4 @@
-# The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1 (of 2): Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain. <kbd>v2.0.2</kbd>
+# The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1 (of 2): Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain. <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 53%
- - **A2:** 60%
- - **B1:** 70%
- - **B2:** 84%
- - **C1:** 87%
+ - **A1:** 77%
+ - **A2:** 83%
+ - **B1:** 90%
+ - **B2:** 95%
+ - **C1:** 99%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 567
- - **A2:** 557
- - **B1:** 955
- - **B2:** 1500
- - **C1:** 628
- - **C2:** 4648
+ - **A1:** 489
+ - **A2:** 478
+ - **B1:** 875
+ - **B2:** 1407
+ - **C1:** 1678
+ - **C2:** 898
 
 ## Source
 
