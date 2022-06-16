@@ -1,4 +1,4 @@
-# The Prince <kbd>v2.2.0</kbd>
+# The Prince <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -32,7 +32,7 @@
 ## Words Count
 
 
- - **A1:** 2028
+ - **A1:** 479
  - **A2:** 419
  - **B1:** 673
  - **B2:** 930
