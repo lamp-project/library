@@ -1,4 +1,4 @@
-# A Christmas Carol in Prose; Being a Ghost Story of Christmas <kbd>v2.1.0</kbd>
+# A Christmas Carol in Prose; Being a Ghost Story of Christmas <kbd>v2.2.0</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -25,22 +25,22 @@
 ## Readablility
 
 
- - **A1:** 68%
- - **A2:** 74%
- - **B1:** 80%
- - **B2:** 86%
- - **C1:** 87%
+ - **A1:** 76%
+ - **A2:** 82%
+ - **B1:** 88%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 703
- - **A2:** 452
- - **B1:** 642
- - **B2:** 782
- - **C1:** 242
- - **C2:** 1920
+ - **A1:** 1433
+ - **A2:** 433
+ - **B1:** 654
+ - **B2:** 834
+ - **C1:** 865
+ - **C2:** 492
 
 ## Source
 
