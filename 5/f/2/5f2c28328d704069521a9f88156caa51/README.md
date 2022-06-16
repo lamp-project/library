@@ -1,4 +1,4 @@
-# Dubliners <kbd>v2.2.0</kbd>
+# Dubliners <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,7 +30,7 @@
 ## Words Count
 
 
- - **A1:** 2851
+ - **A1:** 488
  - **A2:** 470
  - **B1:** 812
  - **B2:** 1212
