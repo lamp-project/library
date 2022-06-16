@@ -1,4 +1,4 @@
-# The Awakening, and Selected Short Stories <kbd>v2.1.0</kbd>
+# The Awakening, and Selected Short Stories <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 68%
- - **A2:** 74%
- - **B1:** 79%
- - **B2:** 85%
- - **C1:** 86%
+ - **A1:** 76%
+ - **A2:** 82%
+ - **B1:** 88%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 788
- - **A2:** 578
- - **B1:** 856
- - **B2:** 1139
- - **C1:** 394
- - **C2:** 3488
+ - **A1:** 486
+ - **A2:** 467
+ - **B1:** 813
+ - **B2:** 1209
+ - **C1:** 1356
+ - **C2:** 862
 
 ## Source
 
