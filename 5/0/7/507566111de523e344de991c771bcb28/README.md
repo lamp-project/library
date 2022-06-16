@@ -1,4 +1,4 @@
-# Memoirs of Fanny Hill: A New and Genuine Edition from the Original Text (London, 1749) <kbd>v2.0.9</kbd>
+# Memoirs of Fanny Hill: A New and Genuine Edition from the Original Text (London, 1749) <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 69%
- - **A2:** 74%
- - **B1:** 81%
- - **B2:** 87%
- - **C1:** 88%
+ - **A1:** 75%
+ - **A2:** 81%
+ - **B1:** 87%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 790
- - **A2:** 603
- - **B1:** 906
- - **B2:** 1199
- - **C1:** 465
- - **C2:** 4316
+ - **A1:** 488
+ - **A2:** 457
+ - **B1:** 814
+ - **B2:** 1323
+ - **C1:** 1607
+ - **C2:** 1067
 
 ## Source
 
