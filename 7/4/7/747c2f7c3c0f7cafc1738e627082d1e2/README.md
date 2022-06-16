@@ -1,4 +1,4 @@
-# The Odyssey: Rendered into English prose for the use of those who cannot read the original <kbd>v2.2.0</kbd>
+# The Odyssey: Rendered into English prose for the use of those who cannot read the original <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -32,7 +32,7 @@
 ## Words Count
 
 
- - **A1:** 2867
+ - **A1:** 488
  - **A2:** 452
  - **B1:** 824
  - **B2:** 1247
