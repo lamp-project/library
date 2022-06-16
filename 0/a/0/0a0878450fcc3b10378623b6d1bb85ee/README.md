@@ -1,4 +1,4 @@
-# Aesop's Fables: Translated by George Fyler Townsend <kbd>v2.0.2</kbd>
+# Aesop's Fables: Translated by George Fyler Townsend <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 52%
- - **A2:** 58%
- - **B1:** 69%
- - **B2:** 84%
- - **C1:** 88%
+ - **A1:** 73%
+ - **A2:** 79%
+ - **B1:** 85%
+ - **B2:** 91%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 526
- - **A2:** 435
- - **B1:** 715
- - **B2:** 1087
- - **C1:** 437
- - **C2:** 2529
+ - **A1:** 481
+ - **A2:** 434
+ - **B1:** 735
+ - **B2:** 1010
+ - **C1:** 1047
+ - **C2:** 556
 
 ## Source
 
