@@ -1,4 +1,4 @@
-# The Noble and Gentle Men of England: or, notes touching the arms and descents of the ancient knightly and gentle houses of England, arranged in their respective counties. <kbd>v2.0.2</kbd>
+# The Noble and Gentle Men of England: or, notes touching the arms and descents of the ancient knightly and gentle houses of England, arranged in their respective counties. <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 38%
- - **A2:** 43%
- - **B1:** 49%
- - **B2:** 62%
- - **C1:** 66%
- - **C2:** 100%
+ - **A1:** 77%
+ - **A2:** 81%
+ - **B1:** 85%
+ - **B2:** 92%
+ - **C1:** 96%
+ - **C2:** 99%
 
 ## Words Count
 
 
- - **A1:** 366
- - **A2:** 287
- - **B1:** 418
- - **B2:** 572
- - **C1:** 201
- - **C2:** 4395
+ - **A1:** 393
+ - **A2:** 269
+ - **B1:** 411
+ - **B2:** 512
+ - **C1:** 515
+ - **C2:** 288
 
 ## Source
 
