@@ -1,4 +1,4 @@
-# How to Use and Enjoy Your New Frigidaire Refrigerator <kbd>v2.0.2</kbd>
+# How to Use and Enjoy Your New Frigidaire Refrigerator <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 38%
- - **A2:** 46%
- - **B1:** 58%
- - **B2:** 81%
- - **C1:** 87%
- - **C2:** 100%
+ - **A1:** 58%
+ - **A2:** 65%
+ - **B1:** 75%
+ - **B2:** 83%
+ - **C1:** 93%
+ - **C2:** 99%
 
 ## Words Count
 
 
- - **A1:** 251
- - **A2:** 178
- - **B1:** 273
- - **B2:** 377
- - **C1:** 123
- - **C2:** 405
+ - **A1:** 282
+ - **A2:** 157
+ - **B1:** 235
+ - **B2:** 285
+ - **C1:** 234
+ - **C2:** 152
 
 ## Source
 
