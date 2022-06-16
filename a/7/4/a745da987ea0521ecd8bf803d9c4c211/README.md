@@ -1,4 +1,4 @@
-# Pride and Prejudice <kbd>v2.2.0</kbd>
+# Pride and Prejudice <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -35,7 +35,7 @@
 ## Words Count
 
 
- - **A1:** 2081
+ - **A1:** 487
  - **A2:** 459
  - **B1:** 801
  - **B2:** 1183
