@@ -1,4 +1,4 @@
-# The Economic Consequences of the Peace <kbd>v2.0.2</kbd>
+# The Economic Consequences of the Peace <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 56%
- - **B1:** 68%
- - **B2:** 85%
- - **C1:** 89%
+ - **A1:** 71%
+ - **A2:** 77%
+ - **B1:** 84%
+ - **B2:** 92%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 544
- - **A2:** 526
- - **B1:** 856
- - **B2:** 1335
- - **C1:** 524
- - **C2:** 2731
+ - **A1:** 470
+ - **A2:** 392
+ - **B1:** 707
+ - **B2:** 1043
+ - **C1:** 1213
+ - **C2:** 846
 
 ## Source
 
