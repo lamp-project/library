@@ -1,4 +1,4 @@
-# The Iliad <kbd>v2.2.0</kbd>
+# The Iliad <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -33,7 +33,7 @@
 ## Words Count
 
 
- - **A1:** 6878
+ - **A1:** 490
  - **A2:** 476
  - **B1:** 893
  - **B2:** 1519
