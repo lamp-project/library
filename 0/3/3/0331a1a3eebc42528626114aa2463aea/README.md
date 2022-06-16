@@ -1,4 +1,4 @@
-# The Strange Case of Dr. Jekyll and Mr. Hyde <kbd>v2.1.0</kbd>
+# The Strange Case of Dr. Jekyll and Mr. Hyde <kbd>v2.2.0</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -25,22 +25,22 @@
 ## Readablility
 
 
- - **A1:** 69%
- - **A2:** 75%
- - **B1:** 81%
- - **B2:** 87%
- - **C1:** 88%
+ - **A1:** 77%
+ - **A2:** 83%
+ - **B1:** 88%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 665
- - **A2:** 443
- - **B1:** 609
- - **B2:** 717
- - **C1:** 216
- - **C2:** 1699
+ - **A1:** 1294
+ - **A2:** 410
+ - **B1:** 635
+ - **B2:** 833
+ - **C1:** 729
+ - **C2:** 416
 
 ## Source
 
