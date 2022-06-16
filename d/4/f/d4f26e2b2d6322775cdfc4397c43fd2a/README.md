@@ -1,4 +1,4 @@
-# Jane Eyre: An Autobiography <kbd>v2.2.0</kbd>
+# Jane Eyre: An Autobiography <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
 ## Words Count
 
 
- - **A1:** 4890
+ - **A1:** 494
  - **A2:** 490
  - **B1:** 959
  - **B2:** 1742
