@@ -1,4 +1,4 @@
-# The Time Machine <kbd>v2.2.0</kbd>
+# The Time Machine <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -31,7 +31,7 @@
 ## Words Count
 
 
- - **A1:** 1509
+ - **A1:** 470
  - **A2:** 402
  - **B1:** 634
  - **B2:** 939
