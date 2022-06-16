@@ -1,4 +1,4 @@
-# Gulliver's Travels into Several Remote Nations of the World <kbd>v2.0.9</kbd>
+# Gulliver's Travels into Several Remote Nations of the World <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 70%
- - **A2:** 76%
- - **B1:** 83%
- - **B2:** 89%
- - **C1:** 90%
+ - **A1:** 75%
+ - **A2:** 82%
+ - **B1:** 88%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 823
- - **A2:** 642
- - **B1:** 1029
- - **B2:** 1344
- - **C1:** 495
- - **C2:** 4129
+ - **A1:** 490
+ - **A2:** 485
+ - **B1:** 870
+ - **B2:** 1404
+ - **C1:** 1639
+ - **C2:** 1026
 
 ## Source
 
