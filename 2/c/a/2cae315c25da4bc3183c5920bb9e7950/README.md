@@ -1,4 +1,4 @@
-# Les Misérables <kbd>v2.2.0</kbd>
+# Les Misérables <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -34,7 +34,7 @@
 ## Words Count
 
 
- - **A1:** 12668
+ - **A1:** 494
  - **A2:** 494
  - **B1:** 982
  - **B2:** 1921
