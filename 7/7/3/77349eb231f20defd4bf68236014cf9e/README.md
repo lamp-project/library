@@ -1,4 +1,4 @@
-# Needlework Economies: A Book of Mending and Making with Oddments and Scraps <kbd>v2.0.2</kbd>
+# Needlework Economies: A Book of Mending and Making with Oddments and Scraps <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 44%
- - **A2:** 51%
- - **B1:** 62%
- - **B2:** 78%
- - **C1:** 82%
+ - **A1:** 70%
+ - **A2:** 76%
+ - **B1:** 83%
+ - **B2:** 89%
+ - **C1:** 96%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 450
- - **A2:** 373
- - **B1:** 544
- - **B2:** 815
- - **C1:** 277
- - **C2:** 1442
+ - **A1:** 440
+ - **A2:** 323
+ - **B1:** 521
+ - **B2:** 629
+ - **C1:** 641
+ - **C2:** 377
 
 ## Source
 
