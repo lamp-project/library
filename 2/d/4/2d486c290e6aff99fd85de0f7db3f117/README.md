@@ -1,4 +1,4 @@
-# Ecce Homo: Complete Works, Volume Seventeen <kbd>v2.0.2</kbd>
+# Ecce Homo: Complete Works, Volume Seventeen <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 57%
- - **B1:** 67%
- - **B2:** 82%
- - **C1:** 86%
+ - **A1:** 74%
+ - **A2:** 80%
+ - **B1:** 86%
+ - **B2:** 92%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 546
- - **A2:** 479
- - **B1:** 792
- - **B2:** 1255
- - **C1:** 531
- - **C2:** 3368
+ - **A1:** 484
+ - **A2:** 441
+ - **B1:** 750
+ - **B2:** 1139
+ - **C1:** 1272
+ - **C2:** 863
 
 ## Source
 
