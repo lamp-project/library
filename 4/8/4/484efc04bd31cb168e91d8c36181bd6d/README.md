@@ -1,4 +1,4 @@
-# The Importance of Being Earnest: A Trivial Comedy for Serious People <kbd>v2.1.0</kbd>
+# The Importance of Being Earnest: A Trivial Comedy for Serious People <kbd>v2.2.0</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 65%
- - **A2:** 72%
- - **B1:** 78%
- - **B2:** 83%
- - **C1:** 84%
+ - **A1:** 77%
+ - **A2:** 82%
+ - **B1:** 90%
+ - **B2:** 95%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 645
- - **A2:** 377
- - **B1:** 466
- - **B2:** 465
- - **C1:** 128
- - **C2:** 965
+ - **A1:** 974
+ - **A2:** 348
+ - **B1:** 468
+ - **B2:** 563
+ - **C1:** 483
+ - **C2:** 197
 
 ## Source
 
