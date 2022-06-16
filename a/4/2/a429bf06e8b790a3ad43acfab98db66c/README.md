@@ -1,4 +1,4 @@
-# The Declaration of Independence of the United States of America <kbd>v2.0.2</kbd>
+# The Declaration of Independence of the United States of America <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 57%
- - **B1:** 70%
- - **B2:** 85%
- - **C1:** 89%
+ - **A1:** 71%
+ - **A2:** 78%
+ - **B1:** 85%
+ - **B2:** 92%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 384
- - **A2:** 337
- - **B1:** 479
- - **B2:** 670
- - **C1:** 235
- - **C2:** 1079
+ - **A1:** 417
+ - **A2:** 277
+ - **B1:** 438
+ - **B2:** 561
+ - **C1:** 539
+ - **C2:** 257
 
 ## Source
 
