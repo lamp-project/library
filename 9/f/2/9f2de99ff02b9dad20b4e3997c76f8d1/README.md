@@ -1,4 +1,4 @@
-# Anne of Green Gables <kbd>v2.2.0</kbd>
+# Anne of Green Gables <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
 ## Words Count
 
 
- - **A1:** 2918
+ - **A1:** 492
  - **A2:** 468
  - **B1:** 817
  - **B2:** 1281
