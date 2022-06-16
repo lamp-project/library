@@ -1,4 +1,4 @@
-# The book of the ancient Greeks: An Introduction to the History and Civilization of Greece from the Coming of the Greeks to the Conquest of Corinth by Rome in 146 B.C. <kbd>v2.0.2</kbd>
+# The book of the ancient Greeks: An Introduction to the History and Civilization of Greece from the Coming of the Greeks to the Conquest of Corinth by Rome in 146 B.C. <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,22 +18,22 @@
 ## Readablility
 
 
- - **A1:** 54%
- - **A2:** 61%
- - **B1:** 71%
- - **B2:** 84%
- - **C1:** 88%
+ - **A1:** 77%
+ - **A2:** 83%
+ - **B1:** 89%
+ - **B2:** 95%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 623
- - **A2:** 593
- - **B1:** 972
- - **B2:** 1526
- - **C1:** 628
- - **C2:** 3746
+ - **A1:** 491
+ - **A2:** 488
+ - **B1:** 901
+ - **B2:** 1444
+ - **C1:** 1600
+ - **C2:** 842
 
 ## Source
 
