@@ -1,4 +1,4 @@
-# Adventures of Sherlock Holmes: Illustrated <kbd>v2.0.2</kbd>
+# Adventures of Sherlock Holmes: Illustrated <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 55%
- - **A2:** 63%
- - **B1:** 74%
- - **B2:** 87%
- - **C1:** 90%
+ - **A1:** 78%
+ - **A2:** 84%
+ - **B1:** 90%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 591
- - **A2:** 583
- - **B1:** 1009
- - **B2:** 1509
- - **C1:** 629
- - **C2:** 4105
+ - **A1:** 490
+ - **A2:** 485
+ - **B1:** 887
+ - **B2:** 1448
+ - **C1:** 1672
+ - **C2:** 1067
 
 ## Source
 
