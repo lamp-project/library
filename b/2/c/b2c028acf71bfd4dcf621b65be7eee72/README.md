@@ -1,4 +1,4 @@
-# The Hound of the Baskervilles <kbd>v2.2.0</kbd>
+# The Hound of the Baskervilles <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -34,7 +34,7 @@
 ## Words Count
 
 
- - **A1:** 1674
+ - **A1:** 484
  - **A2:** 456
  - **B1:** 794
  - **B2:** 1139
