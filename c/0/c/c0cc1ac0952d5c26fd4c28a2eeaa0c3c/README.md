@@ -1,4 +1,4 @@
-# The Philippines a Century Hence <kbd>v2.2.0</kbd>
+# The Philippines a Century Hence <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,7 +30,7 @@
 ## Words Count
 
 
- - **A1:** 1359
+ - **A1:** 450
  - **A2:** 335
  - **B1:** 533
  - **B2:** 713
