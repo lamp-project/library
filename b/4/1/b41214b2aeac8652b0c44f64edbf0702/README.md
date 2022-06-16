@@ -1,4 +1,4 @@
-# The Ruins; Or, Meditation on the Revolutions of Empires and the Law of Nature <kbd>v2.0.2</kbd>
+# The Ruins; Or, Meditation on the Revolutions of Empires and the Law of Nature <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 51%
- - **A2:** 58%
- - **B1:** 69%
- - **B2:** 83%
- - **C1:** 86%
+ - **A1:** 72%
+ - **A2:** 78%
+ - **B1:** 84%
+ - **B2:** 91%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 580
- - **A2:** 570
- - **B1:** 1003
- - **B2:** 1653
- - **C1:** 663
- - **C2:** 5370
+ - **A1:** 488
+ - **A2:** 462
+ - **B1:** 849
+ - **B2:** 1387
+ - **C1:** 1748
+ - **C2:** 1372
 
 ## Source
 
