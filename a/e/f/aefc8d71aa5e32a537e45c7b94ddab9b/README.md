@@ -1,4 +1,4 @@
-# The Yellow Wallpaper <kbd>v2.2.0</kbd>
+# The Yellow Wallpaper <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -33,7 +33,7 @@
 ## Words Count
 
 
- - **A1:** 640
+ - **A1:** 398
  - **A2:** 230
  - **B1:** 261
  - **B2:** 292
