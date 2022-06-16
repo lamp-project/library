@@ -1,4 +1,4 @@
-# The Brothers Karamazov <kbd>v2.2.0</kbd>
+# The Brothers Karamazov <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -33,7 +33,7 @@
 ## Words Count
 
 
- - **A1:** 4766
+ - **A1:** 494
  - **A2:** 489
  - **B1:** 959
  - **B2:** 1747
