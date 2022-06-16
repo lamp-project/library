@@ -1,4 +1,4 @@
-# The Slang Dictionary: Etymological, Historical and Andecdotal <kbd>v2.0.9</kbd>
+# The Slang Dictionary: Etymological, Historical and Andecdotal <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 58%
- - **A2:** 64%
- - **B1:** 71%
- - **B2:** 77%
- - **C1:** 79%
- - **C2:** 100%
+ - **A1:** 70%
+ - **A2:** 76%
+ - **B1:** 82%
+ - **B2:** 88%
+ - **C1:** 94%
+ - **C2:** 99%
 
 ## Words Count
 
 
- - **A1:** 897
- - **A2:** 788
- - **B1:** 1248
- - **B2:** 1854
- - **C1:** 670
- - **C2:** 12284
+ - **A1:** 494
+ - **A2:** 490
+ - **B1:** 917
+ - **B2:** 1571
+ - **C1:** 2403
+ - **C2:** 2597
 
 ## Source
 
