@@ -1,4 +1,4 @@
-# Oliver Twist <kbd>v2.2.0</kbd>
+# Oliver Twist <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -34,7 +34,7 @@
 ## Words Count
 
 
- - **A1:** 3856
+ - **A1:** 490
  - **A2:** 483
  - **B1:** 914
  - **B2:** 1595
