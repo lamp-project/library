@@ -1,4 +1,4 @@
-# The Wars of the Jews; Or, The History of the Destruction of Jerusalem <kbd>v2.0.2</kbd>
+# The Wars of the Jews; Or, The History of the Destruction of Jerusalem <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 55%
- - **A2:** 62%
- - **B1:** 73%
- - **B2:** 85%
- - **C1:** 88%
+ - **A1:** 80%
+ - **A2:** 85%
+ - **B1:** 90%
+ - **B2:** 95%
+ - **C1:** 99%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 572
- - **A2:** 516
- - **B1:** 926
- - **B2:** 1439
- - **C1:** 581
- - **C2:** 4963
+ - **A1:** 485
+ - **A2:** 462
+ - **B1:** 823
+ - **B2:** 1320
+ - **C1:** 1565
+ - **C2:** 991
 
 ## Source
 
