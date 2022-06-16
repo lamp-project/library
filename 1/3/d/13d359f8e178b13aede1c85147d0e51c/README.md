@@ -1,4 +1,4 @@
-# A Portrait of the Artist as a Young Man <kbd>v2.0.9</kbd>
+# A Portrait of the Artist as a Young Man <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 67%
- - **A2:** 72%
- - **B1:** 78%
- - **B2:** 84%
- - **C1:** 85%
+ - **A1:** 76%
+ - **A2:** 81%
+ - **B1:** 87%
+ - **B2:** 93%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 822
- - **A2:** 614
- - **B1:** 917
- - **B2:** 1219
- - **C1:** 488
- - **C2:** 5467
+ - **A1:** 493
+ - **A2:** 474
+ - **B1:** 836
+ - **B2:** 1303
+ - **C1:** 1598
+ - **C2:** 1270
 
 ## Source
 
