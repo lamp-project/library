@@ -1,4 +1,4 @@
-# Moby Dick; Or, The Whale <kbd>v2.2.0</kbd>
+# Moby Dick; Or, The Whale <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
 ## Words Count
 
 
- - **A1:** 8621
+ - **A1:** 494
  - **A2:** 494
  - **B1:** 957
  - **B2:** 1756
