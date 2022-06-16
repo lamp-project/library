@@ -1,4 +1,4 @@
-# Twelve Years a Slave: Narrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton Plantation near the Red River in Louisiana <kbd>v2.0.9</kbd>
+# Twelve Years a Slave: Narrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton Plantation near the Red River in Louisiana <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -24,22 +24,22 @@
 ## Readablility
 
 
- - **A1:** 65%
- - **A2:** 71%
- - **B1:** 78%
- - **B2:** 84%
- - **C1:** 86%
+ - **A1:** 74%
+ - **A2:** 80%
+ - **B1:** 86%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 832
- - **A2:** 652
- - **B1:** 1000
- - **B2:** 1305
- - **C1:** 439
- - **C2:** 3981
+ - **A1:** 493
+ - **A2:** 482
+ - **B1:** 879
+ - **B2:** 1428
+ - **C1:** 1658
+ - **C2:** 933
 
 ## Source
 
