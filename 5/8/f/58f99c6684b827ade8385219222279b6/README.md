@@ -1,4 +1,4 @@
-# The Confessions of Jean Jacques Rousseau — Complete <kbd>v2.0.2</kbd>
+# The Confessions of Jean Jacques Rousseau — Complete <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 55%
- - **A2:** 62%
- - **B1:** 72%
- - **B2:** 85%
- - **C1:** 88%
+ - **A1:** 77%
+ - **A2:** 83%
+ - **B1:** 88%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 619
- - **A2:** 631
- - **B1:** 1110
- - **B2:** 1868
- - **C1:** 773
- - **C2:** 7514
+ - **A1:** 493
+ - **A2:** 488
+ - **B1:** 936
+ - **B2:** 1655
+ - **C1:** 2271
+ - **C2:** 1822
 
 ## Source
 
