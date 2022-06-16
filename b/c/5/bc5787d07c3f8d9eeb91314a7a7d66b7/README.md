@@ -1,4 +1,4 @@
-# The Symbolism of Freemasonry: Illustrating and Explaining Its Science and Philosophy, Its Legends, Myths and Symbols <kbd>v2.0.2</kbd>
+# The Symbolism of Freemasonry: Illustrating and Explaining Its Science and Philosophy, Its Legends, Myths and Symbols <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 56%
- - **B1:** 67%
- - **B2:** 82%
- - **C1:** 84%
+ - **A1:** 72%
+ - **A2:** 77%
+ - **B1:** 84%
+ - **B2:** 90%
+ - **C1:** 96%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 551
- - **A2:** 539
- - **B1:** 869
- - **B2:** 1342
- - **C1:** 512
- - **C2:** 4936
+ - **A1:** 483
+ - **A2:** 428
+ - **B1:** 774
+ - **B2:** 1211
+ - **C1:** 1416
+ - **C2:** 1011
 
 ## Source
 
