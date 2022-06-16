@@ -1,4 +1,4 @@
-# Little Women <kbd>v2.2.0</kbd>
+# Little Women <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -37,7 +37,7 @@
 ## Words Count
 
 
- - **A1:** 4719
+ - **A1:** 493
  - **A2:** 483
  - **B1:** 923
  - **B2:** 1549
