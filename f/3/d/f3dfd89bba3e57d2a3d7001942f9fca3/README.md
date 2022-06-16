@@ -1,4 +1,4 @@
-# The Souls of Black Folk <kbd>v2.2.0</kbd>
+# The Souls of Black Folk <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -29,7 +29,7 @@
 ## Words Count
 
 
- - **A1:** 3142
+ - **A1:** 493
  - **A2:** 480
  - **B1:** 882
  - **B2:** 1348
