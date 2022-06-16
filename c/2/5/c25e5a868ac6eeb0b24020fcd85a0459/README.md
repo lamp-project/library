@@ -1,4 +1,4 @@
-# War and Peace <kbd>v2.2.0</kbd>
+# War and Peace <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -35,7 +35,7 @@
 ## Words Count
 
 
- - **A1:** 8578
+ - **A1:** 492
  - **A2:** 497
  - **B1:** 979
  - **B2:** 1894
