@@ -1,4 +1,4 @@
-# Southern Horrors: Lynch Law in All Its Phases <kbd>v2.0.2</kbd>
+# Southern Horrors: Lynch Law in All Its Phases <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 49%
- - **A2:** 56%
- - **B1:** 67%
- - **B2:** 83%
- - **C1:** 87%
+ - **A1:** 73%
+ - **A2:** 79%
+ - **B1:** 86%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 408
- - **A2:** 282
- - **B1:** 435
- - **B2:** 535
- - **C1:** 179
- - **C2:** 845
+ - **A1:** 414
+ - **A2:** 286
+ - **B1:** 399
+ - **B2:** 482
+ - **C1:** 377
+ - **C2:** 166
 
 ## Source
 
