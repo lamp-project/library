@@ -1,4 +1,4 @@
-# Myths and Legends of Ancient Greece and Rome <kbd>v2.0.2</kbd>
+# Myths and Legends of Ancient Greece and Rome <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 47%
- - **A2:** 53%
- - **B1:** 63%
- - **B2:** 77%
- - **C1:** 81%
+ - **A1:** 71%
+ - **A2:** 77%
+ - **B1:** 84%
+ - **B2:** 91%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 569
- - **A2:** 543
- - **B1:** 946
- - **B2:** 1552
- - **C1:** 670
- - **C2:** 5676
+ - **A1:** 482
+ - **A2:** 461
+ - **B1:** 870
+ - **B2:** 1454
+ - **C1:** 1865
+ - **C2:** 1265
 
 ## Source
 
