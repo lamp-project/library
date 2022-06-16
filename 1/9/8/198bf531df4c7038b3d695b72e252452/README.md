@@ -1,4 +1,4 @@
-# A Doll's House : a play <kbd>v2.2.0</kbd>
+# A Doll's House : a play <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -32,7 +32,7 @@
 ## Words Count
 
 
- - **A1:** 937
+ - **A1:** 455
  - **A2:** 353
  - **B1:** 459
  - **B2:** 553
