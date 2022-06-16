@@ -1,4 +1,4 @@
-# The Scarlet Letter <kbd>v2.2.0</kbd>
+# The Scarlet Letter <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -39,7 +39,7 @@
 ## Words Count
 
 
- - **A1:** 2928
+ - **A1:** 490
  - **A2:** 471
  - **B1:** 863
  - **B2:** 1443
