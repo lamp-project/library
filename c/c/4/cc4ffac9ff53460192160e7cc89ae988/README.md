@@ -1,4 +1,4 @@
-# Ulysses <kbd>v2.2.0</kbd>
+# Ulysses <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -38,7 +38,7 @@
 ## Words Count
 
 
- - **A1:** 18951
+ - **A1:** 494
  - **A2:** 498
  - **B1:** 984
  - **B2:** 1861
