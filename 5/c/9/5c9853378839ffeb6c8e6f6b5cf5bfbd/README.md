@@ -1,4 +1,4 @@
-# Short stories from Life: The 81 prize stories in "Life's" Shortest Story Contest <kbd>v2.0.2</kbd>
+# Short stories from Life: The 81 prize stories in "Life's" Shortest Story Contest <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 51%
- - **A2:** 58%
- - **B1:** 69%
- - **B2:** 82%
- - **C1:** 86%
+ - **A1:** 76%
+ - **A2:** 81%
+ - **B1:** 88%
+ - **B2:** 93%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 598
- - **A2:** 558
- - **B1:** 964
- - **B2:** 1507
- - **C1:** 695
- - **C2:** 4643
+ - **A1:** 492
+ - **A2:** 491
+ - **B1:** 881
+ - **B2:** 1388
+ - **C1:** 1577
+ - **C2:** 1133
 
 ## Source
 
