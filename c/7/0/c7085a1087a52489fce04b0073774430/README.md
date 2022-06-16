@@ -1,4 +1,4 @@
-# The Pilgrim's Progress from this world to that which is to come: Delivered under the similitude of a dream, by John Bunyan <kbd>v2.0.2</kbd>
+# The Pilgrim's Progress from this world to that which is to come: Delivered under the similitude of a dream, by John Bunyan <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 55%
- - **A2:** 62%
- - **B1:** 73%
- - **B2:** 86%
- - **C1:** 90%
+ - **A1:** 81%
+ - **A2:** 85%
+ - **B1:** 91%
+ - **B2:** 95%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 504
- - **A2:** 380
- - **B1:** 591
- - **B2:** 854
- - **C1:** 343
- - **C2:** 2098
+ - **A1:** 481
+ - **A2:** 396
+ - **B1:** 637
+ - **B2:** 835
+ - **C1:** 829
+ - **C2:** 424
 
 ## Source
 
