@@ -1,4 +1,4 @@
-# Dracula <kbd>v2.2.0</kbd>
+# Dracula <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -35,7 +35,7 @@
 ## Words Count
 
 
- - **A1:** 3491
+ - **A1:** 491
  - **A2:** 487
  - **B1:** 906
  - **B2:** 1527
