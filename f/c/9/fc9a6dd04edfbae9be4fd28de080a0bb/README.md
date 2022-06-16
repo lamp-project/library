@@ -1,4 +1,4 @@
-# The Complete Herbal: To which is now added, upwards of one hundred additional herbs, with a display of their medicinal and occult qualities physically applied to the cure of all disorders incident to mankind: to which are now first annexed, the English physician enlarged, and key to Physic. <kbd>v2.0.9</kbd>
+# The Complete Herbal: To which is now added, upwards of one hundred additional herbs, with a display of their medicinal and occult qualities physically applied to the cure of all disorders incident to mankind: to which are now first annexed, the English physician enlarged, and key to Physic. <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -24,22 +24,22 @@
 ## Readablility
 
 
- - **A1:** 60%
- - **A2:** 65%
- - **B1:** 72%
- - **B2:** 78%
- - **C1:** 80%
- - **C2:** 100%
+ - **A1:** 72%
+ - **A2:** 78%
+ - **B1:** 83%
+ - **B2:** 89%
+ - **C1:** 95%
+ - **C2:** 99%
 
 ## Words Count
 
 
- - **A1:** 752
- - **A2:** 526
- - **B1:** 765
- - **B2:** 1003
- - **C1:** 326
- - **C2:** 6653
+ - **A1:** 479
+ - **A2:** 404
+ - **B1:** 680
+ - **B2:** 965
+ - **C1:** 1129
+ - **C2:** 1054
 
 ## Source
 
