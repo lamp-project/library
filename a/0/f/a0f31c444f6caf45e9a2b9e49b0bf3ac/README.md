@@ -1,4 +1,4 @@
-# Poems by Emily Dickinson, Three Series, Complete <kbd>v2.0.2</kbd>
+# Poems by Emily Dickinson, Three Series, Complete <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 46%
- - **A2:** 53%
- - **B1:** 64%
- - **B2:** 79%
- - **C1:** 83%
+ - **A1:** 71%
+ - **A2:** 78%
+ - **B1:** 84%
+ - **B2:** 90%
+ - **C1:** 96%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 494
- - **A2:** 436
- - **B1:** 683
- - **B2:** 1079
- - **C1:** 471
- - **C2:** 3075
+ - **A1:** 478
+ - **A2:** 410
+ - **B1:** 668
+ - **B2:** 912
+ - **C1:** 1089
+ - **C2:** 855
 
 ## Source
 
