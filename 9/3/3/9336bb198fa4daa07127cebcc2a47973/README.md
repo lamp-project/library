@@ -1,4 +1,4 @@
-# The Spectator, Volumes 1, 2 and 3: With Translations and Index for the Series <kbd>v2.0.2</kbd>
+# The Spectator, Volumes 1, 2 and 3: With Translations and Index for the Series <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 51%
- - **A2:** 58%
- - **B1:** 69%
- - **B2:** 83%
- - **C1:** 86%
+ - **A1:** 77%
+ - **A2:** 82%
+ - **B1:** 88%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 699
- - **A2:** 766
- - **B1:** 1495
- - **B2:** 2735
- - **C1:** 1279
- - **C2:** 25761
+ - **A1:** 495
+ - **A2:** 497
+ - **B1:** 992
+ - **B2:** 1907
+ - **C1:** 3419
+ - **C2:** 4054
 
 ## Source
 
