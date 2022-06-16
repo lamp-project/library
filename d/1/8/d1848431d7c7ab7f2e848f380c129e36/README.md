@@ -1,4 +1,4 @@
-# Grimms' Fairy Tales <kbd>v2.2.0</kbd>
+# Grimms' Fairy Tales <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,7 +30,7 @@
 ## Words Count
 
 
- - **A1:** 1626
+ - **A1:** 486
  - **A2:** 439
  - **B1:** 719
  - **B2:** 993
