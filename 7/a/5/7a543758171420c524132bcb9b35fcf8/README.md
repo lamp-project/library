@@ -1,4 +1,4 @@
-# Fenimore Cooper's Literary Offences <kbd>v2.0.2</kbd>
+# Fenimore Cooper's Literary Offences <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 45%
- - **A2:** 52%
- - **B1:** 64%
- - **B2:** 82%
- - **C1:** 86%
+ - **A1:** 71%
+ - **A2:** 77%
+ - **B1:** 85%
+ - **B2:** 92%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 328
- - **A2:** 233
- - **B1:** 296
- - **B2:** 383
- - **C1:** 104
- - **C2:** 510
+ - **A1:** 389
+ - **A2:** 204
+ - **B1:** 282
+ - **B2:** 327
+ - **C1:** 258
+ - **C2:** 88
 
 ## Source
 
