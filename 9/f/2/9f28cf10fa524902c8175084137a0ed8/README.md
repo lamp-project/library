@@ -1,4 +1,4 @@
-# The Wonderful Wizard of Oz <kbd>v2.2.0</kbd>
+# The Wonderful Wizard of Oz <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -42,7 +42,7 @@
 ## Words Count
 
 
- - **A1:** 1043
+ - **A1:** 475
  - **A2:** 380
  - **B1:** 558
  - **B2:** 666
