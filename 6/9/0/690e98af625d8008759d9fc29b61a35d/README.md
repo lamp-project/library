@@ -1,4 +1,4 @@
-# The Great Gatsby <kbd>v2.2.0</kbd>
+# The Great Gatsby <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -33,7 +33,7 @@
 ## Words Count
 
 
- - **A1:** 2266
+ - **A1:** 485
  - **A2:** 449
  - **B1:** 720
  - **B2:** 994
