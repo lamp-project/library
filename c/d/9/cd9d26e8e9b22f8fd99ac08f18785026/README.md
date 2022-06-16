@@ -1,4 +1,4 @@
-# Myths of the Cherokee: Extract from the Nineteenth Annual Report of the Bureau of American Ethnology <kbd>v2.0.2</kbd>
+# Myths of the Cherokee: Extract from the Nineteenth Annual Report of the Bureau of American Ethnology <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 48%
- - **A2:** 55%
- - **B1:** 65%
- - **B2:** 79%
- - **C1:** 83%
+ - **A1:** 74%
+ - **A2:** 80%
+ - **B1:** 86%
+ - **B2:** 92%
+ - **C1:** 96%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 657
- - **A2:** 705
- - **B1:** 1251
- - **B2:** 2167
- - **C1:** 996
- - **C2:** 9338
+ - **A1:** 494
+ - **A2:** 490
+ - **B1:** 957
+ - **B2:** 1729
+ - **C1:** 2462
+ - **C2:** 1995
 
 ## Source
 
