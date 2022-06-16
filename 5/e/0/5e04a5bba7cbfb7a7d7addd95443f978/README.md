@@ -1,4 +1,4 @@
-# The Decameron of Giovanni Boccaccio <kbd>v2.0.2</kbd>
+# The Decameron of Giovanni Boccaccio <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 53%
- - **A2:** 60%
- - **B1:** 69%
- - **B2:** 81%
- - **C1:** 84%
+ - **A1:** 79%
+ - **A2:** 84%
+ - **B1:** 89%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 591
- - **A2:** 548
- - **B1:** 971
- - **B2:** 1593
- - **C1:** 699
- - **C2:** 8830
+ - **A1:** 493
+ - **A2:** 478
+ - **B1:** 892
+ - **B2:** 1456
+ - **C1:** 1914
+ - **C2:** 1678
 
 ## Source
 
