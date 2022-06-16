@@ -1,4 +1,4 @@
-# The Aesop for Children: With pictures by Milo Winter <kbd>v2.0.2</kbd>
+# The Aesop for Children: With pictures by Milo Winter <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -21,22 +21,22 @@
 ## Readablility
 
 
- - **A1:** 53%
- - **A2:** 59%
- - **B1:** 71%
- - **B2:** 86%
- - **C1:** 90%
+ - **A1:** 73%
+ - **A2:** 79%
+ - **B1:** 85%
+ - **B2:** 91%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 462
- - **A2:** 345
- - **B1:** 559
- - **B2:** 771
- - **C1:** 298
- - **C2:** 1300
+ - **A1:** 464
+ - **A2:** 369
+ - **B1:** 587
+ - **B2:** 726
+ - **C1:** 643
+ - **C2:** 263
 
 ## Source
 
