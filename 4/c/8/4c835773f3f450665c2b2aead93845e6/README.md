@@ -1,4 +1,4 @@
-# R.U.R. (Rossum's Universal Robots): A Fantastic Melodrama in Three Acts and an Epilogue <kbd>v2.0.2</kbd>
+# R.U.R. (Rossum's Universal Robots): A Fantastic Melodrama in Three Acts and an Epilogue <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 46%
- - **A2:** 52%
- - **B1:** 63%
- - **B2:** 77%
- - **C1:** 80%
+ - **A1:** 75%
+ - **A2:** 82%
+ - **B1:** 87%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 466
- - **A2:** 371
- - **B1:** 521
- - **B2:** 687
- - **C1:** 243
- - **C2:** 1001
+ - **A1:** 458
+ - **A2:** 331
+ - **B1:** 490
+ - **B2:** 597
+ - **C1:** 483
+ - **C2:** 231
 
 ## Source
 
