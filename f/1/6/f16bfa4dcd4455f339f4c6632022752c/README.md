@@ -1,4 +1,4 @@
-# Alice's Adventures in Wonderland <kbd>v2.2.0</kbd>
+# Alice's Adventures in Wonderland <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -32,7 +32,7 @@
 ## Words Count
 
 
- - **A1:** 1031
+ - **A1:** 466
  - **A2:** 350
  - **B1:** 484
  - **B2:** 553
