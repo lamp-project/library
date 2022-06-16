@@ -1,4 +1,4 @@
-# Three Men in a Boat (To Say Nothing of the Dog) <kbd>v2.0.9</kbd>
+# Three Men in a Boat (To Say Nothing of the Dog) <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -24,22 +24,22 @@
 ## Readablility
 
 
- - **A1:** 71%
- - **A2:** 77%
- - **B1:** 83%
- - **B2:** 88%
- - **C1:** 89%
+ - **A1:** 78%
+ - **A2:** 84%
+ - **B1:** 89%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 814
- - **A2:** 593
- - **B1:** 912
- - **B2:** 1103
- - **C1:** 376
- - **C2:** 3268
+ - **A1:** 489
+ - **A2:** 471
+ - **B1:** 809
+ - **B2:** 1193
+ - **C1:** 1311
+ - **C2:** 832
 
 ## Source
 
