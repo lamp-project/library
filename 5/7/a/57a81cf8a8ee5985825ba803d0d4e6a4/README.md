@@ -1,4 +1,4 @@
-# Uncle Vanya: Scenes from Country Life in Four Acts <kbd>v2.0.2</kbd>
+# Uncle Vanya: Scenes from Country Life in Four Acts <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 53%
- - **A2:** 59%
- - **B1:** 71%
- - **B2:** 83%
- - **C1:** 87%
+ - **A1:** 77%
+ - **A2:** 84%
+ - **B1:** 90%
+ - **B2:** 95%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 435
- - **A2:** 309
- - **B1:** 458
- - **B2:** 541
- - **C1:** 225
- - **C2:** 874
+ - **A1:** 452
+ - **A2:** 331
+ - **B1:** 439
+ - **B2:** 523
+ - **C1:** 421
+ - **C2:** 187
 
 ## Source
 
