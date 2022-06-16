@@ -1,4 +1,4 @@
-# An Inquiry into the Nature and Causes of the Wealth of Nations <kbd>v2.0.9</kbd>
+# An Inquiry into the Nature and Causes of the Wealth of Nations <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 68%
- - **A2:** 75%
- - **B1:** 82%
- - **B2:** 89%
- - **C1:** 91%
+ - **A1:** 73%
+ - **A2:** 79%
+ - **B1:** 87%
+ - **B2:** 93%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 851
- - **A2:** 672
- - **B1:** 1045
- - **B2:** 1498
- - **C1:** 500
- - **C2:** 5173
+ - **A1:** 480
+ - **A2:** 455
+ - **B1:** 803
+ - **B2:** 1336
+ - **C1:** 1757
+ - **C2:** 1306
 
 ## Source
 
