@@ -1,4 +1,4 @@
-# A Little Princess: Being the whole story of Sara Crewe now told for the first time <kbd>v2.0.2</kbd>
+# A Little Princess: Being the whole story of Sara Crewe now told for the first time <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -23,22 +23,22 @@
 ## Readablility
 
 
- - **A1:** 57%
- - **A2:** 64%
- - **B1:** 74%
- - **B2:** 85%
- - **C1:** 88%
+ - **A1:** 80%
+ - **A2:** 86%
+ - **B1:** 91%
+ - **B2:** 95%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 547
- - **A2:** 441
- - **B1:** 701
- - **B2:** 1003
- - **C1:** 394
- - **C2:** 2298
+ - **A1:** 487
+ - **A2:** 423
+ - **B1:** 725
+ - **B2:** 924
+ - **C1:** 945
+ - **C2:** 461
 
 ## Source
 
