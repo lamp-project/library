@@ -1,4 +1,4 @@
-# Foods That Will Win the War and How to Cook Them (1918) <kbd>v2.0.2</kbd>
+# Foods That Will Win the War and How to Cook Them (1918) <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -22,22 +22,22 @@
 ## Readablility
 
 
- - **A1:** 35%
- - **A2:** 43%
- - **B1:** 55%
- - **B2:** 80%
- - **C1:** 85%
- - **C2:** 100%
+ - **A1:** 55%
+ - **A2:** 60%
+ - **B1:** 73%
+ - **B2:** 81%
+ - **C1:** 92%
+ - **C2:** 99%
 
 ## Words Count
 
 
- - **A1:** 388
- - **A2:** 297
- - **B1:** 446
- - **B2:** 666
- - **C1:** 225
- - **C2:** 1145
+ - **A1:** 385
+ - **A2:** 248
+ - **B1:** 387
+ - **B2:** 490
+ - **C1:** 466
+ - **C2:** 390
 
 ## Source
 
