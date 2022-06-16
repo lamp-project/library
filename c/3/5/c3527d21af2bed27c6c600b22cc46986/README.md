@@ -1,4 +1,4 @@
-# English Literature: Its History and Its Significance for the Life of the English-Speaking World <kbd>v2.0.2</kbd>
+# English Literature: Its History and Its Significance for the Life of the English-Speaking World <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 45%
- - **A2:** 52%
- - **B1:** 63%
- - **B2:** 79%
- - **C1:** 82%
+ - **A1:** 73%
+ - **A2:** 79%
+ - **B1:** 85%
+ - **B2:** 92%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 647
- - **A2:** 676
- - **B1:** 1197
- - **B2:** 2023
- - **C1:** 866
- - **C2:** 9730
+ - **A1:** 495
+ - **A2:** 490
+ - **B1:** 963
+ - **B2:** 1720
+ - **C1:** 2394
+ - **C2:** 1902
 
 ## Source
 
