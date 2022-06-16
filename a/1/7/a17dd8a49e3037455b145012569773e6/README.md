@@ -1,4 +1,4 @@
-# Wieland; Or, The Transformation: An American Tale <kbd>v2.0.2</kbd>
+# Wieland; Or, The Transformation: An American Tale <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,22 +28,22 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 58%
- - **B1:** 68%
- - **B2:** 83%
- - **C1:** 87%
+ - **A1:** 73%
+ - **A2:** 79%
+ - **B1:** 85%
+ - **B2:** 92%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 513
- - **A2:** 488
- - **B1:** 811
- - **B2:** 1339
- - **C1:** 575
- - **C2:** 3932
+ - **A1:** 486
+ - **A2:** 436
+ - **B1:** 803
+ - **B2:** 1293
+ - **C1:** 1565
+ - **C2:** 1034
 
 ## Source
 
