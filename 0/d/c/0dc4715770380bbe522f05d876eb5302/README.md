@@ -1,4 +1,4 @@
-# The American Diary of a Japanese Girl <kbd>v2.0.9</kbd>
+# The American Diary of a Japanese Girl <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -20,22 +20,22 @@
 ## Readablility
 
 
- - **A1:** 63%
- - **A2:** 69%
- - **B1:** 76%
- - **B2:** 83%
- - **C1:** 85%
+ - **A1:** 73%
+ - **A2:** 79%
+ - **B1:** 85%
+ - **B2:** 92%
+ - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 745
- - **A2:** 519
- - **B1:** 771
- - **B2:** 982
- - **C1:** 378
- - **C2:** 2959
+ - **A1:** 486
+ - **A2:** 445
+ - **B1:** 699
+ - **B2:** 1050
+ - **C1:** 1187
+ - **C2:** 714
 
 ## Source
 
