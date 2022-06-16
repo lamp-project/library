@@ -1,4 +1,4 @@
-# The Playboy of the Western World: A Comedy in Three Acts <kbd>v2.0.2</kbd>
+# The Playboy of the Western World: A Comedy in Three Acts <kbd>v2.2.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,22 +19,22 @@
 ## Readablility
 
 
- - **A1:** 50%
- - **A2:** 55%
- - **B1:** 64%
- - **B2:** 77%
- - **C1:** 81%
+ - **A1:** 77%
+ - **A2:** 83%
+ - **B1:** 88%
+ - **B2:** 94%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 422
- - **A2:** 290
- - **B1:** 447
- - **B2:** 619
- - **C1:** 255
- - **C2:** 1365
+ - **A1:** 434
+ - **A2:** 299
+ - **B1:** 442
+ - **B2:** 536
+ - **C1:** 478
+ - **C2:** 263
 
 ## Source
 
