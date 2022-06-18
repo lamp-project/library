@@ -1,4 +1,4 @@
-# Up from Slavery: An Autobiography <kbd>v2.2.1</kbd>
+# Up from Slavery: An Autobiography <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
