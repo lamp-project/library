@@ -1,4 +1,4 @@
-# Essays by Ralph Waldo Emerson <kbd>v2.2.1</kbd>
+# Essays by Ralph Waldo Emerson <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
