@@ -1,4 +1,4 @@
-# Nick Carter Stories No. 151, July 31, 1915: The Mystery of the Crossed Needles; or Nick Carter and the Yellow Tong <kbd>v2.2.1</kbd>
+# Nick Carter Stories No. 151, July 31, 1915: The Mystery of the Crossed Needles; or Nick Carter and the Yellow Tong <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
