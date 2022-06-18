@@ -1,4 +1,4 @@
-# His Last Bow: An Epilogue of Sherlock Holmes <kbd>v2.2.1</kbd>
+# His Last Bow: An Epilogue of Sherlock Holmes <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
