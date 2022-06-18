@@ -1,4 +1,4 @@
-# Poems by William Cullen Bryant <kbd>v2.2.1</kbd>
+# Poems by William Cullen Bryant <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
