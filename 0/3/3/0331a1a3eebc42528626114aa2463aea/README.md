@@ -1,4 +1,4 @@
-# The Strange Case of Dr. Jekyll and Mr. Hyde <kbd>v2.2.1</kbd>
+# The Strange Case of Dr. Jekyll and Mr. Hyde <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
