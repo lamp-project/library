@@ -1,4 +1,4 @@
-# The Oera Linda Book, from a Manuscript of the Thirteenth Century <kbd>v2.2.1</kbd>
+# The Oera Linda Book, from a Manuscript of the Thirteenth Century <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
