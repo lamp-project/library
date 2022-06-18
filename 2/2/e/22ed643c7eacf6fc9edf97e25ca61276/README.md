@@ -1,4 +1,4 @@
-# Heidi: (Gift Edition) <kbd>v2.2.1</kbd>
+# Heidi: (Gift Edition) <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
