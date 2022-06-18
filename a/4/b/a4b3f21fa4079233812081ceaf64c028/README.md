@@ -1,4 +1,4 @@
-# Love and tea: A comedy-drama of colonial times in two acts <kbd>v2.2.1</kbd>
+# Love and tea: A comedy-drama of colonial times in two acts <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
