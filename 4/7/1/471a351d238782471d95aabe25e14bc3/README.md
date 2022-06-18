@@ -1,4 +1,4 @@
-# On the Origin of Species By Means of Natural Selection: Or, the Preservation of Favoured Races in the Struggle for Life <kbd>v2.2.1</kbd>
+# On the Origin of Species By Means of Natural Selection: Or, the Preservation of Favoured Races in the Struggle for Life <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
