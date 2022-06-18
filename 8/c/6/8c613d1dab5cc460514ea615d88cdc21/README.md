@@ -1,4 +1,4 @@
-# Texas Fossils: An Amateur Collector's Handbook <kbd>v2.2.1</kbd>
+# Texas Fossils: An Amateur Collector's Handbook <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
