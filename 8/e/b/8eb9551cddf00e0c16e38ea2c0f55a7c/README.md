@@ -1,4 +1,4 @@
-# A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind <kbd>v2.2.1</kbd>
+# A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
