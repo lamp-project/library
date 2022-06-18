@@ -1,4 +1,4 @@
-# Hawaiian Folk Tales: A Collection of Native Legends <kbd>v2.2.1</kbd>
+# Hawaiian Folk Tales: A Collection of Native Legends <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
