@@ -1,4 +1,4 @@
-# Lineage, Life and Labors of José Rizal, Philippine Patriot <kbd>v2.2.1</kbd>
+# Lineage, Life and Labors of José Rizal, Philippine Patriot <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
