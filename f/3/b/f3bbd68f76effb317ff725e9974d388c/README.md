@@ -1,4 +1,4 @@
-# Micrographia: Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon <kbd>v2.2.1</kbd>
+# Micrographia: Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
