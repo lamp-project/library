@@ -1,4 +1,4 @@
-# The Gift of the Magi <kbd>v2.2.1</kbd>
+# The Gift of the Magi <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
