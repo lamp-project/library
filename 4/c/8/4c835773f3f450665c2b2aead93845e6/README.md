@@ -1,4 +1,4 @@
-# R.U.R. (Rossum's Universal Robots): A Fantastic Melodrama in Three Acts and an Epilogue <kbd>v2.2.1</kbd>
+# R.U.R. (Rossum's Universal Robots): A Fantastic Melodrama in Three Acts and an Epilogue <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
