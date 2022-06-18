@@ -1,4 +1,4 @@
-# The Playboy of the Western World: A Comedy in Three Acts <kbd>v2.2.1</kbd>
+# The Playboy of the Western World: A Comedy in Three Acts <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
