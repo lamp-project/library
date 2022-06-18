@@ -1,4 +1,4 @@
-# The Slang Dictionary: Etymological, Historical and Andecdotal <kbd>v2.2.1</kbd>
+# The Slang Dictionary: Etymological, Historical and Andecdotal <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
