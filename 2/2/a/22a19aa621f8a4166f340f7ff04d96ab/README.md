@@ -1,4 +1,4 @@
-# Hidden Symbolism of Alchemy and the Occult Arts <kbd>v2.2.1</kbd>
+# Hidden Symbolism of Alchemy and the Occult Arts <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
