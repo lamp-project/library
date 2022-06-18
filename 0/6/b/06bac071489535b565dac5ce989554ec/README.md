@@ -1,4 +1,4 @@
-# Plant Lore, Legends, and Lyrics: Embracing the Myths, Traditions, Superstitions, and Folk-Lore of the Plant Kingdom <kbd>v2.2.1</kbd>
+# Plant Lore, Legends, and Lyrics: Embracing the Myths, Traditions, Superstitions, and Folk-Lore of the Plant Kingdom <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
