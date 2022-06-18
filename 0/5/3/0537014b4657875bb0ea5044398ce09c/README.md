@@ -1,4 +1,4 @@
-# The man in grey: Being episodes of the Chovan conspiracies in Normandy during the First Empire. <kbd>v2.2.1</kbd>
+# The man in grey: Being episodes of the Chovan conspiracies in Normandy during the First Empire. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
