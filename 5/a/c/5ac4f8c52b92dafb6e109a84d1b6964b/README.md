@@ -1,4 +1,4 @@
-# Pascal's Pensées <kbd>v2.2.1</kbd>
+# Pascal's Pensées <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
