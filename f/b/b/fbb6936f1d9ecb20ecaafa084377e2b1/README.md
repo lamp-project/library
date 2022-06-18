@@ -1,4 +1,4 @@
-# Helps to Latin Translation at Sight <kbd>v2.2.1</kbd>
+# Helps to Latin Translation at Sight <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
