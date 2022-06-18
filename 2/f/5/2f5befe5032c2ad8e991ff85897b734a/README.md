@@ -1,4 +1,4 @@
-# The Younger Edda; Also called Snorre's Edda, or The Prose Edda <kbd>v2.2.1</kbd>
+# The Younger Edda; Also called Snorre's Edda, or The Prose Edda <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
