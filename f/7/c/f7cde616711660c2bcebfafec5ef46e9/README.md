@@ -1,4 +1,4 @@
-# The blackest page in modern history: Events in Armenia in 1915: the facts and the responsibilities <kbd>v2.2.1</kbd>
+# The blackest page in modern history: Events in Armenia in 1915: the facts and the responsibilities <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
