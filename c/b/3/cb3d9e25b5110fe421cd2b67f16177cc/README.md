@@ -1,4 +1,4 @@
-# A History of the Philippines <kbd>v2.2.1</kbd>
+# A History of the Philippines <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
