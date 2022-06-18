@@ -1,4 +1,4 @@
-# An outline of humor: Being a true chronicle from prehistoric ages to the twentieth century <kbd>v2.2.1</kbd>
+# An outline of humor: Being a true chronicle from prehistoric ages to the twentieth century <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
