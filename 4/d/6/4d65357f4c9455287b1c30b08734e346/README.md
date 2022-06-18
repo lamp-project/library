@@ -1,4 +1,4 @@
-# Flatland: A Romance of Many Dimensions (Illustrated) <kbd>v2.2.1</kbd>
+# Flatland: A Romance of Many Dimensions (Illustrated) <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
