@@ -1,4 +1,4 @@
-# How to Live on 24 Hours a Day <kbd>v2.2.1</kbd>
+# How to Live on 24 Hours a Day <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
