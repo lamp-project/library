@@ -1,4 +1,4 @@
-# The Frugal Life: A Paradox <kbd>v2.2.1</kbd>
+# The Frugal Life: A Paradox <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
