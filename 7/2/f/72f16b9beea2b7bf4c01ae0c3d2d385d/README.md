@@ -1,4 +1,4 @@
-# How the Other Half Lives: Studies Among the Tenements of New York <kbd>v2.2.1</kbd>
+# How the Other Half Lives: Studies Among the Tenements of New York <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
