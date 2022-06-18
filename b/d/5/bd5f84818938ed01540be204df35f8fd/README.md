@@ -1,4 +1,4 @@
-# Moby Multiple Language Lists of Common Words <kbd>v2.2.1</kbd>
+# Moby Multiple Language Lists of Common Words <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
