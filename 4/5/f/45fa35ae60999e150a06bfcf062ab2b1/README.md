@@ -1,4 +1,4 @@
-# Southern Horrors: Lynch Law in All Its Phases <kbd>v2.2.1</kbd>
+# Southern Horrors: Lynch Law in All Its Phases <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
