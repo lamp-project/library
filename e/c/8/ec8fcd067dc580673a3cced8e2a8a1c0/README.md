@@ -1,4 +1,4 @@
-# The House of the Seven Gables <kbd>v2.2.1</kbd>
+# The House of the Seven Gables <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
