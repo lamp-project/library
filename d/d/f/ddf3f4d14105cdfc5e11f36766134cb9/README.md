@@ -1,4 +1,4 @@
-# A Vindication of the Rights of Woman: With Strictures on Political and Moral Subjects <kbd>v2.2.1</kbd>
+# A Vindication of the Rights of Woman: With Strictures on Political and Moral Subjects <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
