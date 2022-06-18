@@ -1,4 +1,4 @@
-# English Literature: Its History and Its Significance for the Life of the English-Speaking World <kbd>v2.2.1</kbd>
+# English Literature: Its History and Its Significance for the Life of the English-Speaking World <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
