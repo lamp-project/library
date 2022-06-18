@@ -1,4 +1,4 @@
-# Salt mines and castles: The discovery and restitution of looted European art <kbd>v2.2.1</kbd>
+# Salt mines and castles: The discovery and restitution of looted European art <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
