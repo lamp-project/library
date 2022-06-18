@@ -1,4 +1,4 @@
-# Scenes from a Courtesan's Life <kbd>v2.2.1</kbd>
+# Scenes from a Courtesan's Life <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
