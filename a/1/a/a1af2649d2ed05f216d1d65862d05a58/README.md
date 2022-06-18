@@ -1,4 +1,4 @@
-# The Letters of Wolfgang Amadeus Mozart — Volume 01 <kbd>v2.2.1</kbd>
+# The Letters of Wolfgang Amadeus Mozart — Volume 01 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
