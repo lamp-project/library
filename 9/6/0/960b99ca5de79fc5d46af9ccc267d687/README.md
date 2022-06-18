@@ -1,4 +1,4 @@
-# With the pilgrims to Mecca: The great pilgrimage of A.H. 1319; A.D. 1902 <kbd>v2.2.1</kbd>
+# With the pilgrims to Mecca: The great pilgrimage of A.H. 1319; A.D. 1902 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
