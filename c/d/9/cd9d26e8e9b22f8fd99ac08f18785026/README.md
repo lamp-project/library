@@ -1,4 +1,4 @@
-# Myths of the Cherokee: Extract from the Nineteenth Annual Report of the Bureau of American Ethnology <kbd>v2.2.1</kbd>
+# Myths of the Cherokee: Extract from the Nineteenth Annual Report of the Bureau of American Ethnology <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
