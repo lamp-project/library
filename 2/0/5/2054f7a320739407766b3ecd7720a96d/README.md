@@ -1,4 +1,4 @@
-# Revelations of Divine Love <kbd>v2.2.1</kbd>
+# Revelations of Divine Love <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
