@@ -1,4 +1,4 @@
-# Fathers and Sons <kbd>v2.2.1</kbd>
+# Fathers and Sons <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
