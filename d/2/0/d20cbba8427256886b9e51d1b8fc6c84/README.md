@@ -1,4 +1,4 @@
-# Spenser's The Faerie Queene, Book I <kbd>v2.2.1</kbd>
+# Spenser's The Faerie Queene, Book I <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
