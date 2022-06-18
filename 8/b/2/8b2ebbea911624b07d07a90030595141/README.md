@@ -1,4 +1,4 @@
-# Educational Toys: Consisting Chiefly of Coping-Saw Problems for Children in School and the Home <kbd>v2.2.1</kbd>
+# Educational Toys: Consisting Chiefly of Coping-Saw Problems for Children in School and the Home <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
