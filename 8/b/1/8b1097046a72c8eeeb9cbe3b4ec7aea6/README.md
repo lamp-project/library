@@ -1,4 +1,4 @@
-# Chinese Pottery and Porcelain: Vol. 1. Pottery and Early Wares <kbd>v2.2.1</kbd>
+# Chinese Pottery and Porcelain: Vol. 1. Pottery and Early Wares <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
