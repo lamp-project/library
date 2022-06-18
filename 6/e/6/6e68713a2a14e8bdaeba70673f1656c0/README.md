@@ -1,4 +1,4 @@
-# Twentieth Century French Writers: Reviews and Reminiscences <kbd>v2.2.1</kbd>
+# Twentieth Century French Writers: Reviews and Reminiscences <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
