@@ -1,4 +1,4 @@
-# Tea-Cup Reading and Fortune-Telling by Tea Leaves, by a Highland Seer <kbd>v2.2.1</kbd>
+# Tea-Cup Reading and Fortune-Telling by Tea Leaves, by a Highland Seer <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
