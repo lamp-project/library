@@ -1,4 +1,4 @@
-# The Symbolism of Freemasonry: Illustrating and Explaining Its Science and Philosophy, Its Legends, Myths and Symbols <kbd>v2.2.1</kbd>
+# The Symbolism of Freemasonry: Illustrating and Explaining Its Science and Philosophy, Its Legends, Myths and Symbols <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
