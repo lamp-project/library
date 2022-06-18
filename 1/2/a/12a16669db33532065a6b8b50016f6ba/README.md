@@ -1,4 +1,4 @@
-# The Anabasis of Alexander: or, The History of the Wars and Conquests of Alexander the Great <kbd>v2.2.1</kbd>
+# The Anabasis of Alexander: or, The History of the Wars and Conquests of Alexander the Great <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
