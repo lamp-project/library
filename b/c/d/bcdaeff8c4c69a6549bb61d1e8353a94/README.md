@@ -1,4 +1,4 @@
-# Bartleby, the Scrivener: A Story of Wall-Street <kbd>v2.2.1</kbd>
+# Bartleby, the Scrivener: A Story of Wall-Street <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
