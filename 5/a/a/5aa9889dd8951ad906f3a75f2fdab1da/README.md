@@ -1,4 +1,4 @@
-# Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore <kbd>v2.2.1</kbd>
+# Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
