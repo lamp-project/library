@@ -1,4 +1,4 @@
-# Jane Eyre: An Autobiography <kbd>v2.2.1</kbd>
+# Jane Eyre: An Autobiography <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
