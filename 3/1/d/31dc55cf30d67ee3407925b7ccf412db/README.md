@@ -1,4 +1,4 @@
-# Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences <kbd>v2.2.1</kbd>
+# Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
