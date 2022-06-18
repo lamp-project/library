@@ -1,4 +1,4 @@
-# The Vortex: A Play in Three Acts <kbd>v2.2.1</kbd>
+# The Vortex: A Play in Three Acts <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
