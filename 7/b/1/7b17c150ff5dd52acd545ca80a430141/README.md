@@ -1,4 +1,4 @@
-# The Will to Believe, and Other Essays in Popular Philosophy <kbd>v2.2.1</kbd>
+# The Will to Believe, and Other Essays in Popular Philosophy <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
