@@ -1,4 +1,4 @@
-# Pamela, or Virtue Rewarded <kbd>v2.2.1</kbd>
+# Pamela, or Virtue Rewarded <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
