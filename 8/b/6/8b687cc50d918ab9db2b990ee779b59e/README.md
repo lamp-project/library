@@ -1,4 +1,4 @@
-# The man among the monkeys; or, Ninety days in apeland: To which are added: The philosopher and his monkeys, The professor and the crocodile, and other strange stories of men and animals <kbd>v2.2.1</kbd>
+# The man among the monkeys; or, Ninety days in apeland: To which are added: The philosopher and his monkeys, The professor and the crocodile, and other strange stories of men and animals <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
