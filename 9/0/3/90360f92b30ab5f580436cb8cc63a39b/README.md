@@ -1,4 +1,4 @@
-# The Picture of Dorian Gray <kbd>v2.2.1</kbd>
+# The Picture of Dorian Gray <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
