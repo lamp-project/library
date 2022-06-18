@@ -1,4 +1,4 @@
-# Apology, Crito, and Phaedo of Socrates <kbd>v2.2.1</kbd>
+# Apology, Crito, and Phaedo of Socrates <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
