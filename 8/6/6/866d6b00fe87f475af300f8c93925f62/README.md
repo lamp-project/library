@@ -1,4 +1,4 @@
-# Idylls of the King <kbd>v2.2.1</kbd>
+# Idylls of the King <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
