@@ -1,4 +1,4 @@
-# Diabetes: Its Cause and Its Treatment With Insulin <kbd>v2.2.1</kbd>
+# Diabetes: Its Cause and Its Treatment With Insulin <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
