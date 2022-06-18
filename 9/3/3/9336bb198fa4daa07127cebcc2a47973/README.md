@@ -1,4 +1,4 @@
-# The Spectator, Volumes 1, 2 and 3: With Translations and Index for the Series <kbd>v2.2.1</kbd>
+# The Spectator, Volumes 1, 2 and 3: With Translations and Index for the Series <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
