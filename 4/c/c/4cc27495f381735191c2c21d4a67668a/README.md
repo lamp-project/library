@@ -1,4 +1,4 @@
-# South: The Story of Shackleton's Last Expedition, 1914-1917 <kbd>v2.2.1</kbd>
+# South: The Story of Shackleton's Last Expedition, 1914-1917 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
