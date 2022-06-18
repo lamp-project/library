@@ -1,4 +1,4 @@
-# Model aeroplanes: The building of model monoplanes, biplanes, etc., together with a chapter on building a model airship <kbd>v2.2.1</kbd>
+# Model aeroplanes: The building of model monoplanes, biplanes, etc., together with a chapter on building a model airship <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
