@@ -1,4 +1,4 @@
-# Dorothy and the Wizard in Oz <kbd>v2.2.1</kbd>
+# Dorothy and the Wizard in Oz <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
