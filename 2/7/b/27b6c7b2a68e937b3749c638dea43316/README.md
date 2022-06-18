@@ -1,4 +1,4 @@
-# Complete Original Short Stories of Guy De Maupassant <kbd>v2.2.1</kbd>
+# Complete Original Short Stories of Guy De Maupassant <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
