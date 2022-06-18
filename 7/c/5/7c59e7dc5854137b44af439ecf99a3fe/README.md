@@ -1,4 +1,4 @@
-# The book of the ancient Greeks: An Introduction to the History and Civilization of Greece from the Coming of the Greeks to the Conquest of Corinth by Rome in 146 B.C. <kbd>v2.2.1</kbd>
+# The book of the ancient Greeks: An Introduction to the History and Civilization of Greece from the Coming of the Greeks to the Conquest of Corinth by Rome in 146 B.C. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
