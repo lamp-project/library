@@ -1,4 +1,4 @@
-# McGuffey's Eclectic Primer, Revised Edition <kbd>v2.2.1</kbd>
+# McGuffey's Eclectic Primer, Revised Edition <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
