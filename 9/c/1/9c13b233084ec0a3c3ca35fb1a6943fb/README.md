@@ -1,4 +1,4 @@
-# Boswell's Life of Johnson: Abridged and edited, with an introduction by Charles Grosvenor Osgood <kbd>v2.2.1</kbd>
+# Boswell's Life of Johnson: Abridged and edited, with an introduction by Charles Grosvenor Osgood <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
