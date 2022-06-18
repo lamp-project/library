@@ -1,4 +1,4 @@
-# In the volcano's mouth; or, A boy against an army <kbd>v2.2.1</kbd>
+# In the volcano's mouth; or, A boy against an army <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
