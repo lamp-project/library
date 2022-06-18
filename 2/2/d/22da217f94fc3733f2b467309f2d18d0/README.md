@@ -1,4 +1,4 @@
-# The Ladies' Book of Etiquette, and Manual of Politeness: A Complete Hand Book for the Use of the Lady in Polite Society <kbd>v2.2.1</kbd>
+# The Ladies' Book of Etiquette, and Manual of Politeness: A Complete Hand Book for the Use of the Lady in Polite Society <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
