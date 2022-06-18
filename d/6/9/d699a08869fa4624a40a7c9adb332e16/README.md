@@ -1,4 +1,4 @@
-# Nick Carter Stories No. 152, August 7, 1915: The Forced Crime; or, Nick Carter's Brazen Clew. <kbd>v2.2.1</kbd>
+# Nick Carter Stories No. 152, August 7, 1915: The Forced Crime; or, Nick Carter's Brazen Clew. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
