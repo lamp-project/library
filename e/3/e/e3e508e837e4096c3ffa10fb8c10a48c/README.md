@@ -1,4 +1,4 @@
-# Nick Carter Stories No. 154, August 21, 1915: The mask of death; or, Nick Carter's curious case. <kbd>v2.2.1</kbd>
+# Nick Carter Stories No. 154, August 21, 1915: The mask of death; or, Nick Carter's curious case. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
