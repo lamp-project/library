@@ -1,4 +1,4 @@
-# The Life and Opinions of Tristram Shandy, Gentleman <kbd>v2.2.1</kbd>
+# The Life and Opinions of Tristram Shandy, Gentleman <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
