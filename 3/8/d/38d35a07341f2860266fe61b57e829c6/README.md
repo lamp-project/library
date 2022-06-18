@@ -1,4 +1,4 @@
-# The power of kindness and other stories: A book for the example and encouragement of the young <kbd>v2.2.1</kbd>
+# The power of kindness and other stories: A book for the example and encouragement of the young <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
