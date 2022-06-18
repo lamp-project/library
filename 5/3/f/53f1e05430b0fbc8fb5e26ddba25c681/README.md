@@ -1,4 +1,4 @@
-# Lucifer: A Theosophical Magazine. Volume I. September 1887-February 1888. <kbd>v2.2.1</kbd>
+# Lucifer: A Theosophical Magazine. Volume I. September 1887-February 1888. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
