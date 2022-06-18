@@ -1,4 +1,4 @@
-# A History of Epidemics in Britain, Volume 1 (of 2): From A.D. 664 to the Extinction of Plague <kbd>v2.2.1</kbd>
+# A History of Epidemics in Britain, Volume 1 (of 2): From A.D. 664 to the Extinction of Plague <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
