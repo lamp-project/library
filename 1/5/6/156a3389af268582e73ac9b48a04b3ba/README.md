@@ -1,4 +1,4 @@
-# The History of England, from the Accession of James II — Volume 5 <kbd>v2.2.1</kbd>
+# The History of England, from the Accession of James II — Volume 5 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
