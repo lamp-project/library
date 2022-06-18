@@ -1,4 +1,4 @@
-# Bradford's History of 'Plimoth Plantation': From the Original Manuscript. With a Report of the Proceedings Incident to the Return of the Manuscript to Massachusetts <kbd>v2.2.1</kbd>
+# Bradford's History of 'Plimoth Plantation': From the Original Manuscript. With a Report of the Proceedings Incident to the Return of the Manuscript to Massachusetts <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
