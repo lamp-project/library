@@ -1,4 +1,4 @@
-# "The Kingdom of God Is Within You": Christianity Not as a Mystic Religion but as a New Theory of Life <kbd>v2.2.1</kbd>
+# "The Kingdom of God Is Within You": Christianity Not as a Mystic Religion but as a New Theory of Life <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
