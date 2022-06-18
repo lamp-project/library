@@ -1,4 +1,4 @@
-# Monday or Tuesday <kbd>v2.2.1</kbd>
+# Monday or Tuesday <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
