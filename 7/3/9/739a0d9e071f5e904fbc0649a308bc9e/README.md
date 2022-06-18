@@ -1,4 +1,4 @@
-# Faust [part 1]. Translated Into English in the Original Metres <kbd>v2.2.1</kbd>
+# Faust [part 1]. Translated Into English in the Original Metres <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
