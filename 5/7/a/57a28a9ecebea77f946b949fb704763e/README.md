@@ -1,4 +1,4 @@
-# The World as Will and Idea (Vol. 1 of 3) <kbd>v2.2.1</kbd>
+# The World as Will and Idea (Vol. 1 of 3) <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
