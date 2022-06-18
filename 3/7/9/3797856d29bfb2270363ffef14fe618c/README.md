@@ -1,4 +1,4 @@
-# Heimskringla; Or, The Chronicle of the Kings of Norway <kbd>v2.2.1</kbd>
+# Heimskringla; Or, The Chronicle of the Kings of Norway <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
