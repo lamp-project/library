@@ -1,4 +1,4 @@
-# The Principles of Masonic Law: A Treatise on the Constitutional Laws, Usages and Landmarks of Freemasonry <kbd>v2.2.1</kbd>
+# The Principles of Masonic Law: A Treatise on the Constitutional Laws, Usages and Landmarks of Freemasonry <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
