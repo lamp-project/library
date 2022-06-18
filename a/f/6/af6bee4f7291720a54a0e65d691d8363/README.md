@@ -1,4 +1,4 @@
-# Proofs of a Conspiracy against all the Religions and Governments of Europe: carried on in the secret meetings of Free Masons, Illuminati, and reading societies. <kbd>v2.2.1</kbd>
+# Proofs of a Conspiracy against all the Religions and Governments of Europe: carried on in the secret meetings of Free Masons, Illuminati, and reading societies. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
