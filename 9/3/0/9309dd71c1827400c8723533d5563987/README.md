@@ -1,4 +1,4 @@
-# The Indolence of the Filipino <kbd>v2.2.1</kbd>
+# The Indolence of the Filipino <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
