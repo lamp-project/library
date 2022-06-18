@@ -1,4 +1,4 @@
-# The black cat (vol. i, no. 3, December 1895) <kbd>v2.2.1</kbd>
+# The black cat (vol. i, no. 3, December 1895) <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
