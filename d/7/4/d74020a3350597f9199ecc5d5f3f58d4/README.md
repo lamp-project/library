@@ -1,4 +1,4 @@
-# Bacon's Essays, and Wisdom of the Ancients <kbd>v2.2.1</kbd>
+# Bacon's Essays, and Wisdom of the Ancients <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
