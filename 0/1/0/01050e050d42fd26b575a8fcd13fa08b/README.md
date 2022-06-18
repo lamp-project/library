@@ -1,4 +1,4 @@
-# The Life and Amours of the Beautiful, Gay and Dashing Kate Percival: The Belle of the Delaware <kbd>v2.2.1</kbd>
+# The Life and Amours of the Beautiful, Gay and Dashing Kate Percival: The Belle of the Delaware <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
