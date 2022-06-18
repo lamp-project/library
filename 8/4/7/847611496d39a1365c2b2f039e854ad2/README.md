@@ -1,4 +1,4 @@
-# H.M.I.: Some Passages in the Life of One of H.M. Inspectors of Schools <kbd>v2.2.1</kbd>
+# H.M.I.: Some Passages in the Life of One of H.M. Inspectors of Schools <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
