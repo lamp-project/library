@@ -1,4 +1,4 @@
-# The Princess and the Goblin <kbd>v2.2.1</kbd>
+# The Princess and the Goblin <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
