@@ -1,4 +1,4 @@
-# The Merry Adventures of Robin Hood <kbd>v2.2.1</kbd>
+# The Merry Adventures of Robin Hood <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
