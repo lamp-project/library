@@ -1,4 +1,4 @@
-# A Portrait of the Artist as a Young Man <kbd>v2.2.1</kbd>
+# A Portrait of the Artist as a Young Man <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
