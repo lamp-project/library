@@ -1,4 +1,4 @@
-# On Heroes, Hero-Worship, and the Heroic in History <kbd>v2.2.1</kbd>
+# On Heroes, Hero-Worship, and the Heroic in History <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
