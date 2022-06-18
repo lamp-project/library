@@ -1,4 +1,4 @@
-# Alice in Wonderland: A Dramatization of Lewis Carroll's "Alice's Adventures in Wonderland" and "Through the Looking Glass" <kbd>v2.2.1</kbd>
+# Alice in Wonderland: A Dramatization of Lewis Carroll's "Alice's Adventures in Wonderland" and "Through the Looking Glass" <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
