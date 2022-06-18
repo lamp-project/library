@@ -1,4 +1,4 @@
-# The Ruins; Or, Meditation on the Revolutions of Empires and the Law of Nature <kbd>v2.2.1</kbd>
+# The Ruins; Or, Meditation on the Revolutions of Empires and the Law of Nature <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
