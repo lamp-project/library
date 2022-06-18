@@ -1,4 +1,4 @@
-# Whose Body? A Lord Peter Wimsey Novel <kbd>v2.2.1</kbd>
+# Whose Body? A Lord Peter Wimsey Novel <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
