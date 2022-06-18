@@ -1,4 +1,4 @@
-# "How Can I Help to Abolish Slavery?" or, Counsels to the Newly Converted <kbd>v2.2.1</kbd>
+# "How Can I Help to Abolish Slavery?" or, Counsels to the Newly Converted <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
