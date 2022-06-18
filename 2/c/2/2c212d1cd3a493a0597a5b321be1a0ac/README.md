@@ -1,4 +1,4 @@
-# A Record of Buddhistic Kingdoms: Being an account by the Chinese monk Fa-hsien of travels in India and Ceylon (A.D. 399-414) in search of the Buddhist books of discipline <kbd>v2.2.1</kbd>
+# A Record of Buddhistic Kingdoms: Being an account by the Chinese monk Fa-hsien of travels in India and Ceylon (A.D. 399-414) in search of the Buddhist books of discipline <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
