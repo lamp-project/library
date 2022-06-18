@@ -1,4 +1,4 @@
-# Tea and the effects of tea drinking <kbd>v2.2.1</kbd>
+# Tea and the effects of tea drinking <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
