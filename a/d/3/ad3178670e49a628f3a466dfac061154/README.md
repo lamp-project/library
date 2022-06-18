@@ -1,4 +1,4 @@
-# Studies in the Psychology of Sex, Volume 1: The Evolution of Modesty; The Phenomena of Sexual Periodicity; Auto-Erotism <kbd>v2.2.1</kbd>
+# Studies in the Psychology of Sex, Volume 1: The Evolution of Modesty; The Phenomena of Sexual Periodicity; Auto-Erotism <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
