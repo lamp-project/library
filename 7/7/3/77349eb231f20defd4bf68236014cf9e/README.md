@@ -1,4 +1,4 @@
-# Needlework Economies: A Book of Mending and Making with Oddments and Scraps <kbd>v2.2.1</kbd>
+# Needlework Economies: A Book of Mending and Making with Oddments and Scraps <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
