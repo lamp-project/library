@@ -1,4 +1,4 @@
-# Simple Sabotage Field Manual <kbd>v2.2.1</kbd>
+# Simple Sabotage Field Manual <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
