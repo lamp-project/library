@@ -1,4 +1,4 @@
-# Lady Windermere's Fan <kbd>v2.2.1</kbd>
+# Lady Windermere's Fan <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
