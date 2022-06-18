@@ -1,4 +1,4 @@
-# Plutarch's Lives, Volume 1 (of 4) <kbd>v2.2.1</kbd>
+# Plutarch's Lives, Volume 1 (of 4) <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
