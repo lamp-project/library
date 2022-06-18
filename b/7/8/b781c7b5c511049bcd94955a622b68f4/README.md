@@ -1,4 +1,4 @@
-# On the Nature of Things <kbd>v2.2.1</kbd>
+# On the Nature of Things <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
