@@ -1,4 +1,4 @@
-# The Power of Mesmerism: A Highly Erotic Narrative of Voluptuous Facts and Fancies <kbd>v2.2.1</kbd>
+# The Power of Mesmerism: A Highly Erotic Narrative of Voluptuous Facts and Fancies <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
