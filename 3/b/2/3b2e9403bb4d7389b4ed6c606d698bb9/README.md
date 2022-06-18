@@ -1,4 +1,4 @@
-# The Notebooks of Leonardo Da Vinci — Complete <kbd>v2.2.1</kbd>
+# The Notebooks of Leonardo Da Vinci — Complete <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
