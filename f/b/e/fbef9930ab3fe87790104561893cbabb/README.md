@@ -1,4 +1,4 @@
-# The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1: Books 1, 2 and 3 <kbd>v2.2.1</kbd>
+# The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1: Books 1, 2 and 3 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
