@@ -1,4 +1,4 @@
-# Memoirs of Fanny Hill: A New and Genuine Edition from the Original Text (London, 1749) <kbd>v2.2.1</kbd>
+# Memoirs of Fanny Hill: A New and Genuine Edition from the Original Text (London, 1749) <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
