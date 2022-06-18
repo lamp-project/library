@@ -1,4 +1,4 @@
-# She Stoops to Conquer; Or, The Mistakes of a Night: A Comedy <kbd>v2.2.1</kbd>
+# She Stoops to Conquer; Or, The Mistakes of a Night: A Comedy <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
