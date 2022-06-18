@@ -1,4 +1,4 @@
-# The Satires of Juvenal, Persius, Sulpicia, and Lucilius: Literally translated into English prose, with notes, chronological tables, arguments, &c. <kbd>v2.2.1</kbd>
+# The Satires of Juvenal, Persius, Sulpicia, and Lucilius: Literally translated into English prose, with notes, chronological tables, arguments, &c. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
