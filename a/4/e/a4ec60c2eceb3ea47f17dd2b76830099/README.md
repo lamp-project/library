@@ -1,4 +1,4 @@
-# The Underground Railroad: A Record of Facts, Authentic Narratives, Letters, &c., Narrating the Hardships, Hair-Breadth Escapes and Death Struggles of the Slaves in Their Efforts for Freedom, As Related by Themselves and Others, or Witnessed by the Author. <kbd>v2.2.1</kbd>
+# The Underground Railroad: A Record of Facts, Authentic Narratives, Letters, &c., Narrating the Hardships, Hair-Breadth Escapes and Death Struggles of the Slaves in Their Efforts for Freedom, As Related by Themselves and Others, or Witnessed by the Author. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
