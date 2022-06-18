@@ -1,4 +1,4 @@
-# Letters to His Son, Complete: On the Fine Art of Becoming a Man of the World and a Gentleman <kbd>v2.2.1</kbd>
+# Letters to His Son, Complete: On the Fine Art of Becoming a Man of the World and a Gentleman <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
