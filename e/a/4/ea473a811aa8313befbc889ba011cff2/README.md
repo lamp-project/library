@@ -1,4 +1,4 @@
-# The passing of the great race,: or, The racial basis of European history <kbd>v2.2.1</kbd>
+# The passing of the great race,: or, The racial basis of European history <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
