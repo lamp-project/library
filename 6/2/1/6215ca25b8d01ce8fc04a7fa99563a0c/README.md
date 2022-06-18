@@ -1,4 +1,4 @@
-# The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata): Being a discourse between Arjuna, Prince of India, and the Supreme Being under the form of Krishna <kbd>v2.2.1</kbd>
+# The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata): Being a discourse between Arjuna, Prince of India, and the Supreme Being under the form of Krishna <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
