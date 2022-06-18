@@ -1,4 +1,4 @@
-# An Old Babylonian Version of the Gilgamesh Epic <kbd>v2.2.1</kbd>
+# An Old Babylonian Version of the Gilgamesh Epic <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
