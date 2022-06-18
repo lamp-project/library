@@ -1,4 +1,4 @@
-# The Twilight of the Idols; or, How to Philosophize with the Hammer. The Antichrist: Complete Works, Volume Sixteen <kbd>v2.2.1</kbd>
+# The Twilight of the Idols; or, How to Philosophize with the Hammer. The Antichrist: Complete Works, Volume Sixteen <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
