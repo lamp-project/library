@@ -1,4 +1,4 @@
-# Cookery and Dining in Imperial Rome <kbd>v2.2.1</kbd>
+# Cookery and Dining in Imperial Rome <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
