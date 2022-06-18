@@ -1,4 +1,4 @@
-# Peter Parley's Annual, 1855: A Christmas and New Year's Present for Young People <kbd>v2.2.1</kbd>
+# Peter Parley's Annual, 1855: A Christmas and New Year's Present for Young People <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
