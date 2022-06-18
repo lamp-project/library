@@ -1,4 +1,4 @@
-# The Convent School; Or, Early Experiences of a Young Flagellant <kbd>v2.2.1</kbd>
+# The Convent School; Or, Early Experiences of a Young Flagellant <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
