@@ -1,4 +1,4 @@
-# Short stories from Life: The 81 prize stories in "Life's" Shortest Story Contest <kbd>v2.2.1</kbd>
+# Short stories from Life: The 81 prize stories in "Life's" Shortest Story Contest <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
