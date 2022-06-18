@@ -1,4 +1,4 @@
-# Carlyle's laugh, and other surprises <kbd>v2.2.1</kbd>
+# Carlyle's laugh, and other surprises <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
