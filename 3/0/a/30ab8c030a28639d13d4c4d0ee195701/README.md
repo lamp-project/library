@@ -1,4 +1,4 @@
-# A Treatise of Human Nature <kbd>v2.2.1</kbd>
+# A Treatise of Human Nature <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
