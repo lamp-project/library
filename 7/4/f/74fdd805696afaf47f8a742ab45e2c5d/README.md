@@ -1,4 +1,4 @@
-# Twelfth Night; Or, What You Will <kbd>v2.2.1</kbd>
+# Twelfth Night; Or, What You Will <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
