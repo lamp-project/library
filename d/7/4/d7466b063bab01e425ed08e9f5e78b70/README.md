@@ -1,4 +1,4 @@
-# Original stories from real life: With conversations, calculated to regulate the affections, and form the mind to truth and goodness. <kbd>v2.2.1</kbd>
+# Original stories from real life: With conversations, calculated to regulate the affections, and form the mind to truth and goodness. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
