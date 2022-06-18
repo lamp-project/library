@@ -1,4 +1,4 @@
-# Project Gutenberg Compilation of Short Stories by Chekhov <kbd>v2.2.1</kbd>
+# Project Gutenberg Compilation of Short Stories by Chekhov <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
