@@ -1,4 +1,4 @@
-# Eugene Oneguine [Onegin]: A Romance of Russian Life in Verse <kbd>v2.2.1</kbd>
+# Eugene Oneguine [Onegin]: A Romance of Russian Life in Verse <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
