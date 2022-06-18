@@ -1,4 +1,4 @@
-# The Prophet <kbd>v2.2.1</kbd>
+# The Prophet <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
