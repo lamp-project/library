@@ -1,4 +1,4 @@
-# Moby-Dick; or, The Whale <kbd>v2.2.1</kbd>
+# Moby-Dick; or, The Whale <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
