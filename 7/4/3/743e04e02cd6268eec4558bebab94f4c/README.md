@@ -1,4 +1,4 @@
-# Fifty years hence: or, What may be in 1943: A prophecy supposed to be based on scientific deductions by an improved graphical method <kbd>v2.2.1</kbd>
+# Fifty years hence: or, What may be in 1943: A prophecy supposed to be based on scientific deductions by an improved graphical method <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
