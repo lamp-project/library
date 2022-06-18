@@ -1,4 +1,4 @@
-# The Red House Mystery <kbd>v2.2.1</kbd>
+# The Red House Mystery <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
