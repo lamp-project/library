@@ -1,4 +1,4 @@
-# Ragged Dick, Or, Street Life in New York with the Boot-Blacks <kbd>v2.2.1</kbd>
+# Ragged Dick, Or, Street Life in New York with the Boot-Blacks <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
