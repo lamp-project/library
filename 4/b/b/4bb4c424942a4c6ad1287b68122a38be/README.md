@@ -1,4 +1,4 @@
-# The Magician's Own Book, or, the Whole Art of Conjuring: Being a complete hand-book of parlor magic, and containing over one thousand optical, chemical, mechanical, magnetical, and magical experiments, amusing transmutations, astonishing sleights and subtleties, celebrated card deceptions, ingenious tricks with numbers, curious and entertaining puzzles, together with all the most noted tricks of modern performers. <kbd>v2.2.1</kbd>
+# The Magician's Own Book, or, the Whole Art of Conjuring: Being a complete hand-book of parlor magic, and containing over one thousand optical, chemical, mechanical, magnetical, and magical experiments, amusing transmutations, astonishing sleights and subtleties, celebrated card deceptions, ingenious tricks with numbers, curious and entertaining puzzles, together with all the most noted tricks of modern performers. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
