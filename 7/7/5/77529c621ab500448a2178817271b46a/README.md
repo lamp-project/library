@@ -1,4 +1,4 @@
-# Sir Gawayne and the Green Knight: An Alliterative Romance-Poem (c. 1360 A.D.) <kbd>v2.2.1</kbd>
+# Sir Gawayne and the Green Knight: An Alliterative Romance-Poem (c. 1360 A.D.) <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
