@@ -1,4 +1,4 @@
-# The Wonderful "One-Hoss-Shay", and Other Poems <kbd>v2.2.1</kbd>
+# The Wonderful "One-Hoss-Shay", and Other Poems <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
