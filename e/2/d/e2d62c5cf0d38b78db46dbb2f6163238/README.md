@@ -1,4 +1,4 @@
-# How to Use and Enjoy Your New Frigidaire Refrigerator <kbd>v2.2.1</kbd>
+# How to Use and Enjoy Your New Frigidaire Refrigerator <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
