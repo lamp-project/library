@@ -1,4 +1,4 @@
-# Joseph Andrews, Vol. 1 <kbd>v2.2.1</kbd>
+# Joseph Andrews, Vol. 1 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
