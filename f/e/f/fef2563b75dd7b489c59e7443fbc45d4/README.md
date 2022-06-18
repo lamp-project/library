@@ -1,4 +1,4 @@
-# The Tinguian: Social, Religious, and Economic Life of a Philippine Tribe <kbd>v2.2.1</kbd>
+# The Tinguian: Social, Religious, and Economic Life of a Philippine Tribe <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
