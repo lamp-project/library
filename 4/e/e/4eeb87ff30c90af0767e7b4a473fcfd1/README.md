@@ -1,4 +1,4 @@
-# Pele and Hiiaka: A Myth From Hawaii <kbd>v2.2.1</kbd>
+# Pele and Hiiaka: A Myth From Hawaii <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
