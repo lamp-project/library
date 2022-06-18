@@ -1,4 +1,4 @@
-# Hesiod, the Homeric Hymns, and Homerica <kbd>v2.2.1</kbd>
+# Hesiod, the Homeric Hymns, and Homerica <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
