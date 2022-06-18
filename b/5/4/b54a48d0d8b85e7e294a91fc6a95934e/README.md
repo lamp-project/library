@@ -1,4 +1,4 @@
-# The martyrdom of Nurse Cavell: The life story of the victim of Germany's most barbarous crime <kbd>v2.2.1</kbd>
+# The martyrdom of Nurse Cavell: The life story of the victim of Germany's most barbarous crime <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
