@@ -1,4 +1,4 @@
-# The Tragical History of Doctor Faustus: From the Quarto of 1604 <kbd>v2.2.1</kbd>
+# The Tragical History of Doctor Faustus: From the Quarto of 1604 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
