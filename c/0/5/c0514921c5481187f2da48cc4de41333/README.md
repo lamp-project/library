@@ -1,4 +1,4 @@
-# The Monk: A Romance <kbd>v2.2.1</kbd>
+# The Monk: A Romance <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
