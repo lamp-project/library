@@ -1,4 +1,4 @@
-# Dictionary of Quotations from Ancient and Modern, English and Foreign Sources: Including Phrases, Mottoes, Maxims, Proverbs, Definitions, Aphorisms, and Sayings of Wise Men, in Their Bearing on Life, Literature, Speculation, Science, Art, Religion, and Morals, Especially in the Modern Aspects of Them <kbd>v2.2.1</kbd>
+# Dictionary of Quotations from Ancient and Modern, English and Foreign Sources: Including Phrases, Mottoes, Maxims, Proverbs, Definitions, Aphorisms, and Sayings of Wise Men, in Their Bearing on Life, Literature, Speculation, Science, Art, Religion, and Morals, Especially in the Modern Aspects of Them <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
