@@ -1,4 +1,4 @@
-# Tarzan of the Apes <kbd>v2.2.1</kbd>
+# Tarzan of the Apes <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
