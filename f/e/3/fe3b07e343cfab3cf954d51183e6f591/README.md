@@ -1,4 +1,4 @@
-# Toodle and Noodle Flat-tail: The Jolly Beaver Boys <kbd>v2.2.1</kbd>
+# Toodle and Noodle Flat-tail: The Jolly Beaver Boys <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
