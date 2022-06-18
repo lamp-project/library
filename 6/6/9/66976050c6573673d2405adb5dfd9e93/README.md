@@ -1,4 +1,4 @@
-# Talks To Teachers On Psychology; And To Students On Some Of Life's Ideals <kbd>v2.2.1</kbd>
+# Talks To Teachers On Psychology; And To Students On Some Of Life's Ideals <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
