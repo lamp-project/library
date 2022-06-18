@@ -1,4 +1,4 @@
-# The Works of the Right Honourable Edmund Burke, Vol. 01 (of 12) <kbd>v2.2.1</kbd>
+# The Works of the Right Honourable Edmund Burke, Vol. 01 (of 12) <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
