@@ -1,4 +1,4 @@
-# The old paths, or the Talmud tested by Scripture: Being a comparison of the principles and doctrines of modern Judaism with the religion of Moses and the prophets <kbd>v2.2.1</kbd>
+# The old paths, or the Talmud tested by Scripture: Being a comparison of the principles and doctrines of modern Judaism with the religion of Moses and the prophets <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
