@@ -1,4 +1,4 @@
-# Beautiful Stories from Shakespeare <kbd>v2.2.1</kbd>
+# Beautiful Stories from Shakespeare <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
