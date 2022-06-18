@@ -1,4 +1,4 @@
-# Narrative of the Life of Frederick Douglass, an American Slave <kbd>v2.2.1</kbd>
+# Narrative of the Life of Frederick Douglass, an American Slave <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
