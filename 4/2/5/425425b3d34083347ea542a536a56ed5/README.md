@@ -1,4 +1,4 @@
-# The Varieties of Religious Experience: A Study in Human Nature <kbd>v2.2.1</kbd>
+# The Varieties of Religious Experience: A Study in Human Nature <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
