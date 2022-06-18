@@ -1,4 +1,4 @@
-# The Tao Teh King, or the Tao and its Characteristics <kbd>v2.2.1</kbd>
+# The Tao Teh King, or the Tao and its Characteristics <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
