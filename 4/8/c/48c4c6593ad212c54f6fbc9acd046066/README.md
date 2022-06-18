@@ -1,4 +1,4 @@
-# English Fairy Tales <kbd>v2.2.1</kbd>
+# English Fairy Tales <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
