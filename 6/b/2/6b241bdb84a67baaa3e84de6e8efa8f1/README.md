@@ -1,4 +1,4 @@
-# Report of an autopsy on the bodies of Chang and Eng Bunker, commonly known as the Siamese twins <kbd>v2.2.1</kbd>
+# Report of an autopsy on the bodies of Chang and Eng Bunker, commonly known as the Siamese twins <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
