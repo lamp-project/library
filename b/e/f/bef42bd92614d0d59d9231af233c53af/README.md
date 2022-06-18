@@ -1,4 +1,4 @@
-# Prayers of the Middle Ages: Light from a Thousand Years <kbd>v2.2.1</kbd>
+# Prayers of the Middle Ages: Light from a Thousand Years <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
