@@ -1,4 +1,4 @@
-# Nick Carter Stories No. 155, August 28, 1915: The Gordon Elopement; or, Nick Carter's Three of a Kind. <kbd>v2.2.1</kbd>
+# Nick Carter Stories No. 155, August 28, 1915: The Gordon Elopement; or, Nick Carter's Three of a Kind. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
