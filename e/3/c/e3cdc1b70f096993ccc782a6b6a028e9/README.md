@@ -1,4 +1,4 @@
-# Areopagitica: A Speech for the Liberty of Unlicensed Printing to the Parliament of England <kbd>v2.2.1</kbd>
+# Areopagitica: A Speech for the Liberty of Unlicensed Printing to the Parliament of England <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
