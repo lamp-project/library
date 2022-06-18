@@ -1,4 +1,4 @@
-# Incidents in the Life of a Slave Girl, Written by Herself <kbd>v2.2.1</kbd>
+# Incidents in the Life of a Slave Girl, Written by Herself <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
