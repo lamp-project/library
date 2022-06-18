@@ -1,4 +1,4 @@
-# Frank Reade, Jr., with his new steam horse in the great American desert: or, The sandy trail of death <kbd>v2.2.1</kbd>
+# Frank Reade, Jr., with his new steam horse in the great American desert: or, The sandy trail of death <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
