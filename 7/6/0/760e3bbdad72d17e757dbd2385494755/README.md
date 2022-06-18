@@ -1,4 +1,4 @@
-# Through Russian Central Asia <kbd>v2.2.1</kbd>
+# Through Russian Central Asia <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
