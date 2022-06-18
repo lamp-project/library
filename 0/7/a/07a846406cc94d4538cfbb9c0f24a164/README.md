@@ -1,4 +1,4 @@
-# Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume I, Alabama Narratives <kbd>v2.2.1</kbd>
+# Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume I, Alabama Narratives <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
