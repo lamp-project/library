@@ -1,4 +1,4 @@
-# Laughter: An Essay on the Meaning of the Comic <kbd>v2.2.1</kbd>
+# Laughter: An Essay on the Meaning of the Comic <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
