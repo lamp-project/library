@@ -1,4 +1,4 @@
-# The history of the proceedings in the case of Margaret, commonly called Peg, only lawful sister to John Bull, Esq. <kbd>v2.2.1</kbd>
+# The history of the proceedings in the case of Margaret, commonly called Peg, only lawful sister to John Bull, Esq. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
