@@ -1,4 +1,4 @@
-# Le Morte Darthur: Sir Thomas Malory's Book of King Arthur and his Noble; Knights of the Round Table <kbd>v2.2.1</kbd>
+# Le Morte Darthur: Sir Thomas Malory's Book of King Arthur and his Noble; Knights of the Round Table <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
