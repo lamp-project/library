@@ -1,4 +1,4 @@
-# Relativity : the Special and General Theory <kbd>v2.2.1</kbd>
+# Relativity : the Special and General Theory <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
