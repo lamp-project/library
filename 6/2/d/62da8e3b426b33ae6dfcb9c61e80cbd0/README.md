@@ -1,4 +1,4 @@
-# The Queen of Spades, and other stories <kbd>v2.2.1</kbd>
+# The Queen of Spades, and other stories <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
