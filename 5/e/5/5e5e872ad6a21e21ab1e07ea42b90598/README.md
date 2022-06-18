@@ -1,4 +1,4 @@
-# What Is Man? and Other Essays <kbd>v2.2.1</kbd>
+# What Is Man? and Other Essays <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
