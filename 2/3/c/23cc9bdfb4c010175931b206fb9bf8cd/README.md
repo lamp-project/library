@@ -1,4 +1,4 @@
-# The Noble and Gentle Men of England: or, notes touching the arms and descents of the ancient knightly and gentle houses of England, arranged in their respective counties. <kbd>v2.2.1</kbd>
+# The Noble and Gentle Men of England: or, notes touching the arms and descents of the ancient knightly and gentle houses of England, arranged in their respective counties. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
