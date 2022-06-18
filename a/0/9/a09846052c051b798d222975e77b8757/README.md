@@ -1,4 +1,4 @@
-# The Best Short Stories of 1917, and the Yearbook of the American Short Story <kbd>v2.2.1</kbd>
+# The Best Short Stories of 1917, and the Yearbook of the American Short Story <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
