@@ -1,4 +1,4 @@
-# The Tragedy of King Lear <kbd>v2.2.1</kbd>
+# The Tragedy of King Lear <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
