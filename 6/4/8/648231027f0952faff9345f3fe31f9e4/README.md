@@ -1,4 +1,4 @@
-# She and he; Lavinia; Memoir <kbd>v2.2.1</kbd>
+# She and he; Lavinia; Memoir <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
