@@ -1,4 +1,4 @@
-# Flower o' the lily: A romance of old Cambray <kbd>v2.2.1</kbd>
+# Flower o' the lily: A romance of old Cambray <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
