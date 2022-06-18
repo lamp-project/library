@@ -1,4 +1,4 @@
-# Ancient Pagan and Modern Christian Symbolism: With an Essay on Baal Worship, on the Assyrian Sacred "Grove," and Other Allied Symbols <kbd>v2.2.1</kbd>
+# Ancient Pagan and Modern Christian Symbolism: With an Essay on Baal Worship, on the Assyrian Sacred "Grove," and Other Allied Symbols <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
