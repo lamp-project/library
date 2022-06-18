@@ -1,4 +1,4 @@
-# The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1 (of 2): Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain. <kbd>v2.2.1</kbd>
+# The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 1 (of 2): Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
