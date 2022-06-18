@@ -1,4 +1,4 @@
-# An Essay on Man; Moral Essays and Satires <kbd>v2.2.1</kbd>
+# An Essay on Man; Moral Essays and Satires <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
