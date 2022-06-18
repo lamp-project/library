@@ -1,4 +1,4 @@
-# A Journal of the Plague Year: Being Observations or Memorials of the Most Remarkable Occurrences, as Well Public as Private, Which Happened in London During the Last Great Visitation in 1665. Written by a Citizen Who Continued All the While in London <kbd>v2.2.1</kbd>
+# A Journal of the Plague Year: Being Observations or Memorials of the Most Remarkable Occurrences, as Well Public as Private, Which Happened in London During the Last Great Visitation in 1665. Written by a Citizen Who Continued All the While in London <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
