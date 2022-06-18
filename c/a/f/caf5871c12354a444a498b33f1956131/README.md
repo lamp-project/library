@@ -1,4 +1,4 @@
-# Little Wars; a game for boys from twelve years of age to one hundred and fifty and for that more intelligent sort of girl who likes boys' games and books. <kbd>v2.2.1</kbd>
+# Little Wars; a game for boys from twelve years of age to one hundred and fifty and for that more intelligent sort of girl who likes boys' games and books. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
