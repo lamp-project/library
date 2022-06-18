@@ -1,4 +1,4 @@
-# Phallic Worship: A description of the mysteries of the sex worship of the ancients, with the history of the masculine cross. An account of primitive symbolism, Hebrew phallicism, bacchic festivals, sexual rites, and the mysteries of the ancient faiths. <kbd>v2.2.1</kbd>
+# Phallic Worship: A description of the mysteries of the sex worship of the ancients, with the history of the masculine cross. An account of primitive symbolism, Hebrew phallicism, bacchic festivals, sexual rites, and the mysteries of the ancient faiths. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
