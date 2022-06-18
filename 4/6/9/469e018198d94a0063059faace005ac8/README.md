@@ -1,4 +1,4 @@
-# The Social Cancer: A Complete English Version of Noli Me Tangere <kbd>v2.2.1</kbd>
+# The Social Cancer: A Complete English Version of Noli Me Tangere <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
