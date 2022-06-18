@@ -1,4 +1,4 @@
-# The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar <kbd>v2.2.1</kbd>
+# The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
