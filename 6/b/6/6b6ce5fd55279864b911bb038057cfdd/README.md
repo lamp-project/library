@@ -1,4 +1,4 @@
-# The Will to Power: An Attempted Transvaluation of All Values. Book III and IV <kbd>v2.2.1</kbd>
+# The Will to Power: An Attempted Transvaluation of All Values. Book III and IV <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
