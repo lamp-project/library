@@ -1,4 +1,4 @@
-# The Story of My Life: With her letters (1887-1901) and a supplementary account of her education, including passages from the reports and letters of her teacher, Anne Mansfield Sullivan, by John Albert Macy <kbd>v2.2.1</kbd>
+# The Story of My Life: With her letters (1887-1901) and a supplementary account of her education, including passages from the reports and letters of her teacher, Anne Mansfield Sullivan, by John Albert Macy <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
