@@ -1,4 +1,4 @@
-# Essays of Michel de Montaigne — Complete <kbd>v2.2.1</kbd>
+# Essays of Michel de Montaigne — Complete <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
