@@ -1,4 +1,4 @@
-# The Beggar's Opera; to Which is Prefixed the Musick to Each Song <kbd>v2.2.1</kbd>
+# The Beggar's Opera; to Which is Prefixed the Musick to Each Song <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
