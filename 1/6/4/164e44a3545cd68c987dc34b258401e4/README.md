@@ -1,4 +1,4 @@
-# A Short History of the World <kbd>v2.2.1</kbd>
+# A Short History of the World <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
