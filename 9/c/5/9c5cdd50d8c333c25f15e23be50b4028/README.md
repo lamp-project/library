@@ -1,4 +1,4 @@
-# The Fables of Aesop: Selected, Told Anew, and Their History Traced <kbd>v2.2.1</kbd>
+# The Fables of Aesop: Selected, Told Anew, and Their History Traced <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
