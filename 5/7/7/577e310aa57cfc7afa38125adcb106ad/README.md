@@ -1,4 +1,4 @@
-# Library of the World's Best Literature, Ancient and Modern — Volume 11 <kbd>v2.2.1</kbd>
+# Library of the World's Best Literature, Ancient and Modern — Volume 11 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
