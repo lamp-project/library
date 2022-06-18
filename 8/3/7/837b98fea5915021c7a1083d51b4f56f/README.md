@@ -1,4 +1,4 @@
-# Ars Amatoria; or, The Art Of Love: Literally Translated into English Prose, with Copious Notes <kbd>v2.2.1</kbd>
+# Ars Amatoria; or, The Art Of Love: Literally Translated into English Prose, with Copious Notes <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
