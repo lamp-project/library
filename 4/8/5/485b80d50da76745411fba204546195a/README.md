@@ -1,4 +1,4 @@
-# The Philippine Islands, 1493-1898 — Volume 07 of 55: 1588-1591; Explorations by Early Navigators, Descriptions of the Islands and Their Peoples, Their History and Records of the Catholic Missions, as Related in Contemporaneous Books and Manuscripts, Showing the Political, Economic, Commercial and Religious Conditions of Those Islands from Their Earliest Relations with European Nations to the Close of the Nineteenth Century <kbd>v2.2.1</kbd>
+# The Philippine Islands, 1493-1898 — Volume 07 of 55: 1588-1591; Explorations by Early Navigators, Descriptions of the Islands and Their Peoples, Their History and Records of the Catholic Missions, as Related in Contemporaneous Books and Manuscripts, Showing the Political, Economic, Commercial and Religious Conditions of Those Islands from Their Earliest Relations with European Nations to the Close of the Nineteenth Century <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
