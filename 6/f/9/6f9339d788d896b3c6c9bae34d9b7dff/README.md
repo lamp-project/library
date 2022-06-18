@@ -1,4 +1,4 @@
-# Scientific American Supplement, No. 841, February 13, 1892 <kbd>v2.2.1</kbd>
+# Scientific American Supplement, No. 841, February 13, 1892 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
