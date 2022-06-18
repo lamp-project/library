@@ -1,4 +1,4 @@
-# The Red Record: Tabulated Statistics and Alleged Causes of Lynching in the United States <kbd>v2.2.1</kbd>
+# The Red Record: Tabulated Statistics and Alleged Causes of Lynching in the United States <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
