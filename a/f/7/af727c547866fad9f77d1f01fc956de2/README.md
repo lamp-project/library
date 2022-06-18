@@ -1,4 +1,4 @@
-# Dhammapada, a Collection of Verses; Being One of the Canonical Books of the Buddhists <kbd>v2.2.1</kbd>
+# Dhammapada, a Collection of Verses; Being One of the Canonical Books of the Buddhists <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
