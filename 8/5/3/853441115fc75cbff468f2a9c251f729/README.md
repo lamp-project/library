@@ -1,4 +1,4 @@
-# The Story of Beowulf, Translated from Anglo-Saxon into Modern English Prose <kbd>v2.2.1</kbd>
+# The Story of Beowulf, Translated from Anglo-Saxon into Modern English Prose <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
