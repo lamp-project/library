@@ -1,4 +1,4 @@
-# Gypsy Sorcery and Fortune Telling: Illustrated by numerous incantations, specimens of medical magic, anecdotes and tales <kbd>v2.2.1</kbd>
+# Gypsy Sorcery and Fortune Telling: Illustrated by numerous incantations, specimens of medical magic, anecdotes and tales <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
