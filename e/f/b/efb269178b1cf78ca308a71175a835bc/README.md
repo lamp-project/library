@@ -1,4 +1,4 @@
-# The Natural History of Pliny, Volume 1 (of 6) <kbd>v2.2.1</kbd>
+# The Natural History of Pliny, Volume 1 (of 6) <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
