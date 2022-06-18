@@ -1,4 +1,4 @@
-# The Medicinal Plants of the Philippines <kbd>v2.2.1</kbd>
+# The Medicinal Plants of the Philippines <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
