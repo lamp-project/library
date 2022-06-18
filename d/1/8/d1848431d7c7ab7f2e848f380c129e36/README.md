@@ -1,4 +1,4 @@
-# Grimms' Fairy Tales <kbd>v2.2.1</kbd>
+# Grimms' Fairy Tales <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
