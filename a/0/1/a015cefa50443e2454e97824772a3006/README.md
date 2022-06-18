@@ -1,4 +1,4 @@
-# Les Bijoux Indiscrets, or, The Indiscreet Toys <kbd>v2.2.1</kbd>
+# Les Bijoux Indiscrets, or, The Indiscreet Toys <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
