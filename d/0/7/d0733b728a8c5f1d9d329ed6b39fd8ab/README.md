@@ -1,4 +1,4 @@
-# Reminiscences of the Chattanooga campaign: A paper read at the reunion of Company B, Fortieth Ohio volunteer infantry, at Xenia, O., August 22, 1894 <kbd>v2.2.1</kbd>
+# Reminiscences of the Chattanooga campaign: A paper read at the reunion of Company B, Fortieth Ohio volunteer infantry, at Xenia, O., August 22, 1894 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
