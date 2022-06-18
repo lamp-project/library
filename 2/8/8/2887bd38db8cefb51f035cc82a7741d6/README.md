@@ -1,4 +1,4 @@
-# On the Preparations of the Indian Hemp, or Gunjah (Cannabis Indica): Their Effects on the Animal System in Health, and Their Utility in the Treatment of Tetanus and Other Convulsive Diseases <kbd>v2.2.1</kbd>
+# On the Preparations of the Indian Hemp, or Gunjah (Cannabis Indica): Their Effects on the Animal System in Health, and Their Utility in the Treatment of Tetanus and Other Convulsive Diseases <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
