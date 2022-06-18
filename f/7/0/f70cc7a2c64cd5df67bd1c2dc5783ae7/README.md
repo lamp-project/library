@@ -1,4 +1,4 @@
-# Three Men in a Boat (To Say Nothing of the Dog) <kbd>v2.2.1</kbd>
+# Three Men in a Boat (To Say Nothing of the Dog) <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
