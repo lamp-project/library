@@ -1,4 +1,4 @@
-# The Life of Lazarillo de Tormes: His Fortunes & Adversities; with a Notice of the Mendoza Family, a Short Life of the Author, Don Diego Hurtado De Mendoza, a Notice of the Work, and Some Remarks on the Character of Lazarillo de Tormes <kbd>v2.2.1</kbd>
+# The Life of Lazarillo de Tormes: His Fortunes & Adversities; with a Notice of the Mendoza Family, a Short Life of the Author, Don Diego Hurtado De Mendoza, a Notice of the Work, and Some Remarks on the Character of Lazarillo de Tormes <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
