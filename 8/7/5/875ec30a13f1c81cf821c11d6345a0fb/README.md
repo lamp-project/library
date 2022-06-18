@@ -1,4 +1,4 @@
-# The life record of H. W. Graber: A Terry Texas Ranger, 1861-1865; sixty-two years in Texas <kbd>v2.2.1</kbd>
+# The life record of H. W. Graber: A Terry Texas Ranger, 1861-1865; sixty-two years in Texas <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
