@@ -1,4 +1,4 @@
-# Strange Stories from a Chinese Studio (Volumes 1 and 2) <kbd>v2.2.1</kbd>
+# Strange Stories from a Chinese Studio (Volumes 1 and 2) <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
