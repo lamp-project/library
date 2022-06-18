@@ -1,4 +1,4 @@
-# Dixie: A monthly magazine, Vol. I, No. 1, January 1899 <kbd>v2.2.1</kbd>
+# Dixie: A monthly magazine, Vol. I, No. 1, January 1899 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
