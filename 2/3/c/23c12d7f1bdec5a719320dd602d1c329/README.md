@@ -1,4 +1,4 @@
-# A Christmas Carol in Prose; Being a Ghost Story of Christmas <kbd>v2.2.1</kbd>
+# A Christmas Carol in Prose; Being a Ghost Story of Christmas <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
