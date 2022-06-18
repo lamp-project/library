@@ -1,4 +1,4 @@
-# The Renaissance: Studies in Art and Poetry <kbd>v2.2.1</kbd>
+# The Renaissance: Studies in Art and Poetry <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
