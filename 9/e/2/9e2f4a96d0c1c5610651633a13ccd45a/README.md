@@ -1,4 +1,4 @@
-# Etidorhpa; or, The End of Earth.: The Strange History of a Mysterious Being and the Account of a Remarkable Journey <kbd>v2.2.1</kbd>
+# Etidorhpa; or, The End of Earth.: The Strange History of a Mysterious Being and the Account of a Remarkable Journey <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
