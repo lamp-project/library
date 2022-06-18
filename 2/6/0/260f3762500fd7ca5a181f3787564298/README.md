@@ -1,4 +1,4 @@
-# The Island of Doctor Moreau <kbd>v2.2.1</kbd>
+# The Island of Doctor Moreau <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
