@@ -1,4 +1,4 @@
-# Othello, the Moor of Venice <kbd>v2.2.1</kbd>
+# Othello, the Moor of Venice <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
