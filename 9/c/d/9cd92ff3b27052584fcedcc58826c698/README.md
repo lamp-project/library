@@ -1,4 +1,4 @@
-# Captain Cook's Journal During His First Voyage Round the World: Made in H. M. Bark "Endeavour", 1768-71 <kbd>v2.2.1</kbd>
+# Captain Cook's Journal During His First Voyage Round the World: Made in H. M. Bark "Endeavour", 1768-71 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
