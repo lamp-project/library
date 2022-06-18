@@ -1,4 +1,4 @@
-# The Kybalion: A Study of The Hermetic Philosophy of Ancient Egypt and Greece <kbd>v2.2.1</kbd>
+# The Kybalion: A Study of The Hermetic Philosophy of Ancient Egypt and Greece <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
