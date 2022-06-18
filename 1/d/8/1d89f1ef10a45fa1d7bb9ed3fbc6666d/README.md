@@ -1,4 +1,4 @@
-# The Narrative of Arthur Gordon Pym of Nantucket: Comprising the details of a mutiny and atrocious butchery on board the American brig Grampus, on her way to the South Seas, in the month of June, 1827. <kbd>v2.2.1</kbd>
+# The Narrative of Arthur Gordon Pym of Nantucket: Comprising the details of a mutiny and atrocious butchery on board the American brig Grampus, on her way to the South Seas, in the month of June, 1827. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
