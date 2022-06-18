@@ -1,4 +1,4 @@
-# The Elder Eddas of Saemund Sigfusson; and the Younger Eddas of Snorre Sturleson <kbd>v2.2.1</kbd>
+# The Elder Eddas of Saemund Sigfusson; and the Younger Eddas of Snorre Sturleson <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
