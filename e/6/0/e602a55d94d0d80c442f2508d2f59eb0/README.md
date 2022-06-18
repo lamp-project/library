@@ -1,4 +1,4 @@
-# The Works of Edgar Allan Poe — Volume 3 <kbd>v2.2.1</kbd>
+# The Works of Edgar Allan Poe — Volume 3 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
