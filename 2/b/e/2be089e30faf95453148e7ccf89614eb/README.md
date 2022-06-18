@@ -1,4 +1,4 @@
-# The Big Trip Up Yonder <kbd>v2.2.1</kbd>
+# The Big Trip Up Yonder <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
