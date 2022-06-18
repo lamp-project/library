@@ -1,4 +1,4 @@
-# Poems by Emily Dickinson, Three Series, Complete <kbd>v2.2.1</kbd>
+# Poems by Emily Dickinson, Three Series, Complete <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
