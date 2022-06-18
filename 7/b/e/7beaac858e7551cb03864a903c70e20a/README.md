@@ -1,4 +1,4 @@
-# Around the World in Eighty Days <kbd>v2.2.1</kbd>
+# Around the World in Eighty Days <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
