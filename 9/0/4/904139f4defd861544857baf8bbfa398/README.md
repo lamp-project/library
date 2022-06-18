@@ -1,4 +1,4 @@
-# The Red and the Black: A Chronicle of 1830 <kbd>v2.2.1</kbd>
+# The Red and the Black: A Chronicle of 1830 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
