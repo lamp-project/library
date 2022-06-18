@@ -1,4 +1,4 @@
-# Getting Ready to be a Mother: a little book of information and advice for the young woman who is looking forward to motherhood <kbd>v2.2.1</kbd>
+# Getting Ready to be a Mother: a little book of information and advice for the young woman who is looking forward to motherhood <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
