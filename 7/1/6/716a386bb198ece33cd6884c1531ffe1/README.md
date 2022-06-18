@@ -1,4 +1,4 @@
-# The Angel and the Demon: A Tale <kbd>v2.2.1</kbd>
+# The Angel and the Demon: A Tale <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
