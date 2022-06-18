@@ -1,4 +1,4 @@
-# The Agamemnon of Aeschylus: Translated into English Rhyming Verse with Explanatory Notes <kbd>v2.2.1</kbd>
+# The Agamemnon of Aeschylus: Translated into English Rhyming Verse with Explanatory Notes <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
