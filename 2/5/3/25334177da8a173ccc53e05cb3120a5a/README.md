@@ -1,4 +1,4 @@
-# The Return of Sherlock Holmes <kbd>v2.2.1</kbd>
+# The Return of Sherlock Holmes <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
