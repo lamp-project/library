@@ -1,4 +1,4 @@
-# Fox's Book of Martyrs: Or A History of the Lives, Sufferings, and Triumphant; Deaths of the Primitive Protestant Martyrs <kbd>v2.2.1</kbd>
+# Fox's Book of Martyrs: Or A History of the Lives, Sufferings, and Triumphant; Deaths of the Primitive Protestant Martyrs <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
