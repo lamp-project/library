@@ -1,4 +1,4 @@
-# A Little Princess: Being the whole story of Sara Crewe now told for the first time <kbd>v2.2.1</kbd>
+# A Little Princess: Being the whole story of Sara Crewe now told for the first time <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
