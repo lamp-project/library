@@ -1,4 +1,4 @@
-# Nick Carter Stories No. 145, June 19, 1915: An Unsolved Mystery; Or, Nick Carter's Goverment Case <kbd>v2.2.1</kbd>
+# Nick Carter Stories No. 145, June 19, 1915: An Unsolved Mystery; Or, Nick Carter's Goverment Case <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
