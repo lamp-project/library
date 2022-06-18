@@ -1,4 +1,4 @@
-# Use of tobacco among North American Indians <kbd>v2.2.1</kbd>
+# Use of tobacco among North American Indians <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
