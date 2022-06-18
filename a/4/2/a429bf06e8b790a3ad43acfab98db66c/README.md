@@ -1,4 +1,4 @@
-# The Declaration of Independence of the United States of America <kbd>v2.2.1</kbd>
+# The Declaration of Independence of the United States of America <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
