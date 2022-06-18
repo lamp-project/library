@@ -1,4 +1,4 @@
-# Diego Collado's Grammar of the Japanese Language <kbd>v2.2.1</kbd>
+# Diego Collado's Grammar of the Japanese Language <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
