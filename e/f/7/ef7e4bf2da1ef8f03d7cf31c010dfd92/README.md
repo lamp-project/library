@@ -1,4 +1,4 @@
-# Poems Every Child Should Know: The What-Every-Child-Should-Know-Library <kbd>v2.2.1</kbd>
+# Poems Every Child Should Know: The What-Every-Child-Should-Know-Library <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
