@@ -1,4 +1,4 @@
-# The Vision and Creed of Piers Ploughman, Volume 1 <kbd>v2.2.1</kbd>
+# The Vision and Creed of Piers Ploughman, Volume 1 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
