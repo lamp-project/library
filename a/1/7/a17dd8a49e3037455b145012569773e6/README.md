@@ -1,4 +1,4 @@
-# Wieland; Or, The Transformation: An American Tale <kbd>v2.2.1</kbd>
+# Wieland; Or, The Transformation: An American Tale <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
