@@ -1,4 +1,4 @@
-# Commentary on the Epistle to the Galatians <kbd>v2.2.1</kbd>
+# Commentary on the Epistle to the Galatians <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
