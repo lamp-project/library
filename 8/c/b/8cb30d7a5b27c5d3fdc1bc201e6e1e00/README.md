@@ -1,4 +1,4 @@
-# A handbook of library appliances: The technical equipment of libraries: fittings, furniture, charging systems, forms, recipes, etc. <kbd>v2.2.1</kbd>
+# A handbook of library appliances: The technical equipment of libraries: fittings, furniture, charging systems, forms, recipes, etc. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
