@@ -1,4 +1,4 @@
-# Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil <kbd>v2.2.1</kbd>
+# Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
