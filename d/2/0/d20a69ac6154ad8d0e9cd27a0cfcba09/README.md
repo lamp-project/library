@@ -1,4 +1,4 @@
-# Democracy in America — Volume 2 <kbd>v2.2.1</kbd>
+# Democracy in America — Volume 2 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
