@@ -1,4 +1,4 @@
-# Fables of La Fontaine — a New Edition, with Notes <kbd>v2.2.1</kbd>
+# Fables of La Fontaine — a New Edition, with Notes <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
