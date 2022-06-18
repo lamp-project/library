@@ -1,4 +1,4 @@
-# Texas Rocks and Minerals: An Amateur's Guide <kbd>v2.2.1</kbd>
+# Texas Rocks and Minerals: An Amateur's Guide <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
