@@ -1,4 +1,4 @@
-# The Lives of the Saints, Volume 03 (of 16): March <kbd>v2.2.1</kbd>
+# The Lives of the Saints, Volume 03 (of 16): March <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
