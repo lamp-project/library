@@ -1,4 +1,4 @@
-# The Philippine Islands: A Political, Geographical, Ethnographical, Social and Commercial History of the Philippine Archipelago, Embracing the Whole Period of Spanish Rule <kbd>v2.2.1</kbd>
+# The Philippine Islands: A Political, Geographical, Ethnographical, Social and Commercial History of the Philippine Archipelago, Embracing the Whole Period of Spanish Rule <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
