@@ -1,4 +1,4 @@
-# How to Analyze People on Sight: Through the Science of Human Analysis: The Five Human Types <kbd>v2.2.1</kbd>
+# How to Analyze People on Sight: Through the Science of Human Analysis: The Five Human Types <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
