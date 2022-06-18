@@ -1,4 +1,4 @@
-# Angola and the River Congo, vol. 1 <kbd>v2.2.1</kbd>
+# Angola and the River Congo, vol. 1 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
