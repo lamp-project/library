@@ -1,4 +1,4 @@
-# Twenty years at sea: Leaves from my old log-books <kbd>v2.2.1</kbd>
+# Twenty years at sea: Leaves from my old log-books <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
