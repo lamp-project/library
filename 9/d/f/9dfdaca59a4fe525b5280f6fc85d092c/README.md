@@ -1,4 +1,4 @@
-# The Cornhill Magazine, February, 1860 (Vol. I, No. 2) <kbd>v2.2.1</kbd>
+# The Cornhill Magazine, February, 1860 (Vol. I, No. 2) <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
