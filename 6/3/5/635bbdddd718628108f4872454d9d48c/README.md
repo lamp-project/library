@@ -1,4 +1,4 @@
-# The quest of the Silver Swan: A land and sea tale for boys <kbd>v2.2.1</kbd>
+# The quest of the Silver Swan: A land and sea tale for boys <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
