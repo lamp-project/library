@@ -1,4 +1,4 @@
-# A Shropshire Lad <kbd>v2.2.1</kbd>
+# A Shropshire Lad <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
