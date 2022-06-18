@@ -1,4 +1,4 @@
-# Notre-Dame de Paris <kbd>v2.2.1</kbd>
+# Notre-Dame de Paris <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
