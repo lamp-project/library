@@ -1,4 +1,4 @@
-# Keeping one cow: Being the experience of a number of practical writers, in a clear and condensed form, upon the management of a single milch cow <kbd>v2.2.1</kbd>
+# Keeping one cow: Being the experience of a number of practical writers, in a clear and condensed form, upon the management of a single milch cow <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
