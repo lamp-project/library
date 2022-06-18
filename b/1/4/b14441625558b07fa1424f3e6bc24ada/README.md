@@ -1,4 +1,4 @@
-# Tess of the d'Urbervilles: A Pure Woman <kbd>v2.2.1</kbd>
+# Tess of the d'Urbervilles: A Pure Woman <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
