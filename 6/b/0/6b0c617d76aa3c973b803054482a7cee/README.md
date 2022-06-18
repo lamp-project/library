@@ -1,4 +1,4 @@
-# A Handy Guide for Beggars: Especially Those of the Poetic Fraternity: Being Sundry Explorations, Made While Afoot and Penniless in Florida, Georgia, North Carolina, Tennessee, Kentucky, New Jersey, and Pennsylvania. These Adventures Convey and Illustrate the Rules of Beggary for Poets and Some Others. <kbd>v2.2.1</kbd>
+# A Handy Guide for Beggars: Especially Those of the Poetic Fraternity: Being Sundry Explorations, Made While Afoot and Penniless in Florida, Georgia, North Carolina, Tennessee, Kentucky, New Jersey, and Pennsylvania. These Adventures Convey and Illustrate the Rules of Beggary for Poets and Some Others. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
