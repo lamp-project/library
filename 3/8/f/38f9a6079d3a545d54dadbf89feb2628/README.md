@@ -1,4 +1,4 @@
-# History of the War in the Peninsula and in the South of France from the Year 1807 to the Year 1814, vol. 3 of 6 <kbd>v2.2.1</kbd>
+# History of the War in the Peninsula and in the South of France from the Year 1807 to the Year 1814, vol. 3 of 6 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
