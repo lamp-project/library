@@ -1,4 +1,4 @@
-# Phantastes: A Faerie Romance for Men and Women <kbd>v2.2.1</kbd>
+# Phantastes: A Faerie Romance for Men and Women <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
