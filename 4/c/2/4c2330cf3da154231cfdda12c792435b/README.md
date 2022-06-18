@@ -1,4 +1,4 @@
-# Nick Carter Stories No. 149, July 17, 1915: A Network of Crime; or, Nick Carter's Tangled Skein. <kbd>v2.2.1</kbd>
+# Nick Carter Stories No. 149, July 17, 1915: A Network of Crime; or, Nick Carter's Tangled Skein. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
