@@ -1,4 +1,4 @@
-# Democracy and Education: An Introduction to the Philosophy of Education <kbd>v2.2.1</kbd>
+# Democracy and Education: An Introduction to the Philosophy of Education <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
