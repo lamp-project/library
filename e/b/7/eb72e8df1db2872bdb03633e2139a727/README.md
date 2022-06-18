@@ -1,4 +1,4 @@
-# A History of Norwegian Immigration to the United States: From the Earliest Beginning down to the Year 1848 <kbd>v2.2.1</kbd>
+# A History of Norwegian Immigration to the United States: From the Earliest Beginning down to the Year 1848 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
