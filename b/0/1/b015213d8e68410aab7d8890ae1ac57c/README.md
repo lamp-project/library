@@ -1,4 +1,4 @@
-# Goethe's Theory of Colours <kbd>v2.2.1</kbd>
+# Goethe's Theory of Colours <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
