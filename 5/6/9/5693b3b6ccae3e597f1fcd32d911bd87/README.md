@@ -1,4 +1,4 @@
-# Gulliver's Travels into Several Remote Nations of the World <kbd>v2.2.1</kbd>
+# Gulliver's Travels into Several Remote Nations of the World <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
