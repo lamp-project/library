@@ -1,4 +1,4 @@
-# Pragmatism: A New Name for Some Old Ways of Thinking <kbd>v2.2.1</kbd>
+# Pragmatism: A New Name for Some Old Ways of Thinking <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
