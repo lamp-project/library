@@ -1,4 +1,4 @@
-# The World's Sixteen Crucified Saviors; Or, Christianity Before Christ <kbd>v2.2.1</kbd>
+# The World's Sixteen Crucified Saviors; Or, Christianity Before Christ <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
