@@ -1,4 +1,4 @@
-# Cicero's Tusculan Disputations: Also, Treatises On The Nature Of The Gods, And On The Commonwealth <kbd>v2.2.1</kbd>
+# Cicero's Tusculan Disputations: Also, Treatises On The Nature Of The Gods, And On The Commonwealth <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
