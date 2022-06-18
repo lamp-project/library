@@ -1,4 +1,4 @@
-# Friars and Filipinos: An Abridged Translation of Dr. Jose Rizal's Tagalog Novel,; 'Noli Me Tangere.' <kbd>v2.2.1</kbd>
+# Friars and Filipinos: An Abridged Translation of Dr. Jose Rizal's Tagalog Novel,; 'Noli Me Tangere.' <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
