@@ -1,4 +1,4 @@
-# Aniwee; or, the Warrior Queen: A tale of the Araucanian Indians and the mythical Trauco people <kbd>v2.2.1</kbd>
+# Aniwee; or, the Warrior Queen: A tale of the Araucanian Indians and the mythical Trauco people <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
