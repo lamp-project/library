@@ -1,4 +1,4 @@
-# Politics: A Treatise on Government <kbd>v2.2.1</kbd>
+# Politics: A Treatise on Government <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
