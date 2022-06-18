@@ -1,4 +1,4 @@
-# A Hermit's Wild Friends; or, Eighteen Years in the Woods <kbd>v2.2.1</kbd>
+# A Hermit's Wild Friends; or, Eighteen Years in the Woods <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
