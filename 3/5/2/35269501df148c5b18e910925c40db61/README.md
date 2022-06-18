@@ -1,4 +1,4 @@
-# My Secret Service: Vienna, Sophia, Constantinople, Nish, Belgrade, Asia Minor, etc. <kbd>v2.2.1</kbd>
+# My Secret Service: Vienna, Sophia, Constantinople, Nish, Belgrade, Asia Minor, etc. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
