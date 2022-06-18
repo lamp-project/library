@@ -1,4 +1,4 @@
-# Army Pulse Radiation Facility <kbd>v2.2.1</kbd>
+# Army Pulse Radiation Facility <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
