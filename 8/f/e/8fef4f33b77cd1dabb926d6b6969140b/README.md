@@ -1,4 +1,4 @@
-# The Gentlemen's Book of Etiquette and Manual of Politeness: Being a Complete Guide for a Gentleman's Conduct in All His Relations Towards Society <kbd>v2.2.1</kbd>
+# The Gentlemen's Book of Etiquette and Manual of Politeness: Being a Complete Guide for a Gentleman's Conduct in All His Relations Towards Society <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
