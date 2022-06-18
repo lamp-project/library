@@ -1,4 +1,4 @@
-# Boy Scouts Handbook: The First Edition, 1911 <kbd>v2.2.1</kbd>
+# Boy Scouts Handbook: The First Edition, 1911 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
