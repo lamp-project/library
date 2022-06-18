@@ -1,4 +1,4 @@
-# Graham's Magazine, Vol. XXI, No. 3, September 1842 <kbd>v2.2.1</kbd>
+# Graham's Magazine, Vol. XXI, No. 3, September 1842 <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
