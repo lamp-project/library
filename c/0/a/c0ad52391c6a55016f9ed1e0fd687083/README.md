@@ -1,4 +1,4 @@
-# What Men Live By, and Other Tales <kbd>v2.2.1</kbd>
+# What Men Live By, and Other Tales <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
