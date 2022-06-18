@@ -1,4 +1,4 @@
-# A General History of the Pyrates:: from their first rise and settlement in the island of Providence, to the present time <kbd>v2.2.1</kbd>
+# A General History of the Pyrates:: from their first rise and settlement in the island of Providence, to the present time <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
