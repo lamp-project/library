@@ -1,4 +1,4 @@
-# An Inquiry into the Nature and Causes of the Wealth of Nations <kbd>v2.2.1</kbd>
+# An Inquiry into the Nature and Causes of the Wealth of Nations <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
