@@ -1,4 +1,4 @@
-# The vigilantes of Montana; Or, popular justice in the Rocky Mountains: Being a correct and impartial narrative of the chase, trial, capture and execution of Henry Plummer's road agent band, together with accounts of the lives and crimes of many of the robbers and desperadoes, the whole being interspersed with sketches of life in the mining camps of the "Far West" <kbd>v2.2.1</kbd>
+# The vigilantes of Montana; Or, popular justice in the Rocky Mountains: Being a correct and impartial narrative of the chase, trial, capture and execution of Henry Plummer's road agent band, together with accounts of the lives and crimes of many of the robbers and desperadoes, the whole being interspersed with sketches of life in the mining camps of the "Far West" <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
