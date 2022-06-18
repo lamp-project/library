@@ -1,4 +1,4 @@
-# A visit to a farm house; or, An introduction to various subjects connected with rural economy.: Seventh edition, revised and corrected. <kbd>v2.2.1</kbd>
+# A visit to a farm house; or, An introduction to various subjects connected with rural economy.: Seventh edition, revised and corrected. <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
