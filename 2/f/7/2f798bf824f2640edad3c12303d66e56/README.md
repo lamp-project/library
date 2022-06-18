@@ -1,4 +1,4 @@
-# The Mysterious Affair at Styles <kbd>v2.2.1</kbd>
+# The Mysterious Affair at Styles <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
