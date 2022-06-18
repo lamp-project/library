@@ -1,4 +1,4 @@
-# Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson <kbd>v2.2.1</kbd>
+# Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
