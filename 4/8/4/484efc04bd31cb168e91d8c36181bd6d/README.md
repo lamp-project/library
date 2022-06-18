@@ -1,4 +1,4 @@
-# The Importance of Being Earnest: A Trivial Comedy for Serious People <kbd>v2.2.1</kbd>
+# The Importance of Being Earnest: A Trivial Comedy for Serious People <kbd>v2.3.0</kbd>
 
 ![](./cover.medium.jpg "")
 
