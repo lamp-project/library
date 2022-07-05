@@ -1,4 +1,4 @@
-# Hard Times for the Time Trippers <kbd>v2.4.0</kbd>
+# Hard Times for the Time Trippers <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,10 +18,10 @@
 ## Readablility
 
 
- - **A1:** 76%
+ - **A1:** 77%
  - **A2:** 83%
  - **B1:** 89%
- - **B2:** 93%
+ - **B2:** 94%
  - **C1:** 98%
  - **C2:** 100%
 
@@ -30,10 +30,10 @@
 
  - **A1:** 366
  - **A2:** 195
- - **B1:** 229
- - **B2:** 215
- - **C1:** 184
- - **C2:** 83
+ - **B1:** 226
+ - **B2:** 213
+ - **C1:** 182
+ - **C2:** 81
 
 ## Source
 
