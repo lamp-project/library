@@ -1,4 +1,4 @@
-# The River to Freedom <kbd>v2.4.0</kbd>
+# The River to Freedom <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 74%
+ - **A1:** 75%
  - **A2:** 86%
  - **B1:** 93%
  - **B2:** 97%
@@ -30,10 +30,10 @@
 
  - **A1:** 167
  - **A2:** 65
- - **B1:** 46
+ - **B1:** 45
  - **B2:** 27
  - **C1:** 14
- - **C2:** 4
+ - **C2:** 3
 
 ## Source
 
