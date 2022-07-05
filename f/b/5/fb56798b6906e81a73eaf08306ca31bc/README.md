@@ -1,4 +1,4 @@
-# Nimble Fingers <kbd>v2.4.0</kbd>
+# Nimble Fingers <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,7 +30,7 @@
 
  - **A1:** 166
  - **A2:** 29
- - **B1:** 28
+ - **B1:** 27
  - **B2:** 22
  - **C1:** 18
  - **C2:** 5
