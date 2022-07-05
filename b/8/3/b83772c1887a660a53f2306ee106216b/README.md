@@ -1,4 +1,4 @@
-# 20,000 Leagues Under the Sea <kbd>v2.4.0</kbd>
+# 20,000 Leagues Under the Sea <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 348
  - **A2:** 151
- - **B1:** 137
+ - **B1:** 136
  - **B2:** 93
- - **C1:** 65
+ - **C1:** 64
  - **C2:** 28
 
 ## Source
