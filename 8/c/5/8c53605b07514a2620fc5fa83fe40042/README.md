@@ -1,4 +1,4 @@
-# Moral Disorder <kbd>v2.4.0</kbd>
+# Moral Disorder <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 388
+ - **A1:** 386
  - **A2:** 200
- - **B1:** 238
+ - **B1:** 236
  - **B2:** 241
- - **C1:** 241
- - **C2:** 190
+ - **C1:** 240
+ - **C2:** 189
 
 ## Source
 
