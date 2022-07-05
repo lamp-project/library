@@ -1,4 +1,4 @@
-# Death in Edinburgh <kbd>v2.4.0</kbd>
+# Death in Edinburgh <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 377
  - **A2:** 197
- - **B1:** 218
- - **B2:** 191
- - **C1:** 150
- - **C2:** 97
+ - **B1:** 216
+ - **B2:** 190
+ - **C1:** 149
+ - **C2:** 95
 
 ## Source
 
