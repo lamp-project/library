@@ -1,4 +1,4 @@
-# The Last Photo <kbd>v2.4.0</kbd>
+# The Last Photo <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 130
+ - **A1:** 128
  - **A2:** 21
- - **B1:** 21
- - **B2:** 16
+ - **B1:** 20
+ - **B2:** 15
  - **C1:** 8
- - **C2:** 5
+ - **C2:** 4
 
 ## Source
 
