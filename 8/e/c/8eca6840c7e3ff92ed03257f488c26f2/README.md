@@ -1,4 +1,4 @@
-# Jamaica Inn <kbd>v2.4.1</kbd>
+# Jamaica Inn <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
