@@ -1,4 +1,4 @@
-# A Kiss Before Dying <kbd>v2.4.1</kbd>
+# A Kiss Before Dying <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
