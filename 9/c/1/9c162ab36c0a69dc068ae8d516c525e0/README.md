@@ -1,4 +1,4 @@
-# Catch Me If You Can <kbd>v2.4.1</kbd>
+# Catch Me If You Can <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
