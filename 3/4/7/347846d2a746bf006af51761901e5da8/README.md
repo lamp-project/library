@@ -1,4 +1,4 @@
-# The Crocodile and the Hunter <kbd>v2.4.0</kbd>
+# The Crocodile and the Hunter <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 225
+ - **A1:** 223
  - **A2:** 58
- - **B1:** 48
+ - **B1:** 47
  - **B2:** 50
- - **C1:** 22
- - **C2:** 9
+ - **C1:** 21
+ - **C2:** 8
 
 ## Source
 
