@@ -1,4 +1,4 @@
-# The Lost Treasure of Bodega Bay <kbd>v2.4.0</kbd>
+# The Lost Treasure of Bodega Bay <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,8 +18,8 @@
 ## Readablility
 
 
- - **A1:** 75%
- - **A2:** 82%
+ - **A1:** 76%
+ - **A2:** 83%
  - **B1:** 87%
  - **B2:** 93%
  - **C1:** 98%
@@ -30,10 +30,10 @@
 
  - **A1:** 308
  - **A2:** 143
- - **B1:** 110
- - **B2:** 105
- - **C1:** 57
- - **C2:** 38
+ - **B1:** 108
+ - **B2:** 104
+ - **C1:** 56
+ - **C2:** 37
 
 ## Source
 
