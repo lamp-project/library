@@ -1,4 +1,4 @@
-# For a Horseshoe Nail <kbd>v2.4.0</kbd>
+# For a Horseshoe Nail <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 165
  - **A2:** 44
- - **B1:** 43
+ - **B1:** 42
  - **B2:** 20
- - **C1:** 22
- - **C2:** 8
+ - **C1:** 21
+ - **C2:** 7
 
 ## Source
 
