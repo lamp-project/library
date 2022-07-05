@@ -1,4 +1,4 @@
-# Miami Police File the O'nell Case <kbd>v2.4.0</kbd>
+# Miami Police File the O'nell Case <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 329
  - **A2:** 147
- - **B1:** 160
- - **B2:** 144
- - **C1:** 101
- - **C2:** 56
+ - **B1:** 159
+ - **B2:** 143
+ - **C1:** 100
+ - **C2:** 55
 
 ## Source
 
