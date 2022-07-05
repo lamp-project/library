@@ -1,4 +1,4 @@
-# Animals Look! <kbd>v2.4.0</kbd>
+# Animals Look! <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,9 +28,9 @@
 ## Words Count
 
 
- - **A1:** 243
+ - **A1:** 242
  - **A2:** 82
- - **B1:** 103
+ - **B1:** 102
  - **B2:** 98
  - **C1:** 82
  - **C2:** 53
