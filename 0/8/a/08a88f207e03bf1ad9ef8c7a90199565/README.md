@@ -1,4 +1,4 @@
-# Simon Decker and the Secret Formula <kbd>v2.4.0</kbd>
+# Simon Decker and the Secret Formula <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,8 +18,8 @@
 ## Readablility
 
 
- - **A1:** 79%
- - **A2:** 85%
+ - **A1:** 80%
+ - **A2:** 86%
  - **B1:** 91%
  - **B2:** 95%
  - **C1:** 98%
@@ -30,10 +30,10 @@
 
  - **A1:** 332
  - **A2:** 142
- - **B1:** 144
+ - **B1:** 142
  - **B2:** 87
- - **C1:** 70
- - **C2:** 31
+ - **C1:** 69
+ - **C2:** 28
 
 ## Source
 
