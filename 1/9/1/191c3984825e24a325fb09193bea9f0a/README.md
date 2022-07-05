@@ -1,4 +1,4 @@
-# Fear and Loathing in Las Vegas <kbd>v2.4.1</kbd>
+# Fear and Loathing in Las Vegas <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
