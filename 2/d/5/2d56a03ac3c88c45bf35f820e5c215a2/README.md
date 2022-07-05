@@ -1,4 +1,4 @@
-# Island of Dr Moreau <kbd>v2.4.0</kbd>
+# Island of Dr Moreau <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 381
- - **A2:** 219
- - **B1:** 230
- - **B2:** 195
- - **C1:** 106
- - **C2:** 33
+ - **A1:** 380
+ - **A2:** 218
+ - **B1:** 225
+ - **B2:** 193
+ - **C1:** 105
+ - **C2:** 31
 
 ## Source
 
