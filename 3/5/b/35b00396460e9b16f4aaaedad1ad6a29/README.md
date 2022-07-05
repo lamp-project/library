@@ -1,4 +1,4 @@
-# The Lost Phoebe <kbd>v2.4.0</kbd>
+# The Lost Phoebe <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -33,7 +33,7 @@
  - **B1:** 44
  - **B2:** 36
  - **C1:** 12
- - **C2:** 4
+ - **C2:** 3
 
 ## Source
 
