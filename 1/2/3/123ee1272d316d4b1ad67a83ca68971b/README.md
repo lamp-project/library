@@ -1,4 +1,4 @@
-# Diana; Princess of Wales <kbd>v2.4.0</kbd>
+# Diana; Princess of Wales <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,9 +28,9 @@
 ## Words Count
 
 
- - **A1:** 206
+ - **A1:** 205
  - **A2:** 59
- - **B1:** 59
+ - **B1:** 58
  - **B2:** 29
  - **C1:** 20
  - **C2:** 10
