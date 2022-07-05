@@ -1,4 +1,4 @@
-# The Problem Of Cell 13 <kbd>v2.4.1</kbd>
+# The Problem Of Cell 13 <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
