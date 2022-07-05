@@ -1,4 +1,4 @@
-# All about Desert Life <kbd>v2.4.0</kbd>
+# All about Desert Life <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 70%
+ - **A1:** 69%
  - **A2:** 78%
  - **B1:** 86%
  - **B2:** 93%
