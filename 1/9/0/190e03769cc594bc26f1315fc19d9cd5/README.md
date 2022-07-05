@@ -1,4 +1,4 @@
-# Fighting for the Forest <kbd>v2.4.0</kbd>
+# Fighting for the Forest <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
