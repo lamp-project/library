@@ -1,4 +1,4 @@
-# Leonardo Da Vinci <kbd>v2.4.0</kbd>
+# Leonardo Da Vinci <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -29,9 +29,9 @@
 
 
  - **A1:** 446
- - **A2:** 302
+ - **A2:** 301
  - **B1:** 367
- - **B2:** 342
+ - **B2:** 341
  - **C1:** 237
  - **C2:** 71
 
