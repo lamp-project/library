@@ -1,4 +1,4 @@
-# Cat Among the Pigeons <kbd>v2.4.1</kbd>
+# Cat Among the Pigeons <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
