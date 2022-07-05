@@ -1,4 +1,4 @@
-# They Came to Baghdad <kbd>v2.4.0</kbd>
+# They Came to Baghdad <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 79%
+ - **A1:** 80%
  - **A2:** 85%
  - **B1:** 91%
  - **B2:** 95%
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 471
+ - **A1:** 468
  - **A2:** 346
- - **B1:** 465
+ - **B1:** 461
  - **B2:** 486
- - **C1:** 379
- - **C2:** 157
+ - **C1:** 375
+ - **C2:** 152
 
 ## Source
 
