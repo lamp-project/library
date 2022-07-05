@@ -1,4 +1,4 @@
-# Bloody Legacy <kbd>v2.4.1</kbd>
+# Bloody Legacy <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
