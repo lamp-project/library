@@ -1,4 +1,4 @@
-# Spiders Along the Dark Web <kbd>v2.4.1</kbd>
+# Spiders Along the Dark Web <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
