@@ -1,4 +1,4 @@
-# Davy Crockett <kbd>v2.4.0</kbd>
+# Davy Crockett <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 228
  - **A2:** 81
- - **B1:** 76
+ - **B1:** 75
  - **B2:** 80
- - **C1:** 35
- - **C2:** 16
+ - **C1:** 34
+ - **C2:** 15
 
 ## Source
 
