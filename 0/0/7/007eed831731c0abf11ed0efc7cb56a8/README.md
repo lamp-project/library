@@ -1,4 +1,4 @@
-# The Curious Case Of Benjamin Button <kbd>v2.4.0</kbd>
+# The Curious Case Of Benjamin Button <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,7 +19,7 @@
 
 
  - **A1:** 75%
- - **A2:** 80%
+ - **A2:** 81%
  - **B1:** 86%
  - **B2:** 92%
  - **C1:** 97%
@@ -30,10 +30,10 @@
 
  - **A1:** 426
  - **A2:** 262
- - **B1:** 294
- - **B2:** 344
- - **C1:** 316
- - **C2:** 191
+ - **B1:** 293
+ - **B2:** 343
+ - **C1:** 315
+ - **C2:** 189
 
 ## Source
 
