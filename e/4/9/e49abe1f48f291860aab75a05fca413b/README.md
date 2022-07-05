@@ -1,4 +1,4 @@
-# The Abc Murders <kbd>v2.4.1</kbd>
+# The Abc Murders <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
