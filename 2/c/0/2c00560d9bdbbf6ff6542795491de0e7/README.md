@@ -1,4 +1,4 @@
-# Captain Corelli's Mandolin <kbd>v2.4.1</kbd>
+# Captain Corelli's Mandolin <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
