@@ -1,4 +1,4 @@
-# Climate Change <kbd>v2.4.0</kbd>
+# Climate Change <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
