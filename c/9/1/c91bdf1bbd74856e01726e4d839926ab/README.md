@@ -1,4 +1,4 @@
-# Amazing Aviators <kbd>v2.4.0</kbd>
+# Amazing Aviators <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 342
  - **A2:** 164
- - **B1:** 191
+ - **B1:** 190
  - **B2:** 170
- - **C1:** 124
- - **C2:** 73
+ - **C1:** 122
+ - **C2:** 72
 
 ## Source
 
