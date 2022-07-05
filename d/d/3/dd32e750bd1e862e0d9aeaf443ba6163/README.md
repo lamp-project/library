@@ -1,4 +1,4 @@
-# History of English Language <kbd>v2.4.1</kbd>
+# History of English Language <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
