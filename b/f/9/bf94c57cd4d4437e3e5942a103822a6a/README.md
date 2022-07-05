@@ -1,4 +1,4 @@
-# The pit and the pendulum <kbd>v2.4.0</kbd>
+# The pit and the pendulum <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
