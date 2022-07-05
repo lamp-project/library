@@ -1,4 +1,4 @@
-# Food around the World <kbd>v2.4.0</kbd>
+# Food around the World <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 185
  - **A2:** 80
- - **B1:** 87
+ - **B1:** 86
  - **B2:** 81
  - **C1:** 92
- - **C2:** 59
+ - **C2:** 58
 
 ## Source
 
