@@ -1,4 +1,4 @@
-# The Celebrated Jumping Frog of Calaveras <kbd>v2.4.0</kbd>
+# The Celebrated Jumping Frog of Calaveras <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 73%
+ - **A1:** 74%
  - **A2:** 80%
  - **B1:** 88%
  - **B2:** 93%
@@ -30,9 +30,9 @@
 
  - **A1:** 150
  - **A2:** 38
- - **B1:** 45
+ - **B1:** 44
  - **B2:** 27
- - **C1:** 20
+ - **C1:** 19
  - **C2:** 13
 
 ## Source
