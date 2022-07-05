@@ -1,4 +1,4 @@
-# Missiya, the Wild One <kbd>v2.4.0</kbd>
+# Missiya, the Wild One <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 268
+ - **A1:** 267
  - **A2:** 80
- - **B1:** 75
+ - **B1:** 74
  - **B2:** 57
  - **C1:** 36
- - **C2:** 11
+ - **C2:** 10
 
 ## Source
 
