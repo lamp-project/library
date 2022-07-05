@@ -1,4 +1,4 @@
-# The Fisherman and His Soul <kbd>v2.4.0</kbd>
+# The Fisherman and His Soul <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,9 +28,9 @@
 ## Words Count
 
 
- - **A1:** 299
+ - **A1:** 298
  - **A2:** 128
- - **B1:** 143
+ - **B1:** 141
  - **B2:** 99
  - **C1:** 60
  - **C2:** 28
