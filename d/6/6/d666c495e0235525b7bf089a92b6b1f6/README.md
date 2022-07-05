@@ -1,4 +1,4 @@
-# Animal Senses <kbd>v2.4.0</kbd>
+# Animal Senses <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,7 +30,7 @@
 
  - **A1:** 241
  - **A2:** 95
- - **B1:** 118
+ - **B1:** 117
  - **B2:** 102
  - **C1:** 98
  - **C2:** 53
