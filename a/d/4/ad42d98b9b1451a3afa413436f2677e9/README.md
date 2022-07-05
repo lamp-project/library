@@ -1,4 +1,4 @@
-# A Fishy Story <kbd>v2.4.1</kbd>
+# A Fishy Story <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
