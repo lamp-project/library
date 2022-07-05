@@ -1,4 +1,4 @@
-# Lord Arthur Savile's Crime <kbd>v2.4.0</kbd>
+# Lord Arthur Savile's Crime <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 79%
+ - **A1:** 80%
  - **A2:** 86%
  - **B1:** 92%
  - **B2:** 96%
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 362
+ - **A1:** 361
  - **A2:** 177
- - **B1:** 202
- - **B2:** 133
- - **C1:** 88
- - **C2:** 29
+ - **B1:** 200
+ - **B2:** 132
+ - **C1:** 87
+ - **C2:** 28
 
 ## Source
 
