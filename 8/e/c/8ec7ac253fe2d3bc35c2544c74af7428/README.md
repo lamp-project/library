@@ -1,4 +1,4 @@
-# Women in Business <kbd>v2.4.0</kbd>
+# Women in Business <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 367
  - **A2:** 206
- - **B1:** 197
+ - **B1:** 194
  - **B2:** 180
- - **C1:** 132
- - **C2:** 51
+ - **C1:** 131
+ - **C2:** 49
 
 ## Source
 
