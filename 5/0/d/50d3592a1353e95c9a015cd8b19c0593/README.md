@@ -1,4 +1,4 @@
-# The Extraordinary Miss Sunshine <kbd>v2.4.0</kbd>
+# The Extraordinary Miss Sunshine <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,8 +18,8 @@
 ## Readablility
 
 
- - **A1:** 74%
- - **A2:** 82%
+ - **A1:** 75%
+ - **A2:** 83%
  - **B1:** 88%
  - **B2:** 95%
  - **C1:** 98%
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 307
- - **A2:** 136
- - **B1:** 123
- - **B2:** 121
- - **C1:** 82
- - **C2:** 43
+ - **A1:** 306
+ - **A2:** 134
+ - **B1:** 119
+ - **B2:** 120
+ - **C1:** 80
+ - **C2:** 42
 
 ## Source
 
