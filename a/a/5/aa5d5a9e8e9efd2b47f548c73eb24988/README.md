@@ -1,4 +1,4 @@
-# The Californian's Tale <kbd>v2.4.0</kbd>
+# The Californian's Tale <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,7 +30,7 @@
 
  - **A1:** 241
  - **A2:** 86
- - **B1:** 55
+ - **B1:** 54
  - **B2:** 46
  - **C1:** 20
  - **C2:** 5
