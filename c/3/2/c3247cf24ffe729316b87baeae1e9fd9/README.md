@@ -1,4 +1,4 @@
-# Amazing Women <kbd>v2.4.0</kbd>
+# Amazing Women <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 294
+ - **A1:** 293
  - **A2:** 128
- - **B1:** 133
+ - **B1:** 132
  - **B2:** 126
- - **C1:** 77
+ - **C1:** 76
  - **C2:** 21
 
 ## Source
