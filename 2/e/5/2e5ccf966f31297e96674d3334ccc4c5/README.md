@@ -1,4 +1,4 @@
-# Lucky Luke and other Very Short Stories <kbd>v2.4.0</kbd>
+# Lucky Luke and other Very Short Stories <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -29,11 +29,11 @@
 
 
  - **A1:** 446
- - **A2:** 288
- - **B1:** 360
- - **B2:** 392
- - **C1:** 377
- - **C2:** 217
+ - **A2:** 287
+ - **B1:** 357
+ - **B2:** 391
+ - **C1:** 373
+ - **C2:** 213
 
 ## Source
 
