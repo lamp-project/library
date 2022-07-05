@@ -1,4 +1,4 @@
-# This Rough Magic <kbd>v2.4.1</kbd>
+# This Rough Magic <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
