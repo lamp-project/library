@@ -1,4 +1,4 @@
-# The Judge's House <kbd>v2.4.0</kbd>
+# The Judge's House <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 316
+ - **A1:** 314
  - **A2:** 140
- - **B1:** 147
- - **B2:** 122
- - **C1:** 81
- - **C2:** 25
+ - **B1:** 145
+ - **B2:** 121
+ - **C1:** 80
+ - **C2:** 24
 
 ## Source
 
