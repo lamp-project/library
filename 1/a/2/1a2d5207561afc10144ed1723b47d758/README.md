@@ -1,4 +1,4 @@
-# One of the Missing <kbd>v2.4.0</kbd>
+# One of the Missing <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -32,7 +32,7 @@
  - **A2:** 73
  - **B1:** 69
  - **B2:** 44
- - **C1:** 28
+ - **C1:** 27
  - **C2:** 7
 
 ## Source
