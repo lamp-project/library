@@ -1,4 +1,4 @@
-# At the Old Swimming Hole <kbd>v2.4.0</kbd>
+# At the Old Swimming Hole <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 78%
+ - **A1:** 79%
  - **A2:** 86%
  - **B1:** 92%
  - **B2:** 96%
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 283
- - **A2:** 98
- - **B1:** 101
- - **B2:** 68
- - **C1:** 40
- - **C2:** 8
+ - **A1:** 282
+ - **A2:** 97
+ - **B1:** 98
+ - **B2:** 67
+ - **C1:** 39
+ - **C2:** 7
 
 ## Source
 
