@@ -1,4 +1,4 @@
-# The Accidental Tourist <kbd>v2.4.1</kbd>
+# The Accidental Tourist <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
