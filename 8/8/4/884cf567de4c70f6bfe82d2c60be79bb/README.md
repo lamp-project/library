@@ -1,4 +1,4 @@
-# Great Mysteries of Our World <kbd>v2.4.0</kbd>
+# Great Mysteries of Our World <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 370
+ - **A1:** 369
  - **A2:** 184
- - **B1:** 228
- - **B2:** 206
- - **C1:** 184
- - **C2:** 117
+ - **B1:** 226
+ - **B2:** 205
+ - **C1:** 183
+ - **C2:** 113
 
 ## Source
 
