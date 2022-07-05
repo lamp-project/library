@@ -1,4 +1,4 @@
-# The Fall of the House of Usher <kbd>v2.4.0</kbd>
+# The Fall of the House of Usher <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 216
  - **A2:** 72
- - **B1:** 47
+ - **B1:** 46
  - **B2:** 56
- - **C1:** 22
+ - **C1:** 21
  - **C2:** 3
 
 ## Source
