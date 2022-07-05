@@ -1,4 +1,4 @@
-# A Connecticut Yankee In King Arthur's Court <kbd>v2.4.0</kbd>
+# A Connecticut Yankee In King Arthur's Court <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 331
  - **A2:** 163
- - **B1:** 167
+ - **B1:** 166
  - **B2:** 146
- - **C1:** 122
+ - **C1:** 121
  - **C2:** 37
 
 ## Source
