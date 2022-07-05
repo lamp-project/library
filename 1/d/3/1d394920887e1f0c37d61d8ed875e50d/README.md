@@ -1,4 +1,4 @@
-# Tender is the Night <kbd>v2.4.0</kbd>
+# Tender is the Night <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 467
  - **A2:** 366
- - **B1:** 501
- - **B2:** 552
- - **C1:** 399
- - **C2:** 198
+ - **B1:** 500
+ - **B2:** 551
+ - **C1:** 398
+ - **C2:** 197
 
 ## Source
 
