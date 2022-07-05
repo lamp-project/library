@@ -1,4 +1,4 @@
-# Interview with the Vampire <kbd>v2.4.0</kbd>
+# Interview with the Vampire <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 83%
+ - **A1:** 84%
  - **A2:** 89%
  - **B1:** 94%
  - **B2:** 97%
@@ -30,10 +30,10 @@
 
  - **A1:** 427
  - **A2:** 290
- - **B1:** 341
+ - **B1:** 338
  - **B2:** 330
- - **C1:** 220
- - **C2:** 89
+ - **C1:** 219
+ - **C2:** 86
 
 ## Source
 
