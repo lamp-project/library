@@ -1,4 +1,4 @@
-# The Adventures in The Grasslands <kbd>v2.4.0</kbd>
+# The Adventures in The Grasslands <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 224
+ - **A1:** 222
  - **A2:** 86
- - **B1:** 91
+ - **B1:** 90
  - **B2:** 78
  - **C1:** 44
- - **C2:** 25
+ - **C2:** 23
 
 ## Source
 
