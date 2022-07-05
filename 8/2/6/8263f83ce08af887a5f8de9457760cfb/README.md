@@ -1,4 +1,4 @@
-# The Damned Thing <kbd>v2.4.0</kbd>
+# The Damned Thing <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 242
+ - **A1:** 241
  - **A2:** 71
- - **B1:** 61
+ - **B1:** 59
  - **B2:** 58
- - **C1:** 30
- - **C2:** 9
+ - **C1:** 29
+ - **C2:** 8
 
 ## Source
 
