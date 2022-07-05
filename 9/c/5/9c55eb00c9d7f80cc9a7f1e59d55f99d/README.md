@@ -1,4 +1,4 @@
-# A Sea Change <kbd>v2.4.1</kbd>
+# A Sea Change <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
