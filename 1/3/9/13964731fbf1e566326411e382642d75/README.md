@@ -1,4 +1,4 @@
-# The Festive Season in a Part of Africa <kbd>v2.4.0</kbd>
+# The Festive Season in a Part of Africa <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,10 +28,10 @@
 ## Words Count
 
 
- - **A1:** 177
+ - **A1:** 176
  - **A2:** 40
- - **B1:** 33
- - **B2:** 31
+ - **B1:** 31
+ - **B2:** 30
  - **C1:** 21
  - **C2:** 8
 
