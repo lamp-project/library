@@ -1,4 +1,4 @@
-# The War Of The Worlds <kbd>v2.4.1</kbd>
+# The War Of The Worlds <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
