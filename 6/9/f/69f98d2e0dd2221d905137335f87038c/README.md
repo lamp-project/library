@@ -1,4 +1,4 @@
-# The Night of the Green Dragon <kbd>v2.4.1</kbd>
+# The Night of the Green Dragon <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
