@@ -1,4 +1,4 @@
-# The Everest Story <kbd>v2.4.0</kbd>
+# The Everest Story <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 363
  - **A2:** 161
- - **B1:** 159
- - **B2:** 117
- - **C1:** 80
- - **C2:** 32
+ - **B1:** 158
+ - **B2:** 116
+ - **C1:** 79
+ - **C2:** 31
 
 ## Source
 
