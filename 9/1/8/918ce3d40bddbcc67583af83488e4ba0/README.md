@@ -1,4 +1,4 @@
-# The Second Voyage of Sindbad the Sailor <kbd>v2.4.0</kbd>
+# The Second Voyage of Sindbad the Sailor <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,10 +19,10 @@
 
 
  - **A1:** 75%
- - **A2:** 82%
+ - **A2:** 83%
  - **B1:** 90%
  - **B2:** 96%
- - **C1:** 99%
+ - **C1:** 100%
  - **C2:** 100%
 
 ## Words Count
@@ -30,10 +30,10 @@
 
  - **A1:** 190
  - **A2:** 52
- - **B1:** 51
+ - **B1:** 50
  - **B2:** 47
- - **C1:** 25
- - **C2:** 6
+ - **C1:** 24
+ - **C2:** 5
 
 ## Source
 
