@@ -1,4 +1,4 @@
-# Woodrow Wilson Tie <kbd>v2.4.1</kbd>
+# Woodrow Wilson Tie <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
