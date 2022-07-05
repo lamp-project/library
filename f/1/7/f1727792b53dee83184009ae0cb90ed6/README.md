@@ -1,4 +1,4 @@
-# Weep Not, Child <kbd>v2.4.1</kbd>
+# Weep Not, Child <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
