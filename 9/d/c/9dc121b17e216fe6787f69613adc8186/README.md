@@ -1,4 +1,4 @@
-# The Cider House Rules <kbd>v2.4.0</kbd>
+# The Cider House Rules <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 483
  - **A2:** 411
- - **B1:** 654
+ - **B1:** 653
  - **B2:** 816
- - **C1:** 775
- - **C2:** 493
+ - **C1:** 774
+ - **C2:** 491
 
 ## Source
 
