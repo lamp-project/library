@@ -1,4 +1,4 @@
-# One Thousand Dollars <kbd>v2.4.0</kbd>
+# One Thousand Dollars <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 204
  - **A2:** 52
- - **B1:** 59
+ - **B1:** 57
  - **B2:** 32
- - **C1:** 33
- - **C2:** 8
+ - **C1:** 32
+ - **C2:** 7
 
 ## Source
 
