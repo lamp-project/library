@@ -1,4 +1,4 @@
-# The Sharcks Were Hungry <kbd>v2.4.0</kbd>
+# The Sharcks Were Hungry <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
