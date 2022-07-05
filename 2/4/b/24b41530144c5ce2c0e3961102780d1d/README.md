@@ -1,4 +1,4 @@
-# The Wind in the Willows <kbd>v2.4.0</kbd>
+# The Wind in the Willows <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 68%
+ - **A1:** 67%
  - **A2:** 75%
  - **B1:** 81%
  - **B2:** 87%
@@ -30,10 +30,10 @@
 
  - **A1:** 270
  - **A2:** 124
- - **B1:** 122
+ - **B1:** 121
  - **B2:** 140
  - **C1:** 102
- - **C2:** 45
+ - **C2:** 44
 
 ## Source
 
