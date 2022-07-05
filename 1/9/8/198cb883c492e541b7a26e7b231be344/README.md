@@ -1,4 +1,4 @@
-# Deadheads <kbd>v2.4.1</kbd>
+# Deadheads <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
