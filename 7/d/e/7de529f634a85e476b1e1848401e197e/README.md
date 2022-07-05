@@ -1,4 +1,4 @@
-# A Scandal in Bohemia <kbd>v2.4.0</kbd>
+# A Scandal in Bohemia <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 258
+ - **A1:** 257
  - **A2:** 72
- - **B1:** 51
- - **B2:** 34
- - **C1:** 23
+ - **B1:** 49
+ - **B2:** 32
+ - **C1:** 22
  - **C2:** 3
 
 ## Source
