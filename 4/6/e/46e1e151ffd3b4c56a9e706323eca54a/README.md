@@ -1,4 +1,4 @@
-# All about the USA <kbd>v2.4.0</kbd>
+# All about the USA <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,8 +30,8 @@
 
  - **A1:** 256
  - **A2:** 138
- - **B1:** 157
- - **B2:** 173
+ - **B1:** 156
+ - **B2:** 172
  - **C1:** 123
  - **C2:** 70
 
