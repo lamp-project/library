@@ -1,4 +1,4 @@
-# Black Beauty <kbd>v2.4.1</kbd>
+# Black Beauty <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
