@@ -1,4 +1,4 @@
-# The Ghosty Bridegroom <kbd>v2.4.0</kbd>
+# The Ghosty Bridegroom <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 363
  - **A2:** 144
- - **B1:** 160
+ - **B1:** 158
  - **B2:** 114
- - **C1:** 80
- - **C2:** 25
+ - **C1:** 79
+ - **C2:** 23
 
 ## Source
 
