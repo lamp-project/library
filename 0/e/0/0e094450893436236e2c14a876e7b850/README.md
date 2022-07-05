@@ -1,4 +1,4 @@
-# A Twentieth-century Malady <kbd>v2.4.0</kbd>
+# A Twentieth-century Malady <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 263
+ - **A1:** 260
  - **A2:** 84
- - **B1:** 83
- - **B2:** 86
- - **C1:** 56
- - **C2:** 24
+ - **B1:** 81
+ - **B2:** 84
+ - **C1:** 55
+ - **C2:** 21
 
 ## Source
 
