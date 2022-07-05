@@ -1,4 +1,4 @@
-# Amazing Thinkers and Humanitarians <kbd>v2.4.0</kbd>
+# Amazing Thinkers and Humanitarians <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 437
+ - **A1:** 436
  - **A2:** 292
- - **B1:** 403
+ - **B1:** 400
  - **B2:** 399
- - **C1:** 313
+ - **C1:** 310
  - **C2:** 142
 
 ## Source
