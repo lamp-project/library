@@ -1,4 +1,4 @@
-# The Cask of Amontillado <kbd>v2.4.0</kbd>
+# The Cask of Amontillado <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 231
  - **A2:** 67
- - **B1:** 73
+ - **B1:** 71
  - **B2:** 52
- - **C1:** 31
+ - **C1:** 30
  - **C2:** 11
 
 ## Source
