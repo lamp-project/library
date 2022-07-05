@@ -1,4 +1,4 @@
-# The Butterworth Mystery <kbd>v2.4.0</kbd>
+# The Butterworth Mystery <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 377
  - **A2:** 189
- - **B1:** 188
+ - **B1:** 185
  - **B2:** 152
- - **C1:** 117
- - **C2:** 43
+ - **C1:** 116
+ - **C2:** 41
 
 ## Source
 
