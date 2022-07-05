@@ -1,4 +1,4 @@
-# My Cousin Rachel <kbd>v2.4.1</kbd>
+# My Cousin Rachel <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
