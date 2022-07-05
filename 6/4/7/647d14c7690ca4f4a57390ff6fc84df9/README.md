@@ -1,4 +1,4 @@
-# The Truly Married Woman <kbd>v2.4.0</kbd>
+# The Truly Married Woman <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 327
+ - **A1:** 326
  - **A2:** 123
- - **B1:** 138
+ - **B1:** 136
  - **B2:** 113
- - **C1:** 66
+ - **C1:** 65
  - **C2:** 26
 
 ## Source
