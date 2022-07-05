@@ -1,4 +1,4 @@
-# Martin Luther King <kbd>v2.4.0</kbd>
+# Martin Luther King <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 376
+ - **A1:** 375
  - **A2:** 161
- - **B1:** 166
- - **B2:** 143
- - **C1:** 90
- - **C2:** 34
+ - **B1:** 165
+ - **B2:** 142
+ - **C1:** 89
+ - **C2:** 33
 
 ## Source
 
