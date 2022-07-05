@@ -1,4 +1,4 @@
-# Great English Monarchs and Their times <kbd>v2.4.0</kbd>
+# Great English Monarchs and Their times <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -32,7 +32,7 @@
  - **A2:** 173
  - **B1:** 240
  - **B2:** 253
- - **C1:** 181
+ - **C1:** 180
  - **C2:** 98
 
 ## Source
