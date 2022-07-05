@@ -1,4 +1,4 @@
-# History of English Language <kbd>v2.4.0</kbd>
+# History of English Language <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -29,11 +29,11 @@
 
 
  - **A1:** 409
- - **A2:** 226
- - **B1:** 291
+ - **A2:** 225
+ - **B1:** 290
  - **B2:** 245
- - **C1:** 228
- - **C2:** 147
+ - **C1:** 225
+ - **C2:** 146
 
 ## Source
 
