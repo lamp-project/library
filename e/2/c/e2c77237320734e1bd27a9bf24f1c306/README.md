@@ -1,4 +1,4 @@
-# The Eyes of Darkness <kbd>v2.4.1</kbd>
+# The Eyes of Darkness <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
