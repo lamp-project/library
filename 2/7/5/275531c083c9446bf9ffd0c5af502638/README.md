@@ -1,4 +1,4 @@
-# Ghastly Ghosts <kbd>v2.4.0</kbd>
+# Ghastly Ghosts <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,9 +28,9 @@
 ## Words Count
 
 
- - **A1:** 289
+ - **A1:** 286
  - **A2:** 118
- - **B1:** 132
+ - **B1:** 129
  - **B2:** 101
  - **C1:** 78
  - **C2:** 29
