@@ -1,4 +1,4 @@
-# Orpheus Descending <kbd>v2.4.0</kbd>
+# Orpheus Descending <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 388
  - **A2:** 185
- - **B1:** 215
+ - **B1:** 214
  - **B2:** 163
- - **C1:** 102
- - **C2:** 34
+ - **C1:** 101
+ - **C2:** 33
 
 ## Source
 
