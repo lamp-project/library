@@ -1,4 +1,4 @@
-# The Murders in the Rue Morgue <kbd>v2.4.1</kbd>
+# The Murders in the Rue Morgue <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
