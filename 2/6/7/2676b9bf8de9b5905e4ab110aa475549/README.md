@@ -1,4 +1,4 @@
-# Black Cat <kbd>v2.4.0</kbd>
+# Black Cat <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
