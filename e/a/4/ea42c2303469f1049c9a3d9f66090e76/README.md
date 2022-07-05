@@ -1,4 +1,4 @@
-# Ligeia <kbd>v2.4.0</kbd>
+# Ligeia <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -33,7 +33,7 @@
  - **B1:** 59
  - **B2:** 50
  - **C1:** 34
- - **C2:** 4
+ - **C2:** 3
 
 ## Source
 
