@@ -1,4 +1,4 @@
-# The Night Train at Deoli <kbd>v2.4.0</kbd>
+# The Night Train at Deoli <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,7 +30,7 @@
 
  - **A1:** 215
  - **A2:** 61
- - **B1:** 59
+ - **B1:** 57
  - **B2:** 51
  - **C1:** 26
  - **C2:** 7
