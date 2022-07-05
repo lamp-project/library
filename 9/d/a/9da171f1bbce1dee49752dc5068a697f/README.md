@@ -1,4 +1,4 @@
-# Meeting Mrs Dumoise <kbd>v2.4.0</kbd>
+# Meeting Mrs Dumoise <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 211
  - **A2:** 55
- - **B1:** 36
- - **B2:** 33
- - **C1:** 16
+ - **B1:** 34
+ - **B2:** 32
+ - **C1:** 15
  - **C2:** 7
 
 ## Source
