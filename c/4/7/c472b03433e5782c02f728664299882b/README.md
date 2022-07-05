@@ -1,4 +1,4 @@
-# Manchester United <kbd>v2.4.0</kbd>
+# Manchester United <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 313
+ - **A1:** 311
  - **A2:** 133
- - **B1:** 150
- - **B2:** 102
- - **C1:** 88
- - **C2:** 46
+ - **B1:** 149
+ - **B2:** 101
+ - **C1:** 87
+ - **C2:** 45
 
 ## Source
 
