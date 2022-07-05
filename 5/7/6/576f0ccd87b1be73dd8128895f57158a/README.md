@@ -1,4 +1,4 @@
-# Three is a Lucky Number <kbd>v2.4.0</kbd>
+# Three is a Lucky Number <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 280
- - **A2:** 99
- - **B1:** 80
- - **B2:** 75
- - **C1:** 43
+ - **A1:** 278
+ - **A2:** 97
+ - **B1:** 79
+ - **B2:** 74
+ - **C1:** 42
  - **C2:** 15
 
 ## Source
