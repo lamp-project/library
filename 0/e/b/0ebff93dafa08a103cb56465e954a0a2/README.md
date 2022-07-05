@@ -1,4 +1,4 @@
-# Henry VIII and His Six Wives <kbd>v2.4.0</kbd>
+# Henry VIII and His Six Wives <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,8 +18,8 @@
 ## Readablility
 
 
- - **A1:** 83%
- - **A2:** 90%
+ - **A1:** 84%
+ - **A2:** 91%
  - **B1:** 96%
  - **B2:** 99%
  - **C1:** 100%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 323
+ - **A1:** 322
  - **A2:** 121
- - **B1:** 117
+ - **B1:** 116
  - **B2:** 75
- - **C1:** 31
+ - **C1:** 30
  - **C2:** 11
 
 ## Source
