@@ -1,4 +1,4 @@
-# The Facts in The Case of Mr Valdemar <kbd>v2.4.0</kbd>
+# The Facts in The Case of Mr Valdemar <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 180
  - **A2:** 51
- - **B1:** 35
+ - **B1:** 34
  - **B2:** 25
- - **C1:** 12
+ - **C1:** 11
  - **C2:** 4
 
 ## Source
