@@ -1,4 +1,4 @@
-# The Curse of the Black Pearl <kbd>v2.4.0</kbd>
+# The Curse of the Black Pearl <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,9 +18,9 @@
 ## Readablility
 
 
- - **A1:** 77%
+ - **A1:** 78%
  - **A2:** 84%
- - **B1:** 90%
+ - **B1:** 91%
  - **B2:** 94%
  - **C1:** 98%
  - **C2:** 99%
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 266
+ - **A1:** 265
  - **A2:** 95
- - **B1:** 83
+ - **B1:** 82
  - **B2:** 49
- - **C1:** 45
- - **C2:** 9
+ - **C1:** 44
+ - **C2:** 8
 
 ## Source
 
