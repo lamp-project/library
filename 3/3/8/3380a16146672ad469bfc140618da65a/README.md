@@ -1,4 +1,4 @@
-# The Disappearance of Lady Frances Carfax <kbd>v2.4.0</kbd>
+# The Disappearance of Lady Frances Carfax <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,8 +18,8 @@
 ## Readablility
 
 
- - **A1:** 81%
- - **A2:** 86%
+ - **A1:** 82%
+ - **A2:** 87%
  - **B1:** 92%
  - **B2:** 95%
  - **C1:** 99%
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 293
+ - **A1:** 292
  - **A2:** 101
- - **B1:** 105
- - **B2:** 70
- - **C1:** 65
- - **C2:** 14
+ - **B1:** 100
+ - **B2:** 68
+ - **C1:** 62
+ - **C2:** 13
 
 ## Source
 
