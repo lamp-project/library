@@ -1,4 +1,4 @@
-# Pecos Bill <kbd>v2.4.0</kbd>
+# Pecos Bill <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 173
+ - **A1:** 171
  - **A2:** 45
  - **B1:** 46
  - **B2:** 30
  - **C1:** 13
- - **C2:** 8
+ - **C2:** 7
 
 ## Source
 
