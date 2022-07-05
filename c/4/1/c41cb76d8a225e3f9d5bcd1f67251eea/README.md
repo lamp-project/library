@@ -1,4 +1,4 @@
-# Robots the Next Generation <kbd>v2.4.0</kbd>
+# Robots the Next Generation <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -32,7 +32,7 @@
  - **A2:** 93
  - **B1:** 117
  - **B2:** 120
- - **C1:** 109
+ - **C1:** 108
  - **C2:** 64
 
 ## Source
