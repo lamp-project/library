@@ -1,4 +1,4 @@
-# Shakespeare - His Life and Plays <kbd>v2.4.0</kbd>
+# Shakespeare - His Life and Plays <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,7 +30,7 @@
 
  - **A1:** 412
  - **A2:** 237
- - **B1:** 290
+ - **B1:** 289
  - **B2:** 238
  - **C1:** 146
  - **C2:** 51
