@@ -1,4 +1,4 @@
-# The Photograph <kbd>v2.4.0</kbd>
+# The Photograph <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,7 +19,7 @@
 
 
  - **A1:** 74%
- - **A2:** 80%
+ - **A2:** 79%
  - **B1:** 88%
  - **B2:** 93%
  - **C1:** 98%
