@@ -1,4 +1,4 @@
-# Do Androids Dream of Electric Sheep? <kbd>v2.4.0</kbd>
+# Do Androids Dream of Electric Sheep? <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,22 +18,22 @@
 ## Readablility
 
 
- - **A1:** 78%
- - **A2:** 83%
- - **B1:** 90%
- - **B2:** 94%
+ - **A1:** 79%
+ - **A2:** 85%
+ - **B1:** 91%
+ - **B2:** 95%
  - **C1:** 97%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 440
+ - **A1:** 438
  - **A2:** 290
- - **B1:** 375
+ - **B1:** 371
  - **B2:** 351
- - **C1:** 222
- - **C2:** 89
+ - **C1:** 220
+ - **C2:** 87
 
 ## Source
 
