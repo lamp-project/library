@@ -1,4 +1,4 @@
-# A Hacker's Revenge <kbd>v2.4.1</kbd>
+# A Hacker's Revenge <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
