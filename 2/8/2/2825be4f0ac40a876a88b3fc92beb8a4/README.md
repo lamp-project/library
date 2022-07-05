@@ -1,4 +1,4 @@
-# The Importance of Being Earnest <kbd>v2.4.1</kbd>
+# The Importance of Being Earnest <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
