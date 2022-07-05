@@ -1,4 +1,4 @@
-# 47 Ronin a Samurai from Japan <kbd>v2.4.0</kbd>
+# 47 Ronin a Samurai from Japan <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 81%
+ - **A1:** 82%
  - **A2:** 88%
  - **B1:** 93%
  - **B2:** 97%
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 307
+ - **A1:** 306
  - **A2:** 138
- - **B1:** 112
- - **B2:** 91
- - **C1:** 48
- - **C2:** 9
+ - **B1:** 111
+ - **B2:** 89
+ - **C1:** 47
+ - **C2:** 8
 
 ## Source
 
