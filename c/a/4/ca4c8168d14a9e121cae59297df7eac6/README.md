@@ -1,4 +1,4 @@
-# Sherlock Holmes and the Duke's Son <kbd>v2.4.0</kbd>
+# Sherlock Holmes and the Duke's Son <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,7 +19,7 @@
 
 
  - **A1:** 83%
- - **A2:** 90%
+ - **A2:** 91%
  - **B1:** 94%
  - **B2:** 97%
  - **C1:** 99%
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 294
+ - **A1:** 293
  - **A2:** 118
- - **B1:** 70
- - **B2:** 62
+ - **B1:** 69
+ - **B2:** 60
  - **C1:** 40
- - **C2:** 12
+ - **C2:** 9
 
 ## Source
 
