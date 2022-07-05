@@ -1,4 +1,4 @@
-# Audrey Hepburn <kbd>v2.4.0</kbd>
+# Audrey Hepburn <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 257
+ - **A1:** 256
  - **A2:** 92
- - **B1:** 87
+ - **B1:** 86
  - **B2:** 58
- - **C1:** 46
- - **C2:** 25
+ - **C1:** 45
+ - **C2:** 24
 
 ## Source
 
