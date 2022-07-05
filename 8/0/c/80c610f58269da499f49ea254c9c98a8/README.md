@@ -1,4 +1,4 @@
-# Conan the Barbarian: Red Nails <kbd>v2.4.0</kbd>
+# Conan the Barbarian: Red Nails <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,22 +18,22 @@
 ## Readablility
 
 
- - **A1:** 76%
+ - **A1:** 77%
  - **A2:** 84%
  - **B1:** 91%
- - **B2:** 95%
+ - **B2:** 96%
  - **C1:** 99%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 377
- - **A2:** 215
- - **B1:** 244
- - **B2:** 199
- - **C1:** 150
- - **C2:** 42
+ - **A1:** 376
+ - **A2:** 214
+ - **B1:** 243
+ - **B2:** 198
+ - **C1:** 148
+ - **C2:** 41
 
 ## Source
 
