@@ -1,4 +1,4 @@
-# Death of the Eviction Man <kbd>v2.4.1</kbd>
+# Death of the Eviction Man <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
