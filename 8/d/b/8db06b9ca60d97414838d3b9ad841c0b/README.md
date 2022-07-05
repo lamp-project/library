@@ -1,4 +1,4 @@
-# Lukas's Luck <kbd>v2.4.0</kbd>
+# Lukas's Luck <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 249
  - **A2:** 76
- - **B1:** 81
+ - **B1:** 80
  - **B2:** 79
- - **C1:** 29
+ - **C1:** 28
  - **C2:** 6
 
 ## Source
