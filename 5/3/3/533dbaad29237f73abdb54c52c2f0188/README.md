@@ -1,4 +1,4 @@
-# Strawberry and the Sensations <kbd>v2.4.0</kbd>
+# Strawberry and the Sensations <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,22 +18,22 @@
 ## Readablility
 
 
- - **A1:** 76%
- - **A2:** 83%
+ - **A1:** 77%
+ - **A2:** 84%
  - **B1:** 89%
- - **B2:** 94%
- - **C1:** 97%
+ - **B2:** 95%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 218
+ - **A1:** 216
  - **A2:** 63
- - **B1:** 51
- - **B2:** 43
+ - **B1:** 48
+ - **B2:** 41
  - **C1:** 25
- - **C2:** 14
+ - **C2:** 12
 
 ## Source
 
