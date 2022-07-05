@@ -1,4 +1,4 @@
-# The Fisherman and the Giant <kbd>v2.4.0</kbd>
+# The Fisherman and the Giant <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,8 +18,8 @@
 ## Readablility
 
 
- - **A1:** 79%
- - **A2:** 86%
+ - **A1:** 80%
+ - **A2:** 87%
  - **B1:** 94%
  - **B2:** 97%
  - **C1:** 100%
@@ -29,10 +29,10 @@
 
 
  - **A1:** 212
- - **A2:** 54
- - **B1:** 44
+ - **A2:** 53
+ - **B1:** 40
  - **B2:** 24
- - **C1:** 14
+ - **C1:** 13
  - **C2:** 1
 
 ## Source
