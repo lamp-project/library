@@ -1,4 +1,4 @@
-# The Best of times <kbd>v2.4.1</kbd>
+# The Best of times <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
