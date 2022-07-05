@@ -1,4 +1,4 @@
-# The Road to Migowi <kbd>v2.4.0</kbd>
+# The Road to Migowi <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 245
  - **A2:** 78
- - **B1:** 81
- - **B2:** 50
- - **C1:** 32
+ - **B1:** 79
+ - **B2:** 49
+ - **C1:** 31
  - **C2:** 11
 
 ## Source
