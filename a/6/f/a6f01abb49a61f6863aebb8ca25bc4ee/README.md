@@ -1,4 +1,4 @@
-# Aladdin and the Wonderful Lamp <kbd>v2.4.0</kbd>
+# Aladdin and the Wonderful Lamp <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
