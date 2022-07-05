@@ -1,4 +1,4 @@
-# Berenice <kbd>v2.4.0</kbd>
+# Berenice <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,7 +28,7 @@
 ## Words Count
 
 
- - **A1:** 261
+ - **A1:** 260
  - **A2:** 92
  - **B1:** 68
  - **B2:** 57
