@@ -1,4 +1,4 @@
-# Curing a Cold <kbd>v2.4.0</kbd>
+# Curing a Cold <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
