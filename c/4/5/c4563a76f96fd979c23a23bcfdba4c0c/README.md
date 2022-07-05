@@ -1,4 +1,4 @@
-# The Law of Life <kbd>v2.4.0</kbd>
+# The Law of Life <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
