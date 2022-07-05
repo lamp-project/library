@@ -1,4 +1,4 @@
-# Muhammad Ali <kbd>v2.4.0</kbd>
+# Muhammad Ali <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -31,9 +31,9 @@
  - **A1:** 167
  - **A2:** 56
  - **B1:** 58
- - **B2:** 30
+ - **B2:** 29
  - **C1:** 27
- - **C2:** 16
+ - **C2:** 15
 
 ## Source
 
