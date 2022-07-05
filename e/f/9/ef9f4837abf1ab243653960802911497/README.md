@@ -1,4 +1,4 @@
-# The Absence of Emily <kbd>v2.4.1</kbd>
+# The Absence of Emily <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
