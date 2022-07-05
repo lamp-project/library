@@ -1,4 +1,4 @@
-# The True Courage of Erin Brockovich <kbd>v2.4.0</kbd>
+# The True Courage of Erin Brockovich <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 194
+ - **A1:** 193
  - **A2:** 45
  - **B1:** 59
  - **B2:** 36
- - **C1:** 27
+ - **C1:** 26
  - **C2:** 6
 
 ## Source
