@@ -1,4 +1,4 @@
-# The Million Pound Bank Note <kbd>v2.4.0</kbd>
+# The Million Pound Bank Note <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 315
  - **A2:** 113
- - **B1:** 111
- - **B2:** 84
- - **C1:** 55
- - **C2:** 21
+ - **B1:** 110
+ - **B2:** 83
+ - **C1:** 54
+ - **C2:** 19
 
 ## Source
 
