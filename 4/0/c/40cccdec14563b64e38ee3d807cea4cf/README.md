@@ -1,4 +1,4 @@
-# The Children of the New Forest <kbd>v2.4.0</kbd>
+# The Children of the New Forest <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,8 +18,8 @@
 ## Readablility
 
 
- - **A1:** 81%
- - **A2:** 87%
+ - **A1:** 82%
+ - **A2:** 88%
  - **B1:** 93%
  - **B2:** 97%
  - **C1:** 99%
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 335
+ - **A1:** 334
  - **A2:** 143
- - **B1:** 128
- - **B2:** 94
- - **C1:** 53
- - **C2:** 16
+ - **B1:** 127
+ - **B2:** 92
+ - **C1:** 51
+ - **C2:** 14
 
 ## Source
 
