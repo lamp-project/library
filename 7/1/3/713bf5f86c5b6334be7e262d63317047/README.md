@@ -1,4 +1,4 @@
-# Amazing Inventors <kbd>v2.4.0</kbd>
+# Amazing Inventors <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 301
  - **A2:** 166
- - **B1:** 134
+ - **B1:** 133
  - **B2:** 128
- - **C1:** 96
- - **C2:** 52
+ - **C1:** 94
+ - **C2:** 50
 
 ## Source
 
