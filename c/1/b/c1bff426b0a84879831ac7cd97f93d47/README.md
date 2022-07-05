@@ -1,4 +1,4 @@
-# Animal Life Cycles <kbd>v2.4.0</kbd>
+# Animal Life Cycles <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 189
  - **A2:** 74
- - **B1:** 67
+ - **B1:** 66
  - **B2:** 55
- - **C1:** 44
+ - **C1:** 43
  - **C2:** 54
 
 ## Source
