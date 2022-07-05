@@ -1,4 +1,4 @@
-# British and American Festivities <kbd>v2.4.0</kbd>
+# British and American Festivities <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 286
+ - **A1:** 285
  - **A2:** 154
- - **B1:** 178
- - **B2:** 195
- - **C1:** 179
+ - **B1:** 177
+ - **B2:** 191
+ - **C1:** 175
  - **C2:** 94
 
 ## Source
