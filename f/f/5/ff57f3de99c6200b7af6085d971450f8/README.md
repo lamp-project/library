@@ -1,4 +1,4 @@
-# The Big Sleep <kbd>v2.4.1</kbd>
+# The Big Sleep <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
