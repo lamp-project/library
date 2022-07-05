@@ -1,4 +1,4 @@
-# Hobbit or There and Back Again <kbd>v2.4.1</kbd>
+# Hobbit or There and Back Again <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
