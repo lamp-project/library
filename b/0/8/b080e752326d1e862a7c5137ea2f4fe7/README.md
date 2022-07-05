@@ -1,4 +1,4 @@
-# Prisoner for Peace <kbd>v2.4.0</kbd>
+# Prisoner for Peace <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,9 +28,9 @@
 ## Words Count
 
 
- - **A1:** 155
+ - **A1:** 154
  - **A2:** 47
- - **B1:** 50
+ - **B1:** 49
  - **B2:** 17
  - **C1:** 10
  - **C2:** 4
