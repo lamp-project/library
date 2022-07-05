@@ -1,4 +1,4 @@
-# Marcel and the Shakespeare Letters <kbd>v2.4.0</kbd>
+# Marcel and the Shakespeare Letters <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,21 +19,21 @@
 
 
  - **A1:** 80%
- - **A2:** 87%
- - **B1:** 92%
- - **B2:** 95%
- - **C1:** 97%
+ - **A2:** 89%
+ - **B1:** 93%
+ - **B2:** 96%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
 
 
- - **A1:** 155
+ - **A1:** 152
  - **A2:** 51
- - **B1:** 38
- - **B2:** 27
- - **C1:** 20
- - **C2:** 13
+ - **B1:** 36
+ - **B2:** 26
+ - **C1:** 19
+ - **C2:** 11
 
 ## Source
 
