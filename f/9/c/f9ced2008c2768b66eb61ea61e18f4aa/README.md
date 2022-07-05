@@ -1,4 +1,4 @@
-# Spiders Along the Dark Web <kbd>v2.4.0</kbd>
+# Spiders Along the Dark Web <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 72%
+ - **A1:** 73%
  - **A2:** 78%
  - **B1:** 83%
  - **B2:** 89%
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 315
+ - **A1:** 314
  - **A2:** 136
- - **B1:** 130
+ - **B1:** 128
  - **B2:** 152
- - **C1:** 133
- - **C2:** 89
+ - **C1:** 132
+ - **C2:** 87
 
 ## Source
 
