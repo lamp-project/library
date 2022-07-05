@@ -1,4 +1,4 @@
-# Fantastic Creatures Monsters, Mermaids, and Wild Men <kbd>v2.4.0</kbd>
+# Fantastic Creatures Monsters, Mermaids, and Wild Men <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 190
  - **A2:** 42
- - **B1:** 42
+ - **B1:** 41
  - **B2:** 28
  - **C1:** 20
- - **C2:** 14
+ - **C2:** 13
 
 ## Source
 
