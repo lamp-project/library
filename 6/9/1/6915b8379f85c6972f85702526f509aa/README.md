@@ -1,4 +1,4 @@
-# Woodrow Wilson Tie <kbd>v2.4.0</kbd>
+# Woodrow Wilson Tie <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 290
+ - **A1:** 288
  - **A2:** 106
- - **B1:** 92
- - **B2:** 71
+ - **B1:** 90
+ - **B2:** 70
  - **C1:** 48
- - **C2:** 12
+ - **C2:** 10
 
 ## Source
 
