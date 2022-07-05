@@ -1,4 +1,4 @@
-# A Kind of Longing <kbd>v2.4.0</kbd>
+# A Kind of Longing <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 293
+ - **A1:** 291
  - **A2:** 102
- - **B1:** 94
+ - **B1:** 91
  - **B2:** 84
- - **C1:** 48
- - **C2:** 14
+ - **C1:** 47
+ - **C2:** 13
 
 ## Source
 
