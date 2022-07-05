@@ -1,4 +1,4 @@
-# A Pot Full of Tears <kbd>v2.4.0</kbd>
+# A Pot Full of Tears <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
