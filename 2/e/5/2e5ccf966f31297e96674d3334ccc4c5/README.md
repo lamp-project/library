@@ -1,4 +1,4 @@
-# Lucky Luke and other Very Short Stories <kbd>v2.4.1</kbd>
+# Lucky Luke and other Very Short Stories <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
