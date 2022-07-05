@@ -1,4 +1,4 @@
-# The Stepmother <kbd>v2.4.0</kbd>
+# The Stepmother <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 256
  - **A2:** 102
- - **B1:** 76
+ - **B1:** 75
  - **B2:** 81
- - **C1:** 54
+ - **C1:** 53
  - **C2:** 15
 
 ## Source
