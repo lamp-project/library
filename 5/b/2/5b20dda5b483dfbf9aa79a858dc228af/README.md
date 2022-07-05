@@ -1,4 +1,4 @@
-# Airport <kbd>v2.4.1</kbd>
+# Airport <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
