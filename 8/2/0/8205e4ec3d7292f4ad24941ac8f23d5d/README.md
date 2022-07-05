@@ -1,4 +1,4 @@
-# Jennifer Lopez <kbd>v2.4.0</kbd>
+# Jennifer Lopez <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,7 +30,7 @@
 
  - **A1:** 167
  - **A2:** 37
- - **B1:** 42
+ - **B1:** 41
  - **B2:** 35
  - **C1:** 23
  - **C2:** 9
