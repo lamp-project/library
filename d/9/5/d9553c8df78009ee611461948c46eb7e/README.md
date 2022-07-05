@@ -1,4 +1,4 @@
-# 4:50 from Paddington <kbd>v2.4.1</kbd>
+# 4:50 from Paddington <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
