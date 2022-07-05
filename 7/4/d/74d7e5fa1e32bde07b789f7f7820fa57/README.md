@@ -1,4 +1,4 @@
-# The Bridges of Madison County <kbd>v2.4.0</kbd>
+# The Bridges of Madison County <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 473
  - **A2:** 367
- - **B1:** 538
+ - **B1:** 537
  - **B2:** 611
- - **C1:** 574
- - **C2:** 392
+ - **C1:** 572
+ - **C2:** 388
 
 ## Source
 
