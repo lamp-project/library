@@ -1,4 +1,4 @@
-# Amazing Architects and Artists <kbd>v2.4.0</kbd>
+# Amazing Architects and Artists <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -31,9 +31,9 @@
  - **A1:** 346
  - **A2:** 173
  - **B1:** 192
- - **B2:** 168
- - **C1:** 125
- - **C2:** 73
+ - **B2:** 166
+ - **C1:** 124
+ - **C2:** 71
 
 ## Source
 
