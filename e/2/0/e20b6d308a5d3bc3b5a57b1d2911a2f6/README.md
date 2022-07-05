@@ -1,4 +1,4 @@
-# Time Machine <kbd>v2.4.1</kbd>
+# Time Machine <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
