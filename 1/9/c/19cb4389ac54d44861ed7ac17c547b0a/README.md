@@ -1,4 +1,4 @@
-# Three and One Are One <kbd>v2.4.0</kbd>
+# Three and One Are One <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 80%
+ - **A1:** 81%
  - **A2:** 89%
  - **B1:** 93%
  - **B2:** 98%
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 180
+ - **A1:** 179
  - **A2:** 54
  - **B1:** 28
  - **B2:** 32
- - **C1:** 11
- - **C2:** 6
+ - **C1:** 10
+ - **C2:** 4
 
 ## Source
 
