@@ -1,4 +1,4 @@
-# The Animal Kingdom <kbd>v2.4.0</kbd>
+# The Animal Kingdom <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -31,8 +31,8 @@
  - **A1:** 281
  - **A2:** 137
  - **B1:** 137
- - **B2:** 131
- - **C1:** 108
+ - **B2:** 130
+ - **C1:** 107
  - **C2:** 82
 
 ## Source
