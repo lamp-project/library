@@ -1,4 +1,4 @@
-# The Legend of Johnny Appleseed <kbd>v2.4.0</kbd>
+# The Legend of Johnny Appleseed <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 72%
+ - **A1:** 71%
  - **A2:** 80%
  - **B1:** 87%
  - **B2:** 94%
@@ -30,7 +30,7 @@
 
  - **A1:** 155
  - **A2:** 47
- - **B1:** 51
+ - **B1:** 50
  - **B2:** 46
  - **C1:** 18
  - **C2:** 5
