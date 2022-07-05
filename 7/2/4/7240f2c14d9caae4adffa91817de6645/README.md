@@ -1,4 +1,4 @@
-# Deadlock <kbd>v2.4.1</kbd>
+# Deadlock <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
