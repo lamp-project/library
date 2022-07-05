@@ -1,4 +1,4 @@
-# Cold Comfort Farm <kbd>v2.4.1</kbd>
+# Cold Comfort Farm <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
