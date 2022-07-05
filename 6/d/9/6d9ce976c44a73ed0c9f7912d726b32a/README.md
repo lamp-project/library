@@ -1,4 +1,4 @@
-# The Prince and the Servants <kbd>v2.4.0</kbd>
+# The Prince and the Servants <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,8 +18,8 @@
 ## Readablility
 
 
- - **A1:** 77%
- - **A2:** 84%
+ - **A1:** 78%
+ - **A2:** 85%
  - **B1:** 95%
  - **B2:** 98%
  - **C1:** 100%
@@ -28,12 +28,12 @@
 ## Words Count
 
 
- - **A1:** 220
+ - **A1:** 215
  - **A2:** 50
- - **B1:** 55
- - **B2:** 28
- - **C1:** 18
- - **C2:** 3
+ - **B1:** 54
+ - **B2:** 27
+ - **C1:** 17
+ - **C2:** 2
 
 ## Source
 
