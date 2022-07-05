@@ -1,4 +1,4 @@
-# Future Energy <kbd>v2.4.0</kbd>
+# Future Energy <kbd>v2.4.2</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -31,7 +31,7 @@
  - **A1:** 314
  - **A2:** 163
  - **B1:** 170
- - **B2:** 150
+ - **B2:** 149
  - **C1:** 123
  - **C2:** 79
 
