@@ -1,4 +1,4 @@
-# The War Of The Worlds <kbd>v2.4.0</kbd>
+# The War Of The Worlds <kbd>v2.4.1</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,10 +30,10 @@
 
  - **A1:** 458
  - **A2:** 348
- - **B1:** 449
- - **B2:** 474
- - **C1:** 347
- - **C2:** 136
+ - **B1:** 448
+ - **B2:** 473
+ - **C1:** 346
+ - **C2:** 134
 
 ## Source
 
