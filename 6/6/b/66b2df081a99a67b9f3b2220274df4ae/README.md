@@ -1,4 +1,4 @@
-# The Million Pound Bank Note <kbd>v2.4.2</kbd>
+# The Million Pound Bank Note <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 315
+ - **A1:** 316
  - **A2:** 113
- - **B1:** 110
- - **B2:** 83
- - **C1:** 54
+ - **B1:** 113
+ - **B2:** 84
+ - **C1:** 55
  - **C2:** 19
 
 ## Source
