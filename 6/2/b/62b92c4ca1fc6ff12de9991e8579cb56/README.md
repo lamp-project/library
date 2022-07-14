@@ -1,4 +1,4 @@
-# Murder in the Fog <kbd>v2.4.2</kbd>
+# Murder in the Fog <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 418
  - **A2:** 276
- - **B1:** 343
- - **B2:** 359
- - **C1:** 332
+ - **B1:** 344
+ - **B2:** 360
+ - **C1:** 333
  - **C2:** 172
 
 ## Source
