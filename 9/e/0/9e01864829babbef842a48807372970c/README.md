@@ -1,4 +1,4 @@
-# The Three Strangers <kbd>v2.4.2</kbd>
+# The Three Strangers <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 320
+ - **A1:** 321
  - **A2:** 129
- - **B1:** 94
- - **B2:** 79
- - **C1:** 45
+ - **B1:** 97
+ - **B2:** 80
+ - **C1:** 46
  - **C2:** 18
 
 ## Source
