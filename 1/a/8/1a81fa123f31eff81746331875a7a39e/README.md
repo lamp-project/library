@@ -1,4 +1,4 @@
-# The Great Keinplatz Experiment <kbd>v2.4.2</kbd>
+# The Great Keinplatz Experiment <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 317
  - **A2:** 119
- - **B1:** 142
- - **B2:** 124
- - **C1:** 77
+ - **B1:** 145
+ - **B2:** 125
+ - **C1:** 78
  - **C2:** 28
 
 ## Source
