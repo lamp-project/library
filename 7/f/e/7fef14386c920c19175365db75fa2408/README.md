@@ -1,4 +1,4 @@
-# To kill a Mockingbird <kbd>v2.4.2</kbd>
+# To kill a Mockingbird <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 476
  - **A2:** 386
- - **B1:** 548
- - **B2:** 682
- - **C1:** 562
+ - **B1:** 549
+ - **B2:** 683
+ - **C1:** 563
  - **C2:** 344
 
 ## Source
