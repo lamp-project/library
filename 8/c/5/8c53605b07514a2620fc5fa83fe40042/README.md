@@ -1,4 +1,4 @@
-# Moral Disorder <kbd>v2.4.2</kbd>
+# Moral Disorder <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 386
  - **A2:** 200
- - **B1:** 236
+ - **B1:** 239
  - **B2:** 241
- - **C1:** 240
+ - **C1:** 241
  - **C2:** 189
 
 ## Source
