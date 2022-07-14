@@ -1,4 +1,4 @@
-# Sigurd and Sigrdrifa <kbd>v2.4.2</kbd>
+# Sigurd and Sigrdrifa <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 83%
+ - **A1:** 82%
  - **A2:** 90%
  - **B1:** 96%
  - **B2:** 98%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 153
+ - **A1:** 154
  - **A2:** 30
- - **B1:** 30
- - **B2:** 12
- - **C1:** 9
+ - **B1:** 33
+ - **B2:** 13
+ - **C1:** 10
  - **C2:** 1
 
 ## Source
