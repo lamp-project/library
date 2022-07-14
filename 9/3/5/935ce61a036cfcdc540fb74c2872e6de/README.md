@@ -1,4 +1,4 @@
-# Climate Change <kbd>v2.4.2</kbd>
+# Climate Change <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 244
+ - **A1:** 245
  - **A2:** 93
- - **B1:** 91
- - **B2:** 71
- - **C1:** 53
+ - **B1:** 94
+ - **B2:** 72
+ - **C1:** 54
  - **C2:** 43
 
 ## Source
