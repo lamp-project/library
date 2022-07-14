@@ -1,4 +1,4 @@
-# Life Exchange <kbd>v2.4.2</kbd>
+# Life Exchange <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 368
+ - **A1:** 369
  - **A2:** 187
- - **B1:** 157
- - **B2:** 148
- - **C1:** 93
+ - **B1:** 161
+ - **B2:** 149
+ - **C1:** 94
  - **C2:** 40
 
 ## Source
