@@ -1,4 +1,4 @@
-# The Road to Migowi <kbd>v2.4.2</kbd>
+# The Road to Migowi <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 245
+ - **A1:** 246
  - **A2:** 78
- - **B1:** 79
- - **B2:** 49
- - **C1:** 31
+ - **B1:** 82
+ - **B2:** 50
+ - **C1:** 32
  - **C2:** 11
 
 ## Source
