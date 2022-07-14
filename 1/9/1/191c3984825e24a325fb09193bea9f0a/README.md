@@ -1,4 +1,4 @@
-# Fear and Loathing in Las Vegas <kbd>v2.4.2</kbd>
+# Fear and Loathing in Las Vegas <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 443
  - **A2:** 320
- - **B1:** 417
+ - **B1:** 418
  - **B2:** 493
- - **C1:** 388
+ - **C1:** 389
  - **C2:** 253
 
 ## Source
