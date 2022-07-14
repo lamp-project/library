@@ -1,4 +1,4 @@
-# Incredible Earth <kbd>v2.4.2</kbd>
+# Incredible Earth <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 152
+ - **A1:** 153
  - **A2:** 51
- - **B1:** 42
- - **B2:** 38
- - **C1:** 35
+ - **B1:** 45
+ - **B2:** 39
+ - **C1:** 36
  - **C2:** 16
 
 ## Source
