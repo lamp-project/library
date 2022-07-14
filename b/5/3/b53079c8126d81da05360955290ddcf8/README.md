@@ -1,4 +1,4 @@
-# The Curse of Capistrano <kbd>v2.4.2</kbd>
+# The Curse of Capistrano <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 336
  - **A2:** 144
- - **B1:** 149
- - **B2:** 104
- - **C1:** 71
+ - **B1:** 152
+ - **B2:** 105
+ - **C1:** 72
  - **C2:** 18
 
 ## Source
