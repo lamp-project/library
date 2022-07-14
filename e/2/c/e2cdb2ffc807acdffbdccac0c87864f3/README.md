@@ -1,4 +1,4 @@
-# The True Story of Pocahontas <kbd>v2.4.2</kbd>
+# The True Story of Pocahontas <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 225
+ - **A1:** 226
  - **A2:** 87
- - **B1:** 64
- - **B2:** 68
- - **C1:** 34
+ - **B1:** 68
+ - **B2:** 69
+ - **C1:** 35
  - **C2:** 8
 
 ## Source
