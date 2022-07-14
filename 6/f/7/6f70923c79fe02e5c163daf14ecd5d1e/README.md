@@ -1,4 +1,4 @@
-# The Rajah's Diamond <kbd>v2.4.2</kbd>
+# The Rajah's Diamond <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 361
  - **A2:** 168
- - **B1:** 157
- - **B2:** 126
- - **C1:** 78
+ - **B1:** 161
+ - **B2:** 127
+ - **C1:** 79
  - **C2:** 27
 
 ## Source
