@@ -1,4 +1,4 @@
-# The Californian's Tale <kbd>v2.4.2</kbd>
+# The Californian's Tale <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 241
+ - **A1:** 242
  - **A2:** 86
- - **B1:** 54
- - **B2:** 46
- - **C1:** 20
+ - **B1:** 57
+ - **B2:** 47
+ - **C1:** 21
  - **C2:** 5
 
 ## Source
