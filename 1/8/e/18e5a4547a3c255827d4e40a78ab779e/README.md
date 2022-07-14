@@ -1,4 +1,4 @@
-# The Experiment <kbd>v2.4.2</kbd>
+# The Experiment <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 279
  - **A2:** 68
- - **B1:** 65
- - **B2:** 47
- - **C1:** 35
+ - **B1:** 66
+ - **B2:** 48
+ - **C1:** 36
  - **C2:** 4
 
 ## Source
