@@ -1,4 +1,4 @@
-# Breakfast at Tiffany's <kbd>v2.4.2</kbd>
+# Breakfast at Tiffany's <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 406
  - **A2:** 260
- - **B1:** 319
+ - **B1:** 320
  - **B2:** 290
- - **C1:** 168
+ - **C1:** 169
  - **C2:** 80
 
 ## Source
