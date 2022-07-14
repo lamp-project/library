@@ -1,4 +1,4 @@
-# One Thousand Dollars <kbd>v2.4.2</kbd>
+# One Thousand Dollars <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 204
+ - **A1:** 205
  - **A2:** 52
- - **B1:** 57
- - **B2:** 32
- - **C1:** 32
+ - **B1:** 60
+ - **B2:** 33
+ - **C1:** 33
  - **C2:** 7
 
 ## Source
