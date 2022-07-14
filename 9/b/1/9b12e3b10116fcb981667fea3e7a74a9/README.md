@@ -1,4 +1,4 @@
-# Little Lord Fauntleroy <kbd>v2.4.2</kbd>
+# Little Lord Fauntleroy <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 436
  - **A2:** 286
- - **B1:** 348
- - **B2:** 349
- - **C1:** 259
+ - **B1:** 351
+ - **B2:** 350
+ - **C1:** 260
  - **C2:** 99
 
 ## Source
