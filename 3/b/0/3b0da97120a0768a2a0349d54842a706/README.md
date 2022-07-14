@@ -1,4 +1,4 @@
-# L is for Lawless <kbd>v2.4.2</kbd>
+# L is for Lawless <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 416
  - **A2:** 251
- - **B1:** 299
+ - **B1:** 300
  - **B2:** 278
- - **C1:** 223
+ - **C1:** 224
  - **C2:** 97
 
 ## Source
