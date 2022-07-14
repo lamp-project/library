@@ -1,4 +1,4 @@
-# The Adventures in The Grasslands <kbd>v2.4.2</kbd>
+# The Adventures in The Grasslands <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 222
  - **A2:** 86
- - **B1:** 90
- - **B2:** 78
- - **C1:** 44
+ - **B1:** 94
+ - **B2:** 79
+ - **C1:** 45
  - **C2:** 23
 
 ## Source
