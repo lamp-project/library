@@ -1,4 +1,4 @@
-# The Interpreter <kbd>v2.4.2</kbd>
+# The Interpreter <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 373
  - **A2:** 190
- - **B1:** 212
- - **B2:** 159
- - **C1:** 89
+ - **B1:** 213
+ - **B2:** 160
+ - **C1:** 90
  - **C2:** 45
 
 ## Source
