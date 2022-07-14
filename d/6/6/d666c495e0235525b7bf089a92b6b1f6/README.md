@@ -1,4 +1,4 @@
-# Animal Senses <kbd>v2.4.2</kbd>
+# Animal Senses <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 241
+ - **A1:** 242
  - **A2:** 95
- - **B1:** 117
- - **B2:** 102
- - **C1:** 98
+ - **B1:** 120
+ - **B2:** 103
+ - **C1:** 99
  - **C2:** 53
 
 ## Source
