@@ -1,4 +1,4 @@
-# Captain Corelli's Mandolin <kbd>v2.4.2</kbd>
+# Captain Corelli's Mandolin <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -31,8 +31,8 @@
  - **A1:** 471
  - **A2:** 399
  - **B1:** 615
- - **B2:** 713
- - **C1:** 553
+ - **B2:** 714
+ - **C1:** 554
  - **C2:** 206
 
 ## Source
