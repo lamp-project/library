@@ -1,4 +1,4 @@
-# Les Miserables <kbd>v2.4.2</kbd>
+# Les Miserables <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 461
  - **A2:** 361
- - **B1:** 488
- - **B2:** 526
- - **C1:** 361
+ - **B1:** 490
+ - **B2:** 527
+ - **C1:** 362
  - **C2:** 128
 
 ## Source
