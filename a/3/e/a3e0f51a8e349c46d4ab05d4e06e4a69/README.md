@@ -1,4 +1,4 @@
-# The Black Arrow <kbd>v2.4.2</kbd>
+# The Black Arrow <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 309
  - **A2:** 139
- - **B1:** 94
- - **B2:** 82
- - **C1:** 42
+ - **B1:** 97
+ - **B2:** 83
+ - **C1:** 43
  - **C2:** 14
 
 ## Source
