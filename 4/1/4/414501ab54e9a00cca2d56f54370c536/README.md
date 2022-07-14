@@ -1,4 +1,4 @@
-# The True Courage of Erin Brockovich <kbd>v2.4.2</kbd>
+# The True Courage of Erin Brockovich <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,7 +19,7 @@
 
 
  - **A1:** 78%
- - **A2:** 85%
+ - **A2:** 84%
  - **B1:** 92%
  - **B2:** 96%
  - **C1:** 99%
@@ -30,9 +30,9 @@
 
  - **A1:** 193
  - **A2:** 45
- - **B1:** 59
- - **B2:** 36
- - **C1:** 26
+ - **B1:** 61
+ - **B2:** 37
+ - **C1:** 27
  - **C2:** 6
 
 ## Source
