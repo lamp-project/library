@@ -1,4 +1,4 @@
-# Martin Luther King <kbd>v2.4.2</kbd>
+# Martin Luther King <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 375
  - **A2:** 161
- - **B1:** 165
+ - **B1:** 168
  - **B2:** 142
- - **C1:** 89
+ - **C1:** 90
  - **C2:** 33
 
 ## Source
