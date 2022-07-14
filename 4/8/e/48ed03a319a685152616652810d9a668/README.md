@@ -1,4 +1,4 @@
-# The Hitch Hiker <kbd>v2.4.2</kbd>
+# The Hitch Hiker <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 315
  - **A2:** 138
- - **B1:** 115
- - **B2:** 85
- - **C1:** 50
+ - **B1:** 119
+ - **B2:** 86
+ - **C1:** 51
  - **C2:** 17
 
 ## Source
