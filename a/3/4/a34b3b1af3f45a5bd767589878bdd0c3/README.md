@@ -1,4 +1,4 @@
-# The Bird of Happiness and Other Wise Tales <kbd>v2.4.2</kbd>
+# The Bird of Happiness and Other Wise Tales <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 354
  - **A2:** 151
- - **B1:** 141
- - **B2:** 104
- - **C1:** 70
+ - **B1:** 144
+ - **B2:** 105
+ - **C1:** 71
  - **C2:** 18
 
 ## Source
