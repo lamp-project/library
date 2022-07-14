@@ -1,4 +1,4 @@
-# Beware of the Dog <kbd>v2.4.2</kbd>
+# Beware of the Dog <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 302
  - **A2:** 109
- - **B1:** 95
- - **B2:** 99
- - **C1:** 65
+ - **B1:** 97
+ - **B2:** 100
+ - **C1:** 66
  - **C2:** 24
 
 ## Source
