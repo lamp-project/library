@@ -1,4 +1,4 @@
-# The Year of Sharing <kbd>v2.4.2</kbd>
+# The Year of Sharing <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 318
  - **A2:** 131
- - **B1:** 114
- - **B2:** 95
- - **C1:** 41
+ - **B1:** 117
+ - **B2:** 96
+ - **C1:** 42
  - **C2:** 14
 
 ## Source
