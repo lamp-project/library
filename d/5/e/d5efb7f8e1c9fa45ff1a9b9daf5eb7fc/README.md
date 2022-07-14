@@ -1,4 +1,4 @@
-# Bloody Revenge <kbd>v2.4.2</kbd>
+# Bloody Revenge <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 381
  - **A2:** 193
- - **B1:** 207
- - **B2:** 198
- - **C1:** 147
+ - **B1:** 210
+ - **B2:** 199
+ - **C1:** 148
  - **C2:** 76
 
 ## Source
