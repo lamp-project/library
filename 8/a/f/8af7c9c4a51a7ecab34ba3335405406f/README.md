@@ -1,4 +1,4 @@
-# Business at the Speed of Thought <kbd>v2.4.2</kbd>
+# Business at the Speed of Thought <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 431
  - **A2:** 304
- - **B1:** 440
+ - **B1:** 441
  - **B2:** 490
- - **C1:** 466
+ - **C1:** 467
  - **C2:** 248
 
 ## Source
