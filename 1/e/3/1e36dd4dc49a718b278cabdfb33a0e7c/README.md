@@ -1,4 +1,4 @@
-# The Vampire's Tear <kbd>v2.4.2</kbd>
+# The Vampire's Tear <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 392
  - **A2:** 213
- - **B1:** 229
+ - **B1:** 231
  - **B2:** 212
- - **C1:** 169
+ - **C1:** 170
  - **C2:** 77
 
 ## Source
