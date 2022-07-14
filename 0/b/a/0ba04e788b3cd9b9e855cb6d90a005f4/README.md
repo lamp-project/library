@@ -1,4 +1,4 @@
-# Nicholas Nickleby <kbd>v2.4.2</kbd>
+# Nicholas Nickleby <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 425
  - **A2:** 262
- - **B1:** 311
- - **B2:** 290
- - **C1:** 189
+ - **B1:** 314
+ - **B2:** 291
+ - **C1:** 190
  - **C2:** 45
 
 ## Source
