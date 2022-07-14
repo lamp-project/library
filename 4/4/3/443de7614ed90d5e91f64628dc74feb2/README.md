@@ -1,4 +1,4 @@
-# Amazing Leaders <kbd>v2.4.2</kbd>
+# Amazing Leaders <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 295
+ - **A1:** 296
  - **A2:** 124
- - **B1:** 130
- - **B2:** 95
- - **C1:** 66
+ - **B1:** 133
+ - **B2:** 96
+ - **C1:** 67
  - **C2:** 30
 
 ## Source
