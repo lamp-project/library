@@ -1,4 +1,4 @@
-# Huckleberry Finn <kbd>v2.4.2</kbd>
+# Huckleberry Finn <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 302
  - **A2:** 119
- - **B1:** 87
- - **B2:** 71
- - **C1:** 34
+ - **B1:** 90
+ - **B2:** 72
+ - **C1:** 35
  - **C2:** 6
 
 ## Source
