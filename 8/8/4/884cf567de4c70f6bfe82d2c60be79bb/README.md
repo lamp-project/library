@@ -1,4 +1,4 @@
-# Great Mysteries of Our World <kbd>v2.4.2</kbd>
+# Great Mysteries of Our World <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 369
  - **A2:** 184
- - **B1:** 226
- - **B2:** 205
- - **C1:** 183
+ - **B1:** 229
+ - **B2:** 206
+ - **C1:** 184
  - **C2:** 113
 
 ## Source
