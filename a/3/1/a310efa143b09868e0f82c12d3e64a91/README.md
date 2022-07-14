@@ -1,4 +1,4 @@
-# The Thames Murderer <kbd>v2.4.2</kbd>
+# The Thames Murderer <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 409
  - **A2:** 232
- - **B1:** 272
- - **B2:** 283
- - **C1:** 263
+ - **B1:** 273
+ - **B2:** 284
+ - **C1:** 264
  - **C2:** 133
 
 ## Source
