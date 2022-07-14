@@ -1,4 +1,4 @@
-# The Last Unicorn <kbd>v2.4.2</kbd>
+# The Last Unicorn <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 307
+ - **A1:** 308
  - **A2:** 145
- - **B1:** 119
- - **B2:** 116
- - **C1:** 86
+ - **B1:** 121
+ - **B2:** 117
+ - **C1:** 87
  - **C2:** 45
 
 ## Source
