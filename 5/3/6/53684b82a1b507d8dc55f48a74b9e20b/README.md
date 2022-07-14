@@ -1,4 +1,4 @@
-# At the World's End <kbd>v2.4.2</kbd>
+# At the World's End <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 367
  - **A2:** 174
- - **B1:** 203
- - **B2:** 141
- - **C1:** 94
+ - **B1:** 206
+ - **B2:** 142
+ - **C1:** 95
  - **C2:** 27
 
 ## Source
