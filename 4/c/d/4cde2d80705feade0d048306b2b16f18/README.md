@@ -1,4 +1,4 @@
-# Agatha Christie, Woman of Mystery <kbd>v2.4.2</kbd>
+# Agatha Christie, Woman of Mystery <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 324
+ - **A1:** 325
  - **A2:** 132
- - **B1:** 121
- - **B2:** 79
- - **C1:** 69
+ - **B1:** 123
+ - **B2:** 80
+ - **C1:** 70
  - **C2:** 27
 
 ## Source
