@@ -1,4 +1,4 @@
-# The Butterworth Mystery <kbd>v2.4.2</kbd>
+# The Butterworth Mystery <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 377
+ - **A1:** 378
  - **A2:** 189
- - **B1:** 185
- - **B2:** 152
- - **C1:** 116
+ - **B1:** 188
+ - **B2:** 153
+ - **C1:** 117
  - **C2:** 41
 
 ## Source
