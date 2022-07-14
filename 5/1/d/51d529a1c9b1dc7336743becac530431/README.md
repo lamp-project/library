@@ -1,4 +1,4 @@
-# Ear-rings from Frankfurt <kbd>v2.4.2</kbd>
+# Ear-rings from Frankfurt <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 83%
+ - **A1:** 82%
  - **A2:** 89%
  - **B1:** 94%
  - **B2:** 97%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 318
+ - **A1:** 319
  - **A2:** 131
- - **B1:** 105
- - **B2:** 74
- - **C1:** 42
+ - **B1:** 109
+ - **B2:** 75
+ - **C1:** 43
  - **C2:** 16
 
 ## Source
