@@ -1,4 +1,4 @@
-# They Came to Baghdad <kbd>v2.4.2</kbd>
+# They Came to Baghdad <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 468
  - **A2:** 346
- - **B1:** 461
- - **B2:** 486
- - **C1:** 375
+ - **B1:** 463
+ - **B2:** 487
+ - **C1:** 376
  - **C2:** 152
 
 ## Source
