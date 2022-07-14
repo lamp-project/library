@@ -1,4 +1,4 @@
-# The Death of Karen Silkwood <kbd>v2.4.2</kbd>
+# The Death of Karen Silkwood <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 310
  - **A2:** 122
- - **B1:** 102
+ - **B1:** 104
  - **B2:** 75
- - **C1:** 47
+ - **C1:** 48
  - **C2:** 15
 
 ## Source
