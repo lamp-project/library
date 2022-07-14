@@ -1,4 +1,4 @@
-# The Time Trippers Go West <kbd>v2.4.2</kbd>
+# The Time Trippers Go West <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 350
+ - **A1:** 351
  - **A2:** 202
- - **B1:** 211
- - **B2:** 219
- - **C1:** 151
+ - **B1:** 214
+ - **B2:** 220
+ - **C1:** 152
  - **C2:** 76
 
 ## Source
