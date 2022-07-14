@@ -1,4 +1,4 @@
-# Ali Baba and the Forty Thieves <kbd>v2.4.2</kbd>
+# Ali Baba and the Forty Thieves <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,7 +19,7 @@
 
 
  - **A1:** 77%
- - **A2:** 85%
+ - **A2:** 84%
  - **B1:** 92%
  - **B2:** 96%
  - **C1:** 99%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 146
+ - **A1:** 147
  - **A2:** 36
- - **B1:** 32
- - **B2:** 25
- - **C1:** 13
+ - **B1:** 36
+ - **B2:** 26
+ - **C1:** 14
  - **C2:** 1
 
 ## Source
