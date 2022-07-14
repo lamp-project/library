@@ -1,4 +1,4 @@
-# Roads of Destiny <kbd>v2.4.2</kbd>
+# Roads of Destiny <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 396
  - **A2:** 225
- - **B1:** 290
- - **B2:** 326
- - **C1:** 248
+ - **B1:** 292
+ - **B2:** 327
+ - **C1:** 249
  - **C2:** 133
 
 ## Source
