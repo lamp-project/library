@@ -1,4 +1,4 @@
-# Beyond the Wall <kbd>v2.4.2</kbd>
+# Beyond the Wall <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 266
+ - **A1:** 267
  - **A2:** 119
- - **B1:** 92
- - **B2:** 67
- - **C1:** 29
+ - **B1:** 95
+ - **B2:** 68
+ - **C1:** 30
  - **C2:** 10
 
 ## Source
