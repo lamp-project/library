@@ -1,4 +1,4 @@
-# The Ransom of Red Chief <kbd>v2.4.2</kbd>
+# The Ransom of Red Chief <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 232
+ - **A1:** 233
  - **A2:** 82
- - **B1:** 75
- - **B2:** 48
- - **C1:** 36
+ - **B1:** 78
+ - **B2:** 49
+ - **C1:** 37
  - **C2:** 14
 
 ## Source
