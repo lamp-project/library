@@ -1,4 +1,4 @@
-# The Boscombe Valley Mystery <kbd>v2.4.2</kbd>
+# The Boscombe Valley Mystery <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 391
  - **A2:** 178
- - **B1:** 200
- - **B2:** 129
- - **C1:** 62
+ - **B1:** 202
+ - **B2:** 130
+ - **C1:** 63
  - **C2:** 15
 
 ## Source
