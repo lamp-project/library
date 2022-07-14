@@ -1,4 +1,4 @@
-# Journey to the Center of the Earth <kbd>v2.4.2</kbd>
+# Journey to the Center of the Earth <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 327
  - **A2:** 139
- - **B1:** 130
- - **B2:** 87
- - **C1:** 66
+ - **B1:** 133
+ - **B2:** 88
+ - **C1:** 67
  - **C2:** 21
 
 ## Source
