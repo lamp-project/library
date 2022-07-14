@@ -1,4 +1,4 @@
-# A Fishy Story <kbd>v2.4.2</kbd>
+# A Fishy Story <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 320
+ - **A1:** 321
  - **A2:** 125
- - **B1:** 139
- - **B2:** 130
- - **C1:** 75
+ - **B1:** 142
+ - **B2:** 131
+ - **C1:** 76
  - **C2:** 18
 
 ## Source
