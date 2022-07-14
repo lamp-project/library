@@ -1,4 +1,4 @@
-# Manchester United <kbd>v2.4.2</kbd>
+# Manchester United <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 311
  - **A2:** 133
- - **B1:** 149
- - **B2:** 101
- - **C1:** 87
+ - **B1:** 152
+ - **B2:** 102
+ - **C1:** 88
  - **C2:** 45
 
 ## Source
