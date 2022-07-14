@@ -1,4 +1,4 @@
-# The Stepmother <kbd>v2.4.2</kbd>
+# The Stepmother <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 256
+ - **A1:** 257
  - **A2:** 102
- - **B1:** 75
- - **B2:** 81
- - **C1:** 53
+ - **B1:** 78
+ - **B2:** 82
+ - **C1:** 54
  - **C2:** 15
 
 ## Source
