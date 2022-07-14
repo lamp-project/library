@@ -1,4 +1,4 @@
-# The Prince and the Pauper <kbd>v2.4.2</kbd>
+# The Prince and the Pauper <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 355
  - **A2:** 144
- - **B1:** 115
- - **B2:** 79
- - **C1:** 57
+ - **B1:** 118
+ - **B2:** 80
+ - **C1:** 58
  - **C2:** 13
 
 ## Source
