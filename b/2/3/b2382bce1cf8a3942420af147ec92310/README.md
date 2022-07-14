@@ -1,4 +1,4 @@
-# Hunted down <kbd>v2.4.2</kbd>
+# Hunted down <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 269
+ - **A1:** 270
  - **A2:** 94
- - **B1:** 86
- - **B2:** 63
- - **C1:** 40
+ - **B1:** 89
+ - **B2:** 64
+ - **C1:** 41
  - **C2:** 9
 
 ## Source
