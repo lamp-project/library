@@ -1,4 +1,4 @@
-# Emil and the Detectives <kbd>v2.4.2</kbd>
+# Emil and the Detectives <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 366
+ - **A1:** 367
  - **A2:** 182
- - **B1:** 186
- - **B2:** 136
- - **C1:** 81
+ - **B1:** 189
+ - **B2:** 137
+ - **C1:** 82
  - **C2:** 21
 
 ## Source
