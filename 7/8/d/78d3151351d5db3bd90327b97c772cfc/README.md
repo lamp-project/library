@@ -1,4 +1,4 @@
-# Farewell my lovely <kbd>v2.4.2</kbd>
+# Farewell my lovely <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 401
  - **A2:** 214
- - **B1:** 236
- - **B2:** 211
- - **C1:** 150
+ - **B1:** 239
+ - **B2:** 212
+ - **C1:** 151
  - **C2:** 44
 
 ## Source
