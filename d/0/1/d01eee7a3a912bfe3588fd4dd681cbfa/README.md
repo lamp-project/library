@@ -1,4 +1,4 @@
-# The Invisible Man <kbd>v2.4.2</kbd>
+# The Invisible Man <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 444
  - **A2:** 297
- - **B1:** 349
- - **B2:** 341
- - **C1:** 210
+ - **B1:** 351
+ - **B2:** 342
+ - **C1:** 211
  - **C2:** 57
 
 ## Source
