@@ -1,4 +1,4 @@
-# The Silver Sword <kbd>v2.4.2</kbd>
+# The Silver Sword <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 407
  - **A2:** 239
- - **B1:** 280
- - **B2:** 229
- - **C1:** 133
+ - **B1:** 281
+ - **B2:** 230
+ - **C1:** 134
  - **C2:** 38
 
 ## Source
