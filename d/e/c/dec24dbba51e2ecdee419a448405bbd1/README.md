@@ -1,4 +1,4 @@
-# How is Your Mother <kbd>v2.4.2</kbd>
+# How is Your Mother <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 271
  - **A2:** 91
- - **B1:** 69
- - **B2:** 37
- - **C1:** 28
+ - **B1:** 73
+ - **B2:** 38
+ - **C1:** 29
  - **C2:** 10
 
 ## Source
