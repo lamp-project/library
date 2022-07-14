@@ -1,4 +1,4 @@
-# Women Who Changed the World <kbd>v2.4.2</kbd>
+# Women Who Changed the World <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 352
+ - **A1:** 353
  - **A2:** 166
- - **B1:** 163
+ - **B1:** 165
  - **B2:** 124
- - **C1:** 101
+ - **C1:** 102
  - **C2:** 62
 
 ## Source
