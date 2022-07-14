@@ -1,4 +1,4 @@
-# A Kind of Longing <kbd>v2.4.2</kbd>
+# A Kind of Longing <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 291
  - **A2:** 102
- - **B1:** 91
- - **B2:** 84
- - **C1:** 47
+ - **B1:** 94
+ - **B2:** 85
+ - **C1:** 48
  - **C2:** 13
 
 ## Source
