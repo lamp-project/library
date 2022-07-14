@@ -1,4 +1,4 @@
-# The Railway Crossing <kbd>v2.4.2</kbd>
+# The Railway Crossing <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 281
  - **A2:** 84
- - **B1:** 68
- - **B2:** 55
- - **C1:** 31
+ - **B1:** 71
+ - **B2:** 56
+ - **C1:** 32
  - **C2:** 4
 
 ## Source
