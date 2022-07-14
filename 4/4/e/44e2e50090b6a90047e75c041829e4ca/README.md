@@ -1,4 +1,4 @@
-# Alice in Wonderland <kbd>v2.4.2</kbd>
+# Alice in Wonderland <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 279
  - **A2:** 107
- - **B1:** 87
- - **B2:** 58
- - **C1:** 36
+ - **B1:** 90
+ - **B2:** 59
+ - **C1:** 37
  - **C2:** 15
 
 ## Source
