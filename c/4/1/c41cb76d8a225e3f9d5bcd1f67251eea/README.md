@@ -1,4 +1,4 @@
-# Robots the Next Generation <kbd>v2.4.2</kbd>
+# Robots the Next Generation <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 73%
+ - **A1:** 72%
  - **A2:** 78%
  - **B1:** 85%
  - **B2:** 91%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 250
+ - **A1:** 251
  - **A2:** 93
- - **B1:** 117
- - **B2:** 120
- - **C1:** 108
+ - **B1:** 120
+ - **B2:** 121
+ - **C1:** 109
  - **C2:** 64
 
 ## Source
