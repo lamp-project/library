@@ -1,4 +1,4 @@
-# One Word At a Time <kbd>v2.4.2</kbd>
+# One Word At a Time <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 323
  - **A2:** 125
- - **B1:** 138
- - **B2:** 115
- - **C1:** 120
+ - **B1:** 141
+ - **B2:** 116
+ - **C1:** 121
  - **C2:** 72
 
 ## Source
