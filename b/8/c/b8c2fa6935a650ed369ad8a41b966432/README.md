@@ -1,4 +1,4 @@
-# The Fisherman and the Giant <kbd>v2.4.2</kbd>
+# The Fisherman and the Giant <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,7 +19,7 @@
 
 
  - **A1:** 80%
- - **A2:** 87%
+ - **A2:** 86%
  - **B1:** 94%
  - **B2:** 97%
  - **C1:** 100%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 212
+ - **A1:** 213
  - **A2:** 53
- - **B1:** 40
- - **B2:** 24
- - **C1:** 13
+ - **B1:** 43
+ - **B2:** 25
+ - **C1:** 14
  - **C2:** 1
 
 ## Source
