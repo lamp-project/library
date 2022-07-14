@@ -1,4 +1,4 @@
-# The Boy Who Couldn't Sleep <kbd>v2.4.2</kbd>
+# The Boy Who Couldn't Sleep <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 79%
+ - **A1:** 78%
  - **A2:** 85%
  - **B1:** 91%
  - **B2:** 94%
@@ -30,9 +30,9 @@
 
  - **A1:** 284
  - **A2:** 96
- - **B1:** 87
- - **B2:** 53
- - **C1:** 42
+ - **B1:** 90
+ - **B2:** 54
+ - **C1:** 43
  - **C2:** 17
 
 ## Source
