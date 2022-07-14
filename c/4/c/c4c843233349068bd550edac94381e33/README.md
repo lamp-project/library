@@ -1,4 +1,4 @@
-# Nobody Listens <kbd>v2.4.2</kbd>
+# Nobody Listens <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 221
+ - **A1:** 222
  - **A2:** 90
- - **B1:** 62
- - **B2:** 47
- - **C1:** 29
+ - **B1:** 64
+ - **B2:** 48
+ - **C1:** 30
  - **C2:** 16
 
 ## Source
