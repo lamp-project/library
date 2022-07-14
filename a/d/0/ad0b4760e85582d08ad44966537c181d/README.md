@@ -1,4 +1,4 @@
-# The Snow Goose <kbd>v2.4.2</kbd>
+# The Snow Goose <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 319
  - **A2:** 133
- - **B1:** 122
- - **B2:** 77
- - **C1:** 38
+ - **B1:** 125
+ - **B2:** 78
+ - **C1:** 39
  - **C2:** 17
 
 ## Source
