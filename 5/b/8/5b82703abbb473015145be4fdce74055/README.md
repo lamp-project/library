@@ -1,4 +1,4 @@
-# The Best of times <kbd>v2.4.2</kbd>
+# The Best of times <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -31,8 +31,8 @@
  - **A1:** 451
  - **A2:** 309
  - **B1:** 413
- - **B2:** 481
- - **C1:** 391
+ - **B2:** 482
+ - **C1:** 392
  - **C2:** 172
 
 ## Source
