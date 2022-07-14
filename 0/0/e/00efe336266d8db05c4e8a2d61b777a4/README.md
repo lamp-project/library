@@ -1,4 +1,4 @@
-# Missing in Sydney <kbd>v2.4.2</kbd>
+# Missing in Sydney <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 309
+ - **A1:** 310
  - **A2:** 138
- - **B1:** 114
- - **B2:** 110
- - **C1:** 89
+ - **B1:** 117
+ - **B2:** 111
+ - **C1:** 90
  - **C2:** 34
 
 ## Source
