@@ -1,4 +1,4 @@
-# Lukas's Luck <kbd>v2.4.2</kbd>
+# Lukas's Luck <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 249
+ - **A1:** 250
  - **A2:** 76
- - **B1:** 80
- - **B2:** 79
- - **C1:** 28
+ - **B1:** 83
+ - **B2:** 80
+ - **C1:** 29
  - **C2:** 6
 
 ## Source
