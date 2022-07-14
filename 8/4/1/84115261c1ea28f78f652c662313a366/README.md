@@ -1,4 +1,4 @@
-# The Grass Is Singing <kbd>v2.4.2</kbd>
+# The Grass Is Singing <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 436
  - **A2:** 277
- - **B1:** 354
- - **B2:** 305
- - **C1:** 207
+ - **B1:** 355
+ - **B2:** 306
+ - **C1:** 208
  - **C2:** 51
 
 ## Source
