@@ -1,4 +1,4 @@
-# The House of the Seven Gables <kbd>v2.4.2</kbd>
+# The House of the Seven Gables <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 393
+ - **A1:** 394
  - **A2:** 211
- - **B1:** 198
- - **B2:** 193
- - **C1:** 99
+ - **B1:** 200
+ - **B2:** 194
+ - **C1:** 100
  - **C2:** 37
 
 ## Source
