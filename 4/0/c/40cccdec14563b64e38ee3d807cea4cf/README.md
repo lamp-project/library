@@ -1,4 +1,4 @@
-# The Children of the New Forest <kbd>v2.4.2</kbd>
+# The Children of the New Forest <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 334
  - **A2:** 143
- - **B1:** 127
- - **B2:** 92
- - **C1:** 51
+ - **B1:** 130
+ - **B2:** 93
+ - **C1:** 52
  - **C2:** 14
 
 ## Source
