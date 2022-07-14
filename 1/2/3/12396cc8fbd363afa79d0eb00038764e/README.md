@@ -1,4 +1,4 @@
-# Death on Harris <kbd>v2.4.2</kbd>
+# Death on Harris <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 404
  - **A2:** 206
- - **B1:** 235
- - **B2:** 220
- - **C1:** 169
+ - **B1:** 237
+ - **B2:** 221
+ - **C1:** 170
  - **C2:** 111
 
 ## Source
