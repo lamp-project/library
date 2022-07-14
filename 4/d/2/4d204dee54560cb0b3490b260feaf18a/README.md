@@ -1,4 +1,4 @@
-# Five Famous Fairy Tales <kbd>v2.4.2</kbd>
+# Five Famous Fairy Tales <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 302
+ - **A1:** 303
  - **A2:** 125
- - **B1:** 117
- - **B2:** 71
- - **C1:** 42
+ - **B1:** 120
+ - **B2:** 72
+ - **C1:** 43
  - **C2:** 10
 
 ## Source
