@@ -1,4 +1,4 @@
-# The Cask of Amontillado <kbd>v2.4.2</kbd>
+# The Cask of Amontillado <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,8 +18,8 @@
 ## Readablility
 
 
- - **A1:** 77%
- - **A2:** 84%
+ - **A1:** 76%
+ - **A2:** 83%
  - **B1:** 91%
  - **B2:** 96%
  - **C1:** 99%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 231
+ - **A1:** 232
  - **A2:** 67
- - **B1:** 71
- - **B2:** 52
- - **C1:** 30
+ - **B1:** 74
+ - **B2:** 53
+ - **C1:** 31
  - **C2:** 11
 
 ## Source
