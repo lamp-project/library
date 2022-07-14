@@ -1,4 +1,4 @@
-# The Importance of Being Earnest <kbd>v2.4.2</kbd>
+# The Importance of Being Earnest <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 430
+ - **A1:** 431
  - **A2:** 262
- - **B1:** 297
- - **B2:** 290
- - **C1:** 247
+ - **B1:** 299
+ - **B2:** 291
+ - **C1:** 248
  - **C2:** 86
 
 ## Source
