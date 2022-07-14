@@ -1,4 +1,4 @@
-# The Sharcks Were Hungry <kbd>v2.4.2</kbd>
+# The Sharcks Were Hungry <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 180
  - **A2:** 55
- - **B1:** 44
- - **B2:** 56
- - **C1:** 15
+ - **B1:** 47
+ - **B2:** 57
+ - **C1:** 16
  - **C2:** 8
 
 ## Source
