@@ -1,4 +1,4 @@
-# The Hundred and One Dalmatin <kbd>v2.4.2</kbd>
+# The Hundred and One Dalmatin <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 426
+ - **A1:** 427
  - **A2:** 271
- - **B1:** 331
- - **B2:** 363
- - **C1:** 278
+ - **B1:** 333
+ - **B2:** 364
+ - **C1:** 279
  - **C2:** 114
 
 ## Source
