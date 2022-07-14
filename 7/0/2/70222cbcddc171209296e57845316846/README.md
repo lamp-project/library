@@ -1,4 +1,4 @@
-# Cinderella Man <kbd>v2.4.2</kbd>
+# Cinderella Man <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 417
  - **A2:** 282
- - **B1:** 323
+ - **B1:** 326
  - **B2:** 311
- - **C1:** 220
+ - **C1:** 221
  - **C2:** 82
 
 ## Source
