@@ -1,4 +1,4 @@
-# Marley and Me <kbd>v2.4.2</kbd>
+# Marley and Me <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 293
+ - **A1:** 294
  - **A2:** 136
- - **B1:** 118
- - **B2:** 97
- - **C1:** 62
+ - **B1:** 120
+ - **B2:** 98
+ - **C1:** 63
  - **C2:** 38
 
 ## Source
