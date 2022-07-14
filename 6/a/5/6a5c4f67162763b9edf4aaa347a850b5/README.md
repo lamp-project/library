@@ -1,4 +1,4 @@
-# Little House on the Prairie <kbd>v2.4.2</kbd>
+# Little House on the Prairie <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 366
  - **A2:** 204
- - **B1:** 210
- - **B2:** 185
- - **C1:** 140
+ - **B1:** 212
+ - **B2:** 186
+ - **C1:** 141
  - **C2:** 49
 
 ## Source
