@@ -1,4 +1,4 @@
-# The Yellow Face <kbd>v2.4.2</kbd>
+# The Yellow Face <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 279
+ - **A1:** 280
  - **A2:** 91
- - **B1:** 84
- - **B2:** 68
- - **C1:** 39
+ - **B1:** 86
+ - **B2:** 69
+ - **C1:** 40
  - **C2:** 13
 
 ## Source
