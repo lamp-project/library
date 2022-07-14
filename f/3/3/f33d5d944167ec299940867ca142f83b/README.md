@@ -1,4 +1,4 @@
-# An Adventure at Brownville <kbd>v2.4.2</kbd>
+# An Adventure at Brownville <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 284
  - **A2:** 115
- - **B1:** 90
- - **B2:** 64
- - **C1:** 36
+ - **B1:** 93
+ - **B2:** 65
+ - **C1:** 37
  - **C2:** 10
 
 ## Source
