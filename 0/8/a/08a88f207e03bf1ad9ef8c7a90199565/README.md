@@ -1,4 +1,4 @@
-# Simon Decker and the Secret Formula <kbd>v2.4.2</kbd>
+# Simon Decker and the Secret Formula <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 332
  - **A2:** 142
- - **B1:** 142
- - **B2:** 87
- - **C1:** 69
+ - **B1:** 145
+ - **B2:** 88
+ - **C1:** 70
  - **C2:** 28
 
 ## Source
