@@ -1,4 +1,4 @@
-# The Monkey King <kbd>v2.4.2</kbd>
+# The Monkey King <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 441
  - **A2:** 302
- - **B1:** 376
- - **B2:** 370
- - **C1:** 218
+ - **B1:** 379
+ - **B2:** 371
+ - **C1:** 219
  - **C2:** 70
 
 ## Source
