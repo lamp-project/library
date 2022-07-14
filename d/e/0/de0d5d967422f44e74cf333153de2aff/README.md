@@ -1,4 +1,4 @@
-# Cold Mountain <kbd>v2.4.2</kbd>
+# Cold Mountain <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 452
  - **A2:** 360
- - **B1:** 452
+ - **B1:** 454
  - **B2:** 465
- - **C1:** 307
+ - **C1:** 308
  - **C2:** 93
 
 ## Source
