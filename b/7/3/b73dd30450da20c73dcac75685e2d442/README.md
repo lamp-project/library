@@ -1,4 +1,4 @@
-# As the Inspector Said <kbd>v2.4.2</kbd>
+# As the Inspector Said <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 77%
+ - **A1:** 76%
  - **A2:** 84%
  - **B1:** 91%
  - **B2:** 96%
@@ -30,9 +30,9 @@
 
  - **A1:** 193
  - **A2:** 54
- - **B1:** 36
- - **B2:** 30
- - **C1:** 22
+ - **B1:** 39
+ - **B2:** 31
+ - **C1:** 23
  - **C2:** 5
 
 ## Source
