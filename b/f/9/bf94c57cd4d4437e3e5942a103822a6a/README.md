@@ -1,4 +1,4 @@
-# The pit and the pendulum <kbd>v2.4.2</kbd>
+# The pit and the pendulum <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 201
  - **A2:** 74
- - **B1:** 61
+ - **B1:** 65
  - **B2:** 49
- - **C1:** 29
+ - **C1:** 30
  - **C2:** 9
 
 ## Source
