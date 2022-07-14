@@ -1,4 +1,4 @@
-# The Fall of the House of Usher <kbd>v2.4.2</kbd>
+# The Fall of the House of Usher <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 79%
+ - **A1:** 78%
  - **A2:** 88%
  - **B1:** 92%
  - **B2:** 97%
@@ -30,9 +30,9 @@
 
  - **A1:** 216
  - **A2:** 72
- - **B1:** 46
+ - **B1:** 50
  - **B2:** 56
- - **C1:** 21
+ - **C1:** 22
  - **C2:** 3
 
 ## Source
