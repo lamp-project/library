@@ -1,4 +1,4 @@
-# Mystery of Coniston Water <kbd>v2.4.2</kbd>
+# Mystery of Coniston Water <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 287
  - **A2:** 135
- - **B1:** 122
+ - **B1:** 125
  - **B2:** 116
- - **C1:** 93
+ - **C1:** 94
  - **C2:** 44
 
 ## Source
