@@ -1,4 +1,4 @@
-# Hard Times for the Time Trippers <kbd>v2.4.2</kbd>
+# Hard Times for the Time Trippers <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 366
  - **A2:** 195
- - **B1:** 226
- - **B2:** 213
- - **C1:** 182
+ - **B1:** 228
+ - **B2:** 214
+ - **C1:** 183
  - **C2:** 81
 
 ## Source
