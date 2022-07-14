@@ -1,4 +1,4 @@
-# Urban Myths <kbd>v2.4.2</kbd>
+# Urban Myths <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 280
+ - **A1:** 281
  - **A2:** 126
- - **B1:** 107
- - **B2:** 68
- - **C1:** 48
+ - **B1:** 111
+ - **B2:** 69
+ - **C1:** 49
  - **C2:** 20
 
 ## Source
