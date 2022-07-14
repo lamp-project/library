@@ -1,4 +1,4 @@
-# Money For a Motorbike <kbd>v2.4.2</kbd>
+# Money For a Motorbike <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 76%
+ - **A1:** 75%
  - **A2:** 83%
  - **B1:** 90%
  - **B2:** 95%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 209
+ - **A1:** 210
  - **A2:** 63
- - **B1:** 53
- - **B2:** 41
- - **C1:** 26
+ - **B1:** 56
+ - **B2:** 42
+ - **C1:** 27
  - **C2:** 10
 
 ## Source
