@@ -1,4 +1,4 @@
-# The Clarion Call <kbd>v2.4.2</kbd>
+# The Clarion Call <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 203
+ - **A1:** 204
  - **A2:** 71
- - **B1:** 52
- - **B2:** 38
- - **C1:** 29
+ - **B1:** 54
+ - **B2:** 39
+ - **C1:** 30
  - **C2:** 13
 
 ## Source
