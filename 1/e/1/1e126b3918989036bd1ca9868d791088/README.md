@@ -1,4 +1,4 @@
-# The Murders in the Rue Morgue <kbd>v2.4.2</kbd>
+# The Murders in the Rue Morgue <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 356
  - **A2:** 164
- - **B1:** 158
- - **B2:** 144
- - **C1:** 82
+ - **B1:** 162
+ - **B2:** 145
+ - **C1:** 83
  - **C2:** 38
 
 ## Source
