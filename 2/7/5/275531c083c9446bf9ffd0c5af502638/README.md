@@ -1,4 +1,4 @@
-# Ghastly Ghosts <kbd>v2.4.2</kbd>
+# Ghastly Ghosts <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 286
  - **A2:** 118
- - **B1:** 129
- - **B2:** 101
- - **C1:** 78
+ - **B1:** 132
+ - **B2:** 102
+ - **C1:** 79
  - **C2:** 29
 
 ## Source
