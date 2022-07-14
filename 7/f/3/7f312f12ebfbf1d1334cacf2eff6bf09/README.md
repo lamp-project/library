@@ -1,4 +1,4 @@
-# Great Speeches <kbd>v2.4.2</kbd>
+# Great Speeches <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 383
  - **A2:** 244
- - **B1:** 342
- - **B2:** 398
- - **C1:** 389
+ - **B1:** 345
+ - **B2:** 399
+ - **C1:** 390
  - **C2:** 181
 
 ## Source
