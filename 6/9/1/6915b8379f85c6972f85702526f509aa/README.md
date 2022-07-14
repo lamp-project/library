@@ -1,4 +1,4 @@
-# Woodrow Wilson Tie <kbd>v2.4.2</kbd>
+# Woodrow Wilson Tie <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 288
  - **A2:** 106
- - **B1:** 90
- - **B2:** 70
- - **C1:** 48
+ - **B1:** 94
+ - **B2:** 71
+ - **C1:** 49
  - **C2:** 10
 
 ## Source
