@@ -1,4 +1,4 @@
-# The Happy Prince and the Selfish Giant <kbd>v2.4.2</kbd>
+# The Happy Prince and the Selfish Giant <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 189
+ - **A1:** 190
  - **A2:** 73
- - **B1:** 68
- - **B2:** 67
- - **C1:** 33
+ - **B1:** 71
+ - **B2:** 68
+ - **C1:** 34
  - **C2:** 13
 
 ## Source
