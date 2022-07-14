@@ -1,4 +1,4 @@
-# My Cousin Rachel <kbd>v2.4.2</kbd>
+# My Cousin Rachel <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 407
+ - **A1:** 408
  - **A2:** 222
- - **B1:** 231
- - **B2:** 189
- - **C1:** 105
+ - **B1:** 235
+ - **B2:** 190
+ - **C1:** 106
  - **C2:** 26
 
 ## Source
