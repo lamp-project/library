@@ -1,4 +1,4 @@
-# The Oblong Box <kbd>v2.4.2</kbd>
+# The Oblong Box <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 223
  - **A2:** 75
- - **B1:** 49
- - **B2:** 44
- - **C1:** 25
+ - **B1:** 52
+ - **B2:** 45
+ - **C1:** 26
  - **C2:** 4
 
 ## Source
