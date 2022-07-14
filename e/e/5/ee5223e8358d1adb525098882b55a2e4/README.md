@@ -1,4 +1,4 @@
-# Fenrir's Chain <kbd>v2.4.2</kbd>
+# Fenrir's Chain <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 189
  - **A2:** 47
- - **B1:** 36
- - **B2:** 22
- - **C1:** 19
+ - **B1:** 39
+ - **B2:** 23
+ - **C1:** 20
  - **C2:** 1
 
 ## Source
