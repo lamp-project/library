@@ -1,4 +1,4 @@
-# Batman Begins <kbd>v2.4.2</kbd>
+# Batman Begins <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 328
  - **A2:** 130
- - **B1:** 128
- - **B2:** 97
- - **C1:** 70
+ - **B1:** 131
+ - **B2:** 98
+ - **C1:** 71
  - **C2:** 19
 
 ## Source
