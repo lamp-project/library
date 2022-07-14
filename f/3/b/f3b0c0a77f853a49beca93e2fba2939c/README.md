@@ -1,4 +1,4 @@
-# Irish Revel <kbd>v2.4.2</kbd>
+# Irish Revel <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 327
+ - **A1:** 328
  - **A2:** 148
- - **B1:** 134
+ - **B1:** 137
  - **B2:** 124
- - **C1:** 77
+ - **C1:** 78
  - **C2:** 28
 
 ## Source
