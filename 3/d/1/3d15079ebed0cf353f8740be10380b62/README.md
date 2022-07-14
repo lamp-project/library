@@ -1,4 +1,4 @@
-# The Curse of the Black Pearl <kbd>v2.4.2</kbd>
+# The Curse of the Black Pearl <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 265
+ - **A1:** 266
  - **A2:** 95
- - **B1:** 82
- - **B2:** 49
- - **C1:** 44
+ - **B1:** 86
+ - **B2:** 50
+ - **C1:** 45
  - **C2:** 8
 
 ## Source
