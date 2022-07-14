@@ -1,4 +1,4 @@
-# As Time Goes By <kbd>v2.4.2</kbd>
+# As Time Goes By <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 427
  - **A2:** 279
- - **B1:** 292
+ - **B1:** 295
  - **B2:** 267
- - **C1:** 172
+ - **C1:** 173
  - **C2:** 43
 
 ## Source
