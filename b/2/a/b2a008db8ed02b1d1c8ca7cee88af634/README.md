@@ -1,4 +1,4 @@
-# Not Without You <kbd>v2.4.2</kbd>
+# Not Without You <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 423
  - **A2:** 282
- - **B1:** 371
+ - **B1:** 374
  - **B2:** 345
- - **C1:** 261
+ - **C1:** 262
  - **C2:** 104
 
 ## Source
