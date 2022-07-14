@@ -1,4 +1,4 @@
-# Conan the Barbarian: Red Nails <kbd>v2.4.2</kbd>
+# Conan the Barbarian: Red Nails <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 376
  - **A2:** 214
- - **B1:** 243
- - **B2:** 198
- - **C1:** 148
+ - **B1:** 246
+ - **B2:** 199
+ - **C1:** 149
  - **C2:** 41
 
 ## Source
