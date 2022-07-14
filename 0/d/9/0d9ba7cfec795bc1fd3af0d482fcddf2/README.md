@@ -1,4 +1,4 @@
-# A Descent Into the Maelstrom <kbd>v2.4.2</kbd>
+# A Descent Into the Maelstrom <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 218
  - **A2:** 66
- - **B1:** 55
+ - **B1:** 58
  - **B2:** 49
- - **C1:** 21
+ - **C1:** 22
  - **C2:** 7
 
 ## Source
