@@ -1,4 +1,4 @@
-# The Law of Life <kbd>v2.4.2</kbd>
+# The Law of Life <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 217
  - **A2:** 68
- - **B1:** 59
- - **B2:** 48
- - **C1:** 26
+ - **B1:** 61
+ - **B2:** 49
+ - **C1:** 27
  - **C2:** 13
 
 ## Source
