@@ -1,4 +1,4 @@
-# The Rocking Horse Winner <kbd>v2.4.2</kbd>
+# The Rocking Horse Winner <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 258
  - **A2:** 86
- - **B1:** 73
- - **B2:** 49
- - **C1:** 31
+ - **B1:** 76
+ - **B2:** 50
+ - **C1:** 32
  - **C2:** 8
 
 ## Source
