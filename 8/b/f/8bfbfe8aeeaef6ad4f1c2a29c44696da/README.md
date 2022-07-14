@@ -1,4 +1,4 @@
-# The Sign Of Four <kbd>v2.4.2</kbd>
+# The Sign Of Four <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 389
  - **A2:** 206
- - **B1:** 221
- - **B2:** 174
- - **C1:** 96
+ - **B1:** 224
+ - **B2:** 175
+ - **C1:** 97
  - **C2:** 29
 
 ## Source
