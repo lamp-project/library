@@ -1,4 +1,4 @@
-# The Wind in the Willows <kbd>v2.4.2</kbd>
+# The Wind in the Willows <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 270
+ - **A1:** 271
  - **A2:** 124
- - **B1:** 121
- - **B2:** 140
- - **C1:** 102
+ - **B1:** 124
+ - **B2:** 141
+ - **C1:** 103
  - **C2:** 44
 
 ## Source
