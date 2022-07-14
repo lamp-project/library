@@ -1,4 +1,4 @@
-# British and American Festivities <kbd>v2.4.2</kbd>
+# British and American Festivities <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 285
  - **A2:** 154
- - **B1:** 177
+ - **B1:** 180
  - **B2:** 191
- - **C1:** 175
+ - **C1:** 176
  - **C2:** 94
 
 ## Source
