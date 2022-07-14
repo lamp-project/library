@@ -1,4 +1,4 @@
-# Home for Christmas <kbd>v2.4.2</kbd>
+# Home for Christmas <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 326
  - **A2:** 141
- - **B1:** 127
- - **B2:** 95
- - **C1:** 69
+ - **B1:** 128
+ - **B2:** 96
+ - **C1:** 70
  - **C2:** 43
 
 ## Source
