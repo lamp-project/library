@@ -1,4 +1,4 @@
-# The Way up to Heaven <kbd>v2.4.2</kbd>
+# The Way up to Heaven <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,7 +30,7 @@
 
  - **A1:** 349
  - **A2:** 150
- - **B1:** 153
+ - **B1:** 156
  - **B2:** 147
  - **C1:** 96
  - **C2:** 59
