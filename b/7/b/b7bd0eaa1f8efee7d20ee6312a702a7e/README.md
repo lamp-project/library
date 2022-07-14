@@ -1,4 +1,4 @@
-# Cold Comfort Farm <kbd>v2.4.2</kbd>
+# Cold Comfort Farm <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 475
  - **A2:** 374
- - **B1:** 536
- - **B2:** 570
- - **C1:** 448
+ - **B1:** 537
+ - **B2:** 571
+ - **C1:** 449
  - **C2:** 154
 
 ## Source
