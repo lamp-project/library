@@ -1,4 +1,4 @@
-# Ned Kelly a True Story <kbd>v2.4.2</kbd>
+# Ned Kelly a True Story <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 288
  - **A2:** 113
- - **B1:** 91
- - **B2:** 69
- - **C1:** 46
+ - **B1:** 94
+ - **B2:** 70
+ - **C1:** 47
  - **C2:** 9
 
 ## Source
