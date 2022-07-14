@@ -1,4 +1,4 @@
-# The Blue Scarab <kbd>v2.4.2</kbd>
+# The Blue Scarab <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 357
  - **A2:** 154
- - **B1:** 156
- - **B2:** 108
- - **C1:** 73
+ - **B1:** 159
+ - **B2:** 109
+ - **C1:** 74
  - **C2:** 26
 
 ## Source
