@@ -1,4 +1,4 @@
-# Management Gurus <kbd>v2.4.2</kbd>
+# Management Gurus <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 412
+ - **A1:** 413
  - **A2:** 249
- - **B1:** 292
- - **B2:** 237
- - **C1:** 203
+ - **B1:** 294
+ - **B2:** 238
+ - **C1:** 204
  - **C2:** 69
 
 ## Source
