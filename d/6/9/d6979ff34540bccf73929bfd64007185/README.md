@@ -1,4 +1,4 @@
-# The Judge's House <kbd>v2.4.2</kbd>
+# The Judge's House <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 314
  - **A2:** 140
- - **B1:** 145
- - **B2:** 121
- - **C1:** 80
+ - **B1:** 148
+ - **B2:** 122
+ - **C1:** 81
  - **C2:** 24
 
 ## Source
