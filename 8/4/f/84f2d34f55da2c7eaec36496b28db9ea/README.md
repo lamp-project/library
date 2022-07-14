@@ -1,4 +1,4 @@
-# What the Shepherd Saw <kbd>v2.4.2</kbd>
+# What the Shepherd Saw <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 340
  - **A2:** 132
- - **B1:** 110
- - **B2:** 77
- - **C1:** 45
+ - **B1:** 113
+ - **B2:** 78
+ - **C1:** 46
  - **C2:** 11
 
 ## Source
