@@ -1,4 +1,4 @@
-# The Damned Thing <kbd>v2.4.2</kbd>
+# The Damned Thing <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 241
  - **A2:** 71
- - **B1:** 59
- - **B2:** 58
- - **C1:** 29
+ - **B1:** 62
+ - **B2:** 59
+ - **C1:** 30
  - **C2:** 8
 
 ## Source
