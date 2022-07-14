@@ -1,4 +1,4 @@
-# The Love of King <kbd>v2.4.2</kbd>
+# The Love of King <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 327
  - **A2:** 138
- - **B1:** 116
- - **B2:** 77
- - **C1:** 44
+ - **B1:** 118
+ - **B2:** 78
+ - **C1:** 45
  - **C2:** 15
 
 ## Source
