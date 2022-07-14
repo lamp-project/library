@@ -1,4 +1,4 @@
-# The Railway Children <kbd>v2.4.2</kbd>
+# The Railway Children <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 81%
+ - **A1:** 80%
  - **A2:** 87%
  - **B1:** 93%
  - **B2:** 97%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 374
+ - **A1:** 375
  - **A2:** 193
- - **B1:** 166
- - **B2:** 140
- - **C1:** 77
+ - **B1:** 169
+ - **B2:** 141
+ - **C1:** 78
  - **C2:** 26
 
 ## Source
