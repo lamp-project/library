@@ -1,4 +1,4 @@
-# Death in the Clouds <kbd>v2.4.2</kbd>
+# Death in the Clouds <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 454
  - **A2:** 312
- - **B1:** 392
- - **B2:** 443
- - **C1:** 315
+ - **B1:** 394
+ - **B2:** 444
+ - **C1:** 316
  - **C2:** 131
 
 ## Source
