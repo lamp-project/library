@@ -1,4 +1,4 @@
-# Cinderella <kbd>v2.4.2</kbd>
+# Cinderella <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 103
+ - **A1:** 104
  - **A2:** 26
- - **B1:** 22
- - **B2:** 26
- - **C1:** 13
+ - **B1:** 26
+ - **B2:** 27
+ - **C1:** 14
  - **C2:** 8
 
 ## Source
