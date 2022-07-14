@@ -1,4 +1,4 @@
-# A Kiss Before Dying <kbd>v2.4.2</kbd>
+# A Kiss Before Dying <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 400
  - **A2:** 217
- - **B1:** 237
+ - **B1:** 239
  - **B2:** 192
- - **C1:** 135
+ - **C1:** 136
  - **C2:** 66
 
 ## Source
