@@ -1,4 +1,4 @@
-# Jeeves and Friends <kbd>v2.4.2</kbd>
+# Jeeves and Friends <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 462
  - **A2:** 341
- - **B1:** 430
- - **B2:** 438
- - **C1:** 294
+ - **B1:** 431
+ - **B2:** 439
+ - **C1:** 295
  - **C2:** 100
 
 ## Source
