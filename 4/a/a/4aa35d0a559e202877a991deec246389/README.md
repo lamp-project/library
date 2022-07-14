@@ -1,4 +1,4 @@
-# Three men in a boat <kbd>v2.4.2</kbd>
+# Three men in a boat <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 374
  - **A2:** 192
- - **B1:** 202
- - **B2:** 175
- - **C1:** 138
+ - **B1:** 204
+ - **B2:** 176
+ - **C1:** 139
  - **C2:** 50
 
 ## Source
