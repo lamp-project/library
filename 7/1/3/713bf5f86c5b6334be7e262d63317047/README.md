@@ -1,4 +1,4 @@
-# Amazing Inventors <kbd>v2.4.2</kbd>
+# Amazing Inventors <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 301
+ - **A1:** 302
  - **A2:** 166
- - **B1:** 133
- - **B2:** 128
- - **C1:** 94
+ - **B1:** 135
+ - **B2:** 129
+ - **C1:** 95
  - **C2:** 50
 
 ## Source
