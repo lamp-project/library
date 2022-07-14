@@ -1,4 +1,4 @@
-# How to be an Alien <kbd>v2.4.2</kbd>
+# How to be an Alien <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 355
+ - **A1:** 356
  - **A2:** 164
- - **B1:** 177
- - **B2:** 140
- - **C1:** 109
+ - **B1:** 180
+ - **B2:** 141
+ - **C1:** 110
  - **C2:** 40
 
 ## Source
