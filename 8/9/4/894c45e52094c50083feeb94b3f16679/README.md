@@ -1,4 +1,4 @@
-# The New York Cafe <kbd>v2.4.2</kbd>
+# The New York Cafe <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 149
+ - **A1:** 150
  - **A2:** 29
- - **B1:** 18
- - **B2:** 17
- - **C1:** 14
+ - **B1:** 21
+ - **B2:** 18
+ - **C1:** 15
  - **C2:** 7
 
 ## Source
