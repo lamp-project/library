@@ -1,4 +1,4 @@
-# Cooking the Books <kbd>v2.4.2</kbd>
+# Cooking the Books <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 282
  - **A2:** 119
- - **B1:** 124
- - **B2:** 115
- - **C1:** 74
+ - **B1:** 127
+ - **B2:** 116
+ - **C1:** 75
  - **C2:** 21
 
 ## Source
