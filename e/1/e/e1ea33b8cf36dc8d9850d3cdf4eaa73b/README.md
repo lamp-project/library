@@ -1,4 +1,4 @@
-# Lisa in China <kbd>v2.4.2</kbd>
+# Lisa in China <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 276
+ - **A1:** 277
  - **A2:** 125
- - **B1:** 109
+ - **B1:** 112
  - **B2:** 119
- - **C1:** 98
+ - **C1:** 99
  - **C2:** 49
 
 ## Source
