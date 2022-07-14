@@ -1,4 +1,4 @@
-# The Swiss Family Robinson <kbd>v2.4.2</kbd>
+# The Swiss Family Robinson <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 355
+ - **A1:** 356
  - **A2:** 186
- - **B1:** 186
- - **B2:** 127
- - **C1:** 91
+ - **B1:** 188
+ - **B2:** 128
+ - **C1:** 92
  - **C2:** 19
 
 ## Source
