@@ -1,4 +1,4 @@
-# The Valley of Fear <kbd>v2.4.2</kbd>
+# The Valley of Fear <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 413
  - **A2:** 211
- - **B1:** 224
+ - **B1:** 226
  - **B2:** 190
- - **C1:** 128
+ - **C1:** 129
  - **C2:** 48
 
 ## Source
