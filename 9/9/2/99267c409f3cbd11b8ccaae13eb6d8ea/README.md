@@ -1,4 +1,4 @@
-# The Champion of the World <kbd>v2.4.2</kbd>
+# The Champion of the World <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 367
  - **A2:** 168
- - **B1:** 178
- - **B2:** 164
- - **C1:** 105
+ - **B1:** 180
+ - **B2:** 165
+ - **C1:** 106
  - **C2:** 29
 
 ## Source
