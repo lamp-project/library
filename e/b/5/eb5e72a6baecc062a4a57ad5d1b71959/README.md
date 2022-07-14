@@ -1,4 +1,4 @@
-# Everything is Eventual <kbd>v2.4.2</kbd>
+# Everything is Eventual <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 349
+ - **A1:** 350
  - **A2:** 147
- - **B1:** 145
+ - **B1:** 147
  - **B2:** 130
- - **C1:** 91
+ - **C1:** 92
  - **C2:** 45
 
 ## Source
