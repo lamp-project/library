@@ -1,4 +1,4 @@
-# Why Didn't They Ask Evans <kbd>v2.4.2</kbd>
+# Why Didn't They Ask Evans <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 461
  - **A2:** 329
- - **B1:** 427
- - **B2:** 423
- - **C1:** 320
+ - **B1:** 429
+ - **B2:** 424
+ - **C1:** 321
  - **C2:** 132
 
 ## Source
