@@ -1,4 +1,4 @@
-# Hobbit or There and Back Again <kbd>v2.4.2</kbd>
+# Hobbit or There and Back Again <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 464
  - **A2:** 392
- - **B1:** 620
- - **B2:** 846
- - **C1:** 870
+ - **B1:** 622
+ - **B2:** 847
+ - **C1:** 871
  - **C2:** 458
 
 ## Source
