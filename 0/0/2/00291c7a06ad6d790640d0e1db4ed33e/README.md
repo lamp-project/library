@@ -1,4 +1,4 @@
-# The Birthmark <kbd>v2.4.2</kbd>
+# The Birthmark <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 259
  - **A2:** 80
- - **B1:** 70
+ - **B1:** 73
  - **B2:** 69
- - **C1:** 36
+ - **C1:** 37
  - **C2:** 19
 
 ## Source
