@@ -1,4 +1,4 @@
-# The Crocodile and the Hunter <kbd>v2.4.2</kbd>
+# The Crocodile and the Hunter <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 223
  - **A2:** 58
- - **B1:** 47
- - **B2:** 50
- - **C1:** 21
+ - **B1:** 50
+ - **B2:** 51
+ - **C1:** 22
  - **C2:** 8
 
 ## Source
