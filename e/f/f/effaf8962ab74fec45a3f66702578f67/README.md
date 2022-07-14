@@ -1,4 +1,4 @@
-# Stories from the Five Towns <kbd>v2.4.2</kbd>
+# Stories from the Five Towns <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 314
+ - **A1:** 315
  - **A2:** 119
- - **B1:** 111
- - **B2:** 75
- - **C1:** 48
+ - **B1:** 114
+ - **B2:** 76
+ - **C1:** 49
  - **C2:** 16
 
 ## Source
