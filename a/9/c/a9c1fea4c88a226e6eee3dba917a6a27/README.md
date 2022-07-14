@@ -1,4 +1,4 @@
-# The Blind Man <kbd>v2.4.2</kbd>
+# The Blind Man <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 288
+ - **A1:** 289
  - **A2:** 87
- - **B1:** 96
- - **B2:** 77
- - **C1:** 41
+ - **B1:** 99
+ - **B2:** 78
+ - **C1:** 42
  - **C2:** 9
 
 ## Source
