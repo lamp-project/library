@@ -1,4 +1,4 @@
-# The Haunted Dolls' House <kbd>v2.4.2</kbd>
+# The Haunted Dolls' House <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 297
+ - **A1:** 298
  - **A2:** 112
- - **B1:** 102
- - **B2:** 82
- - **C1:** 43
+ - **B1:** 105
+ - **B2:** 83
+ - **C1:** 44
  - **C2:** 17
 
 ## Source
