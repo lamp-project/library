@@ -1,4 +1,4 @@
-# My Oedipus Complex <kbd>v2.4.2</kbd>
+# My Oedipus Complex <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 308
+ - **A1:** 309
  - **A2:** 123
- - **B1:** 104
- - **B2:** 88
- - **C1:** 56
+ - **B1:** 107
+ - **B2:** 89
+ - **C1:** 57
  - **C2:** 17
 
 ## Source
