@@ -1,4 +1,4 @@
-# The Intelligence of Wild Things <kbd>v2.4.2</kbd>
+# The Intelligence of Wild Things <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,7 +19,7 @@
 
 
  - **A1:** 80%
- - **A2:** 87%
+ - **A2:** 86%
  - **B1:** 92%
  - **B2:** 96%
  - **C1:** 99%
@@ -30,9 +30,9 @@
 
  - **A1:** 344
  - **A2:** 146
- - **B1:** 120
- - **B2:** 119
- - **C1:** 68
+ - **B1:** 123
+ - **B2:** 120
+ - **C1:** 69
  - **C2:** 25
 
 ## Source
