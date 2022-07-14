@@ -1,4 +1,4 @@
-# A Gathering of Bald Men <kbd>v2.4.2</kbd>
+# A Gathering of Bald Men <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 309
+ - **A1:** 310
  - **A2:** 122
- - **B1:** 121
- - **B2:** 88
- - **C1:** 76
+ - **B1:** 124
+ - **B2:** 89
+ - **C1:** 77
  - **C2:** 31
 
 ## Source
