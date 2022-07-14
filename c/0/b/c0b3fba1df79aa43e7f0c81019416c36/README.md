@@ -1,4 +1,4 @@
-# The Murder of Mary Jones <kbd>v2.4.2</kbd>
+# The Murder of Mary Jones <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 216
  - **A2:** 66
- - **B1:** 38
- - **B2:** 32
- - **C1:** 17
+ - **B1:** 41
+ - **B2:** 33
+ - **C1:** 18
  - **C2:** 6
 
 ## Source
