@@ -1,4 +1,4 @@
-# The Brass Bottle <kbd>v2.4.2</kbd>
+# The Brass Bottle <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 441
  - **A2:** 292
- - **B1:** 357
- - **B2:** 308
- - **C1:** 234
+ - **B1:** 360
+ - **B2:** 309
+ - **C1:** 235
  - **C2:** 62
 
 ## Source
