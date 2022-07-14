@@ -1,4 +1,4 @@
-# Lord Mcdonald <kbd>v2.4.2</kbd>
+# Lord Mcdonald <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 301
  - **A2:** 109
- - **B1:** 104
- - **B2:** 75
- - **C1:** 45
+ - **B1:** 107
+ - **B2:** 76
+ - **C1:** 46
  - **C2:** 14
 
 ## Source
