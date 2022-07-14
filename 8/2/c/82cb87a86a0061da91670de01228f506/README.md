@@ -1,4 +1,4 @@
-# The American West <kbd>v2.4.2</kbd>
+# The American West <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 165
+ - **A1:** 166
  - **A2:** 62
- - **B1:** 63
- - **B2:** 70
- - **C1:** 43
+ - **B1:** 66
+ - **B2:** 71
+ - **C1:** 44
  - **C2:** 13
 
 ## Source
