@@ -1,4 +1,4 @@
-# The Voice in the Night <kbd>v2.4.2</kbd>
+# The Voice in the Night <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 309
+ - **A1:** 310
  - **A2:** 121
- - **B1:** 108
- - **B2:** 96
- - **C1:** 48
+ - **B1:** 110
+ - **B2:** 97
+ - **C1:** 49
  - **C2:** 15
 
 ## Source
