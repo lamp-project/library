@@ -1,4 +1,4 @@
-# The Night Train at Deoli <kbd>v2.4.2</kbd>
+# The Night Train at Deoli <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 78%
+ - **A1:** 77%
  - **A2:** 84%
  - **B1:** 91%
  - **B2:** 97%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 215
+ - **A1:** 216
  - **A2:** 61
- - **B1:** 57
- - **B2:** 51
- - **C1:** 26
+ - **B1:** 60
+ - **B2:** 52
+ - **C1:** 27
  - **C2:** 7
 
 ## Source
