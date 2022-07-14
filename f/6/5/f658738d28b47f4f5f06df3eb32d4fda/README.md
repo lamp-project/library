@@ -1,4 +1,4 @@
-# The Ghosts of Izieu <kbd>v2.4.2</kbd>
+# The Ghosts of Izieu <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 369
  - **A2:** 199
- - **B1:** 192
- - **B2:** 146
- - **C1:** 81
+ - **B1:** 195
+ - **B2:** 147
+ - **C1:** 82
  - **C2:** 36
 
 ## Source
