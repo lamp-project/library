@@ -1,4 +1,4 @@
-# The Curious Case Of Benjamin Button <kbd>v2.4.2</kbd>
+# The Curious Case Of Benjamin Button <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 426
  - **A2:** 262
- - **B1:** 293
- - **B2:** 343
- - **C1:** 315
+ - **B1:** 297
+ - **B2:** 344
+ - **C1:** 316
  - **C2:** 189
 
 ## Source
