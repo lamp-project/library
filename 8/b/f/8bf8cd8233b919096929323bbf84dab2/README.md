@@ -1,4 +1,4 @@
-# Interview with the Vampire <kbd>v2.4.2</kbd>
+# Interview with the Vampire <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 427
  - **A2:** 290
- - **B1:** 338
+ - **B1:** 341
  - **B2:** 330
- - **C1:** 219
+ - **C1:** 220
  - **C2:** 86
 
 ## Source
