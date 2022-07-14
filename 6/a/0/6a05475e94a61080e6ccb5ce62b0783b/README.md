@@ -1,4 +1,4 @@
-# Secret Codes <kbd>v2.4.2</kbd>
+# Secret Codes <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -32,7 +32,7 @@
  - **A2:** 258
  - **B1:** 315
  - **B2:** 278
- - **C1:** 222
+ - **C1:** 223
  - **C2:** 89
 
 ## Source
