@@ -1,4 +1,4 @@
-# After the Earthquake <kbd>v2.4.2</kbd>
+# After the Earthquake <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 288
+ - **A1:** 289
  - **A2:** 120
- - **B1:** 104
- - **B2:** 73
- - **C1:** 34
+ - **B1:** 106
+ - **B2:** 74
+ - **C1:** 35
  - **C2:** 16
 
 ## Source
