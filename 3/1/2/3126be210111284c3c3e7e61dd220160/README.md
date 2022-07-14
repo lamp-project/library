@@ -1,4 +1,4 @@
-# The Long Shot <kbd>v2.4.2</kbd>
+# The Long Shot <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 309
+ - **A1:** 310
  - **A2:** 147
- - **B1:** 141
- - **B2:** 159
- - **C1:** 115
+ - **B1:** 142
+ - **B2:** 160
+ - **C1:** 116
  - **C2:** 72
 
 ## Source
