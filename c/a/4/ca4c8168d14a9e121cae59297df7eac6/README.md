@@ -1,4 +1,4 @@
-# Sherlock Holmes and the Duke's Son <kbd>v2.4.2</kbd>
+# Sherlock Holmes and the Duke's Son <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 293
  - **A2:** 118
- - **B1:** 69
- - **B2:** 60
- - **C1:** 40
+ - **B1:** 71
+ - **B2:** 61
+ - **C1:** 41
  - **C2:** 9
 
 ## Source
