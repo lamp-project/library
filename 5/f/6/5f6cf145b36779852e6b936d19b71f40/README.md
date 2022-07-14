@@ -1,4 +1,4 @@
-# Between Two Worlds <kbd>v2.4.2</kbd>
+# Between Two Worlds <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 146
+ - **A1:** 147
  - **A2:** 41
- - **B1:** 28
- - **B2:** 27
- - **C1:** 15
+ - **B1:** 31
+ - **B2:** 28
+ - **C1:** 16
  - **C2:** 2
 
 ## Source
