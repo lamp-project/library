@@ -1,4 +1,4 @@
-# Animals at Night <kbd>v2.4.2</kbd>
+# Animals at Night <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 152
  - **A2:** 41
- - **B1:** 43
- - **B2:** 35
- - **C1:** 28
+ - **B1:** 46
+ - **B2:** 36
+ - **C1:** 29
  - **C2:** 23
 
 ## Source
