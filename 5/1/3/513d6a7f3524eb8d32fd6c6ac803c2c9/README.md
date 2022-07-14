@@ -1,4 +1,4 @@
-# 47 Ronin a Samurai from Japan <kbd>v2.4.2</kbd>
+# 47 Ronin a Samurai from Japan <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 306
  - **A2:** 138
- - **B1:** 111
- - **B2:** 89
- - **C1:** 47
+ - **B1:** 114
+ - **B2:** 90
+ - **C1:** 48
  - **C2:** 8
 
 ## Source
