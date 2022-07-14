@@ -1,4 +1,4 @@
-# Blackbeard's Treasure <kbd>v2.4.2</kbd>
+# Blackbeard's Treasure <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 76%
+ - **A1:** 75%
  - **A2:** 83%
  - **B1:** 90%
  - **B2:** 96%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 328
+ - **A1:** 329
  - **A2:** 154
- - **B1:** 139
- - **B2:** 120
- - **C1:** 63
+ - **B1:** 142
+ - **B2:** 121
+ - **C1:** 64
  - **C2:** 20
 
 ## Source
