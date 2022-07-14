@@ -1,4 +1,4 @@
-# Do Androids Dream of Electric Sheep? <kbd>v2.4.2</kbd>
+# Do Androids Dream of Electric Sheep? <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 438
  - **A2:** 290
- - **B1:** 371
- - **B2:** 351
- - **C1:** 220
+ - **B1:** 372
+ - **B2:** 352
+ - **C1:** 221
  - **C2:** 87
 
 ## Source
