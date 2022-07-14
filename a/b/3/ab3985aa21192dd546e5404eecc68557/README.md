@@ -1,4 +1,4 @@
-# The Time Trippers <kbd>v2.4.2</kbd>
+# The Time Trippers <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 332
+ - **A1:** 333
  - **A2:** 169
- - **B1:** 190
- - **B2:** 179
- - **C1:** 149
+ - **B1:** 193
+ - **B2:** 180
+ - **C1:** 150
  - **C2:** 80
 
 ## Source
