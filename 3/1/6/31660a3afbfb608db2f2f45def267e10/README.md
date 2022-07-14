@@ -1,4 +1,4 @@
-# The Count of Monte Cristo <kbd>v2.4.2</kbd>
+# The Count of Monte Cristo <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 394
  - **A2:** 213
- - **B1:** 212
- - **B2:** 130
- - **C1:** 74
+ - **B1:** 214
+ - **B2:** 131
+ - **C1:** 75
  - **C2:** 20
 
 ## Source
