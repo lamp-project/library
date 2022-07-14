@@ -1,4 +1,4 @@
-# For a Horseshoe Nail <kbd>v2.4.2</kbd>
+# For a Horseshoe Nail <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 78%
+ - **A1:** 77%
  - **A2:** 85%
  - **B1:** 91%
  - **B2:** 95%
@@ -30,9 +30,9 @@
 
  - **A1:** 165
  - **A2:** 44
- - **B1:** 42
- - **B2:** 20
- - **C1:** 21
+ - **B1:** 45
+ - **B2:** 21
+ - **C1:** 22
  - **C2:** 7
 
 ## Source
