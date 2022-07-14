@@ -1,4 +1,4 @@
-# Two Sisters <kbd>v2.4.2</kbd>
+# Two Sisters <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 320
+ - **A1:** 321
  - **A2:** 122
- - **B1:** 113
- - **B2:** 87
- - **C1:** 47
+ - **B1:** 115
+ - **B2:** 88
+ - **C1:** 48
  - **C2:** 24
 
 ## Source
