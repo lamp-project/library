@@ -1,4 +1,4 @@
-# The Fisherman and His Soul <kbd>v2.4.2</kbd>
+# The Fisherman and His Soul <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 298
  - **A2:** 128
- - **B1:** 141
- - **B2:** 99
- - **C1:** 60
+ - **B1:** 144
+ - **B2:** 100
+ - **C1:** 61
  - **C2:** 28
 
 ## Source
