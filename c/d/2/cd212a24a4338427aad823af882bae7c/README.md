@@ -1,4 +1,4 @@
-# The Secret of the Stones <kbd>v2.4.2</kbd>
+# The Secret of the Stones <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 243
+ - **A1:** 244
  - **A2:** 111
- - **B1:** 92
- - **B2:** 78
- - **C1:** 75
+ - **B1:** 94
+ - **B2:** 79
+ - **C1:** 76
  - **C2:** 36
 
 ## Source
