@@ -1,4 +1,4 @@
-# The Enchanted Castle <kbd>v2.4.2</kbd>
+# The Enchanted Castle <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 444
  - **A2:** 303
- - **B1:** 354
- - **B2:** 366
- - **C1:** 306
+ - **B1:** 357
+ - **B2:** 367
+ - **C1:** 307
  - **C2:** 104
 
 ## Source
