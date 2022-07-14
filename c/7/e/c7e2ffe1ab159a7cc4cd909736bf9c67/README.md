@@ -1,4 +1,4 @@
-# Remember Atita <kbd>v2.4.2</kbd>
+# Remember Atita <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 287
  - **A2:** 111
- - **B1:** 100
- - **B2:** 83
- - **C1:** 47
+ - **B1:** 103
+ - **B2:** 84
+ - **C1:** 48
  - **C2:** 15
 
 ## Source
