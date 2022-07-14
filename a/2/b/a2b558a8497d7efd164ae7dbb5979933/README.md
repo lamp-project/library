@@ -1,4 +1,4 @@
-# At the Old Swimming Hole <kbd>v2.4.2</kbd>
+# At the Old Swimming Hole <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 282
+ - **A1:** 283
  - **A2:** 97
- - **B1:** 98
- - **B2:** 67
- - **C1:** 39
+ - **B1:** 101
+ - **B2:** 68
+ - **C1:** 40
  - **C2:** 7
 
 ## Source
