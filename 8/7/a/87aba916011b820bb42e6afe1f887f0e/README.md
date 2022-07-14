@@ -1,4 +1,4 @@
-# The Tales from the Arabian Nights <kbd>v2.4.2</kbd>
+# The Tales from the Arabian Nights <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 287
+ - **A1:** 288
  - **A2:** 124
- - **B1:** 96
- - **B2:** 50
- - **C1:** 25
+ - **B1:** 100
+ - **B2:** 51
+ - **C1:** 26
  - **C2:** 11
 
 ## Source
