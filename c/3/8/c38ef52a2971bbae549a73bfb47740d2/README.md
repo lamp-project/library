@@ -1,4 +1,4 @@
-# Alien at School <kbd>v2.4.2</kbd>
+# Alien at School <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 351
+ - **A1:** 352
  - **A2:** 178
- - **B1:** 160
- - **B2:** 162
- - **C1:** 113
+ - **B1:** 164
+ - **B2:** 163
+ - **C1:** 114
  - **C2:** 52
 
 ## Source
