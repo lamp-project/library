@@ -1,4 +1,4 @@
-# A Connecticut Yankee In King Arthur's Court <kbd>v2.4.2</kbd>
+# A Connecticut Yankee In King Arthur's Court <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 331
+ - **A1:** 332
  - **A2:** 163
- - **B1:** 166
- - **B2:** 146
- - **C1:** 121
+ - **B1:** 168
+ - **B2:** 147
+ - **C1:** 122
  - **C2:** 37
 
 ## Source
