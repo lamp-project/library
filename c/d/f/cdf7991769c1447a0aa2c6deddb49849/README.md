@@ -1,4 +1,4 @@
-# Sink or Swim <kbd>v2.4.2</kbd>
+# Sink or Swim <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -32,7 +32,7 @@
  - **A2:** 289
  - **B1:** 362
  - **B2:** 412
- - **C1:** 325
+ - **C1:** 326
  - **C2:** 207
 
 ## Source
