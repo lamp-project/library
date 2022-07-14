@@ -1,4 +1,4 @@
-# Wicked and Humorous Tales <kbd>v2.4.2</kbd>
+# Wicked and Humorous Tales <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 387
  - **A2:** 210
- - **B1:** 230
- - **B2:** 183
- - **C1:** 135
+ - **B1:** 233
+ - **B2:** 184
+ - **C1:** 136
  - **C2:** 45
 
 ## Source
