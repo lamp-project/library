@@ -1,4 +1,4 @@
-# The Abc Murders <kbd>v2.4.2</kbd>
+# The Abc Murders <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 443
  - **A2:** 300
- - **B1:** 355
- - **B2:** 315
- - **C1:** 212
+ - **B1:** 357
+ - **B2:** 316
+ - **C1:** 213
  - **C2:** 85
 
 ## Source
