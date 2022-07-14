@@ -1,4 +1,4 @@
-# Sparkling Cyanide <kbd>v2.4.2</kbd>
+# Sparkling Cyanide <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 458
  - **A2:** 324
- - **B1:** 440
- - **B2:** 465
- - **C1:** 332
+ - **B1:** 442
+ - **B2:** 466
+ - **C1:** 333
  - **C2:** 141
 
 ## Source
