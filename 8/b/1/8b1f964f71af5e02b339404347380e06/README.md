@@ -1,4 +1,4 @@
-# The Story of the Internet <kbd>v2.4.2</kbd>
+# The Story of the Internet <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 409
+ - **A1:** 410
  - **A2:** 282
  - **B1:** 327
  - **B2:** 286
- - **C1:** 242
+ - **C1:** 243
  - **C2:** 109
 
 ## Source
