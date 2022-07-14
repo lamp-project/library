@@ -1,4 +1,4 @@
-# The Fifteenth Character <kbd>v2.4.2</kbd>
+# The Fifteenth Character <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 158
+ - **A1:** 159
  - **A2:** 48
- - **B1:** 46
- - **B2:** 32
- - **C1:** 31
+ - **B1:** 49
+ - **B2:** 33
+ - **C1:** 32
  - **C2:** 8
 
 ## Source
