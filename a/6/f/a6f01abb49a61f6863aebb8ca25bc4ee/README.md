@@ -1,4 +1,4 @@
-# Aladdin and the Wonderful Lamp <kbd>v2.4.2</kbd>
+# Aladdin and the Wonderful Lamp <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 352
  - **A2:** 150
- - **B1:** 189
- - **B2:** 153
- - **C1:** 120
+ - **B1:** 192
+ - **B2:** 154
+ - **C1:** 121
  - **C2:** 37
 
 ## Source
