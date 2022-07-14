@@ -1,4 +1,4 @@
-# Jack the Ripper <kbd>v2.4.2</kbd>
+# Jack the Ripper <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 360
  - **A2:** 167
- - **B1:** 206
- - **B2:** 213
- - **C1:** 154
+ - **B1:** 209
+ - **B2:** 214
+ - **C1:** 155
  - **C2:** 80
 
 ## Source
