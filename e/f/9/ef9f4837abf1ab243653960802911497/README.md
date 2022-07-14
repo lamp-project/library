@@ -1,4 +1,4 @@
-# The Absence of Emily <kbd>v2.4.2</kbd>
+# The Absence of Emily <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 82%
+ - **A1:** 81%
  - **A2:** 88%
  - **B1:** 93%
  - **B2:** 97%
@@ -30,9 +30,9 @@
 
  - **A1:** 268
  - **A2:** 81
- - **B1:** 70
- - **B2:** 58
- - **C1:** 27
+ - **B1:** 74
+ - **B2:** 59
+ - **C1:** 28
  - **C2:** 6
 
 ## Source
