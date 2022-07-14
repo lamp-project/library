@@ -1,4 +1,4 @@
-# Fighting for the Forest <kbd>v2.4.2</kbd>
+# Fighting for the Forest <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 192
+ - **A1:** 193
  - **A2:** 50
- - **B1:** 65
- - **B2:** 39
- - **C1:** 29
+ - **B1:** 68
+ - **B2:** 40
+ - **C1:** 30
  - **C2:** 8
 
 ## Source
