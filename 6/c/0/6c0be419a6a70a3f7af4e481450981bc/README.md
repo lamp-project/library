@@ -1,4 +1,4 @@
-# City of Lights <kbd>v2.4.2</kbd>
+# City of Lights <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 347
+ - **A1:** 348
  - **A2:** 141
- - **B1:** 137
- - **B2:** 106
- - **C1:** 60
+ - **B1:** 140
+ - **B2:** 107
+ - **C1:** 61
  - **C2:** 29
 
 ## Source
