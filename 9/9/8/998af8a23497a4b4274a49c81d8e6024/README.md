@@ -1,4 +1,4 @@
-# Legally Blonde <kbd>v2.4.2</kbd>
+# Legally Blonde <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 444
  - **A2:** 316
- - **B1:** 421
+ - **B1:** 422
  - **B2:** 446
- - **C1:** 399
+ - **C1:** 400
  - **C2:** 223
 
 ## Source
