@@ -1,4 +1,4 @@
-# The Glorious Pacific Way <kbd>v2.4.2</kbd>
+# The Glorious Pacific Way <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 305
+ - **A1:** 306
  - **A2:** 97
- - **B1:** 92
- - **B2:** 71
- - **C1:** 52
+ - **B1:** 94
+ - **B2:** 72
+ - **C1:** 53
  - **C2:** 21
 
 ## Source
