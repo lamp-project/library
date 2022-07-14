@@ -1,4 +1,4 @@
-# The Picture <kbd>v2.4.2</kbd>
+# The Picture <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 312
+ - **A1:** 313
  - **A2:** 90
- - **B1:** 102
- - **B2:** 54
- - **C1:** 33
+ - **B1:** 105
+ - **B2:** 55
+ - **C1:** 34
  - **C2:** 5
 
 ## Source
