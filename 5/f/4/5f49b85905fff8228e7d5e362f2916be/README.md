@@ -1,4 +1,4 @@
-# The Golden Stone Saga I <kbd>v2.4.2</kbd>
+# The Golden Stone Saga I <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 418
  - **A2:** 218
- - **B1:** 255
+ - **B1:** 256
  - **B2:** 234
- - **C1:** 179
+ - **C1:** 180
  - **C2:** 59
 
 ## Source
