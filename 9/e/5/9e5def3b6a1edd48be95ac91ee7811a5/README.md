@@ -1,4 +1,4 @@
-# Strangers on a Train <kbd>v2.4.2</kbd>
+# Strangers on a Train <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 377
  - **A2:** 191
- - **B1:** 197
- - **B2:** 149
- - **C1:** 82
+ - **B1:** 199
+ - **B2:** 150
+ - **C1:** 83
  - **C2:** 24
 
 ## Source
