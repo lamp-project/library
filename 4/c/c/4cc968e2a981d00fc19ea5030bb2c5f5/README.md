@@ -1,4 +1,4 @@
-# The Blue Cross <kbd>v2.4.2</kbd>
+# The Blue Cross <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 283
+ - **A1:** 284
  - **A2:** 104
- - **B1:** 71
- - **B2:** 64
- - **C1:** 40
+ - **B1:** 74
+ - **B2:** 65
+ - **C1:** 41
  - **C2:** 11
 
 ## Source
