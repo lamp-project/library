@@ -1,4 +1,4 @@
-# The Man with Three Names <kbd>v2.4.2</kbd>
+# The Man with Three Names <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 256
  - **A2:** 83
- - **B1:** 77
- - **B2:** 48
- - **C1:** 31
+ - **B1:** 79
+ - **B2:** 49
+ - **C1:** 32
  - **C2:** 12
 
 ## Source
