@@ -1,4 +1,4 @@
-# The Red and the Black <kbd>v2.4.2</kbd>
+# The Red and the Black <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 416
  - **A2:** 285
- - **B1:** 308
- - **B2:** 271
- - **C1:** 185
+ - **B1:** 310
+ - **B2:** 272
+ - **C1:** 186
  - **C2:** 63
 
 ## Source
