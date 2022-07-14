@@ -1,4 +1,4 @@
-# The Whispering Gallery <kbd>v2.4.2</kbd>
+# The Whispering Gallery <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 319
  - **A2:** 139
- - **B1:** 144
- - **B2:** 137
- - **C1:** 63
+ - **B1:** 147
+ - **B2:** 138
+ - **C1:** 64
  - **C2:** 21
 
 ## Source
