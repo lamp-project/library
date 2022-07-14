@@ -1,4 +1,4 @@
-# The Beauty and the Beast <kbd>v2.4.2</kbd>
+# The Beauty and the Beast <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 219
+ - **A1:** 220
  - **A2:** 76
- - **B1:** 69
- - **B2:** 57
- - **C1:** 37
+ - **B1:** 73
+ - **B2:** 58
+ - **C1:** 38
  - **C2:** 8
 
 ## Source
