@@ -1,4 +1,4 @@
-# Mr Sing My Heart's Delight <kbd>v2.4.2</kbd>
+# Mr Sing My Heart's Delight <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,7 +18,7 @@
 ## Readablility
 
 
- - **A1:** 77%
+ - **A1:** 76%
  - **A2:** 84%
  - **B1:** 91%
  - **B2:** 95%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 315
+ - **A1:** 316
  - **A2:** 153
- - **B1:** 136
- - **B2:** 115
- - **C1:** 74
+ - **B1:** 139
+ - **B2:** 116
+ - **C1:** 75
  - **C2:** 24
 
 ## Source
