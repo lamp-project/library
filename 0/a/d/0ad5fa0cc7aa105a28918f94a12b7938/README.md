@@ -1,4 +1,4 @@
-# After the Funeral <kbd>v2.4.2</kbd>
+# After the Funeral <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 451
  - **A2:** 310
- - **B1:** 399
- - **B2:** 390
- - **C1:** 320
+ - **B1:** 401
+ - **B2:** 391
+ - **C1:** 321
  - **C2:** 102
 
 ## Source
