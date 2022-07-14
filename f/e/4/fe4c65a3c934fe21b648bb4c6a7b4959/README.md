@@ -1,4 +1,4 @@
-# Famous British Criminals <kbd>v2.4.2</kbd>
+# Famous British Criminals <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 360
  - **A2:** 218
- - **B1:** 231
- - **B2:** 205
- - **C1:** 157
+ - **B1:** 233
+ - **B2:** 206
+ - **C1:** 158
  - **C2:** 46
 
 ## Source
