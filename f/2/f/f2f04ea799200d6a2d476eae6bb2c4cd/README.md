@@ -1,4 +1,4 @@
-# Dangerous Game <kbd>v2.4.2</kbd>
+# Dangerous Game <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 374
  - **A2:** 186
- - **B1:** 171
- - **B2:** 118
- - **C1:** 60
+ - **B1:** 174
+ - **B2:** 119
+ - **C1:** 61
  - **C2:** 19
 
 ## Source
