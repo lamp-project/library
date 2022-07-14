@@ -1,4 +1,4 @@
-# Breaking Loose <kbd>v2.4.2</kbd>
+# Breaking Loose <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 286
+ - **A1:** 287
  - **A2:** 104
- - **B1:** 92
+ - **B1:** 95
  - **B2:** 66
- - **C1:** 45
+ - **C1:** 46
  - **C2:** 8
 
 ## Source
