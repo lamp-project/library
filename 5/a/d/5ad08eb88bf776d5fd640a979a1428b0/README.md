@@ -1,4 +1,4 @@
-# Dead Man's Chest <kbd>v2.4.2</kbd>
+# Dead Man's Chest <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 359
  - **A2:** 185
- - **B1:** 201
- - **B2:** 152
- - **C1:** 94
+ - **B1:** 204
+ - **B2:** 153
+ - **C1:** 95
  - **C2:** 18
 
 ## Source
