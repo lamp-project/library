@@ -1,4 +1,4 @@
-# Henry VIII and His Six Wives <kbd>v2.4.2</kbd>
+# Henry VIII and His Six Wives <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 322
  - **A2:** 121
- - **B1:** 116
- - **B2:** 75
- - **C1:** 30
+ - **B1:** 119
+ - **B2:** 76
+ - **C1:** 31
  - **C2:** 11
 
 ## Source
