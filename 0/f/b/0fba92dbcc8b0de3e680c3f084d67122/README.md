@@ -1,4 +1,4 @@
-# The Secret Life of Walter Mitty <kbd>v2.4.2</kbd>
+# The Secret Life of Walter Mitty <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,7 +19,7 @@
 
 
  - **A1:** 73%
- - **A2:** 81%
+ - **A2:** 80%
  - **B1:** 88%
  - **B2:** 94%
  - **C1:** 98%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 183
+ - **A1:** 184
  - **A2:** 54
- - **B1:** 46
+ - **B1:** 49
  - **B2:** 45
- - **C1:** 27
+ - **C1:** 28
  - **C2:** 11
 
 ## Source
