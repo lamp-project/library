@@ -1,4 +1,4 @@
-# Lord Arthur Savile's Crime <kbd>v2.4.2</kbd>
+# Lord Arthur Savile's Crime <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 361
  - **A2:** 177
- - **B1:** 200
- - **B2:** 132
- - **C1:** 87
+ - **B1:** 203
+ - **B2:** 133
+ - **C1:** 88
  - **C2:** 28
 
 ## Source
