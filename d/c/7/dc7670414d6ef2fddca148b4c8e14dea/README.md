@@ -1,4 +1,4 @@
-# The Third Party <kbd>v2.4.2</kbd>
+# The Third Party <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 336
+ - **A1:** 337
  - **A2:** 124
- - **B1:** 126
- - **B2:** 104
- - **C1:** 60
+ - **B1:** 129
+ - **B2:** 105
+ - **C1:** 61
  - **C2:** 19
 
 ## Source
