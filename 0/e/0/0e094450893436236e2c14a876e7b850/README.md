@@ -1,4 +1,4 @@
-# A Twentieth-century Malady <kbd>v2.4.2</kbd>
+# A Twentieth-century Malady <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 260
  - **A2:** 84
- - **B1:** 81
+ - **B1:** 84
  - **B2:** 84
- - **C1:** 55
+ - **C1:** 56
  - **C2:** 21
 
 ## Source
