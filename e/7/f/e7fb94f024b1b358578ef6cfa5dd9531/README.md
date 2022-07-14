@@ -1,4 +1,4 @@
-# Davy Crockett <kbd>v2.4.2</kbd>
+# Davy Crockett <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 228
+ - **A1:** 229
  - **A2:** 81
- - **B1:** 75
- - **B2:** 80
- - **C1:** 34
+ - **B1:** 78
+ - **B2:** 81
+ - **C1:** 35
  - **C2:** 15
 
 ## Source
