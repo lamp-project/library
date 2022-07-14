@@ -1,4 +1,4 @@
-# A Pocket Full of Rye <kbd>v2.4.2</kbd>
+# A Pocket Full of Rye <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 446
  - **A2:** 309
- - **B1:** 387
- - **B2:** 346
- - **C1:** 309
+ - **B1:** 389
+ - **B2:** 347
+ - **C1:** 310
  - **C2:** 123
 
 ## Source
