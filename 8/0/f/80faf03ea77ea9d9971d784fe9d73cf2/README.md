@@ -1,4 +1,4 @@
-# Slowly Slowly in the Wind <kbd>v2.4.2</kbd>
+# Slowly Slowly in the Wind <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 315
  - **A2:** 113
- - **B1:** 102
- - **B2:** 78
- - **C1:** 37
+ - **B1:** 105
+ - **B2:** 79
+ - **C1:** 38
  - **C2:** 12
 
 ## Source
