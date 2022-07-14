@@ -1,4 +1,4 @@
-# Three is a Lucky Number <kbd>v2.4.2</kbd>
+# Three is a Lucky Number <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 278
  - **A2:** 97
- - **B1:** 79
- - **B2:** 74
- - **C1:** 42
+ - **B1:** 82
+ - **B2:** 75
+ - **C1:** 43
  - **C2:** 15
 
 ## Source
