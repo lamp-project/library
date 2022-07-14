@@ -1,4 +1,4 @@
-# The Eyes of Darkness <kbd>v2.4.2</kbd>
+# The Eyes of Darkness <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 481
  - **A2:** 456
- - **B1:** 823
+ - **B1:** 824
  - **B2:** 1196
- - **C1:** 1485
+ - **C1:** 1486
  - **C2:** 1171
 
 ## Source
