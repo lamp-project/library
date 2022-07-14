@@ -1,4 +1,4 @@
-# The Breathing Method <kbd>v2.4.2</kbd>
+# The Breathing Method <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,7 +30,7 @@
 
  - **A1:** 465
  - **A2:** 360
- - **B1:** 489
+ - **B1:** 491
  - **B2:** 626
  - **C1:** 563
  - **C2:** 423
