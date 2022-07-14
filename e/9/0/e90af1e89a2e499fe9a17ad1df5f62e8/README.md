@@ -1,4 +1,4 @@
-# Body on the Rocks <kbd>v2.4.2</kbd>
+# Body on the Rocks <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 414
  - **A2:** 237
- - **B1:** 298
- - **B2:** 261
- - **C1:** 198
+ - **B1:** 299
+ - **B2:** 262
+ - **C1:** 199
  - **C2:** 56
 
 ## Source
