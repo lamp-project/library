@@ -1,4 +1,4 @@
-# The Tale of Brer Rabbit and the Tar Baby <kbd>v2.4.2</kbd>
+# The Tale of Brer Rabbit and the Tar Baby <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,8 +18,8 @@
 ## Readablility
 
 
- - **A1:** 70%
- - **A2:** 77%
+ - **A1:** 69%
+ - **A2:** 76%
  - **B1:** 81%
  - **B2:** 86%
  - **C1:** 95%
@@ -30,9 +30,9 @@
 
  - **A1:** 141
  - **A2:** 39
- - **B1:** 30
- - **B2:** 29
- - **C1:** 12
+ - **B1:** 33
+ - **B2:** 30
+ - **C1:** 13
  - **C2:** 8
 
 ## Source
