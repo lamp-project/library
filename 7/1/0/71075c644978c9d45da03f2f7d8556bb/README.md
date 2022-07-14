@@ -1,4 +1,4 @@
-# The Inspector of Schools <kbd>v2.4.2</kbd>
+# The Inspector of Schools <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 258
+ - **A1:** 259
  - **A2:** 76
- - **B1:** 84
- - **B2:** 67
- - **C1:** 40
+ - **B1:** 86
+ - **B2:** 68
+ - **C1:** 41
  - **C2:** 17
 
 ## Source
