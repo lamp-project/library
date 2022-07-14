@@ -1,4 +1,4 @@
-# The African Queen <kbd>v2.4.2</kbd>
+# The African Queen <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 422
  - **A2:** 280
- - **B1:** 318
- - **B2:** 299
- - **C1:** 203
+ - **B1:** 321
+ - **B2:** 300
+ - **C1:** 204
  - **C2:** 79
 
 ## Source
