@@ -1,4 +1,4 @@
-# The Lovely Lady <kbd>v2.4.2</kbd>
+# The Lovely Lady <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 300
+ - **A1:** 301
  - **A2:** 107
- - **B1:** 110
- - **B2:** 77
- - **C1:** 37
+ - **B1:** 113
+ - **B2:** 78
+ - **C1:** 38
  - **C2:** 11
 
 ## Source
