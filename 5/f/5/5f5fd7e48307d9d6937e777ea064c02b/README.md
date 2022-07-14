@@ -1,4 +1,4 @@
-# The Adventure of the Blue Carbuncle <kbd>v2.4.2</kbd>
+# The Adventure of the Blue Carbuncle <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 290
+ - **A1:** 291
  - **A2:** 96
- - **B1:** 101
- - **B2:** 81
- - **C1:** 70
+ - **B1:** 103
+ - **B2:** 82
+ - **C1:** 71
  - **C2:** 25
 
 ## Source
