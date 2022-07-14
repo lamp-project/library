@@ -1,4 +1,4 @@
-# The Legend of Johnny Appleseed <kbd>v2.4.2</kbd>
+# The Legend of Johnny Appleseed <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -19,7 +19,7 @@
 
 
  - **A1:** 71%
- - **A2:** 80%
+ - **A2:** 79%
  - **B1:** 87%
  - **B2:** 94%
  - **C1:** 99%
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 155
+ - **A1:** 156
  - **A2:** 47
- - **B1:** 50
- - **B2:** 46
- - **C1:** 18
+ - **B1:** 53
+ - **B2:** 47
+ - **C1:** 19
  - **C2:** 5
 
 ## Source
