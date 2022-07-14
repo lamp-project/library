@@ -1,4 +1,4 @@
-# The Canterbury Tales <kbd>v2.4.2</kbd>
+# The Canterbury Tales <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 262
+ - **A1:** 263
  - **A2:** 81
- - **B1:** 76
- - **B2:** 39
- - **C1:** 20
+ - **B1:** 80
+ - **B2:** 40
+ - **C1:** 21
  - **C2:** 6
 
 ## Source
