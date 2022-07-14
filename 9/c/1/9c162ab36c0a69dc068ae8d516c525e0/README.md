@@ -1,4 +1,4 @@
-# Catch Me If You Can <kbd>v2.4.2</kbd>
+# Catch Me If You Can <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -32,7 +32,7 @@
  - **A2:** 414
  - **B1:** 638
  - **B2:** 764
- - **C1:** 679
+ - **C1:** 680
  - **C2:** 401
 
 ## Source
