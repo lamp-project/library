@@ -1,4 +1,4 @@
-# Amazing Thinkers and Humanitarians <kbd>v2.4.2</kbd>
+# Amazing Thinkers and Humanitarians <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 436
  - **A2:** 292
- - **B1:** 400
- - **B2:** 399
- - **C1:** 310
+ - **B1:** 403
+ - **B2:** 400
+ - **C1:** 311
  - **C2:** 142
 
 ## Source
