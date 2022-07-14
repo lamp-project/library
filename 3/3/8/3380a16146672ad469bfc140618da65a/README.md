@@ -1,4 +1,4 @@
-# The Disappearance of Lady Frances Carfax <kbd>v2.4.2</kbd>
+# The Disappearance of Lady Frances Carfax <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 292
  - **A2:** 101
- - **B1:** 100
- - **B2:** 68
- - **C1:** 62
+ - **B1:** 103
+ - **B2:** 69
+ - **C1:** 63
  - **C2:** 13
 
 ## Source
