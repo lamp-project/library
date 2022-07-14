@@ -1,4 +1,4 @@
-# King Arthur and His Knights <kbd>v2.4.2</kbd>
+# King Arthur and His Knights <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 227
+ - **A1:** 228
  - **A2:** 74
- - **B1:** 75
- - **B2:** 39
- - **C1:** 22
+ - **B1:** 78
+ - **B2:** 40
+ - **C1:** 23
  - **C2:** 9
 
 ## Source
