@@ -1,4 +1,4 @@
-# Murder at Coyote Canyon <kbd>v2.4.2</kbd>
+# Murder at Coyote Canyon <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 354
  - **A2:** 181
- - **B1:** 174
- - **B2:** 158
- - **C1:** 105
+ - **B1:** 177
+ - **B2:** 159
+ - **C1:** 106
  - **C2:** 59
 
 ## Source
