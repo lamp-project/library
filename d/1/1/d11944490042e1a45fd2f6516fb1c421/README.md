@@ -1,4 +1,4 @@
-# The Locked Room <kbd>v2.4.2</kbd>
+# The Locked Room <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 147
+ - **A1:** 148
  - **A2:** 35
- - **B1:** 32
- - **B2:** 29
- - **C1:** 20
+ - **B1:** 35
+ - **B2:** 30
+ - **C1:** 21
  - **C2:** 8
 
 ## Source
