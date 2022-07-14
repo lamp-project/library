@@ -1,4 +1,4 @@
-# Death of the Eviction Man <kbd>v2.4.2</kbd>
+# Death of the Eviction Man <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,8 +30,8 @@
 
  - **A1:** 439
  - **A2:** 277
- - **B1:** 376
- - **B2:** 426
+ - **B1:** 377
+ - **B2:** 427
  - **C1:** 368
  - **C2:** 274
 
