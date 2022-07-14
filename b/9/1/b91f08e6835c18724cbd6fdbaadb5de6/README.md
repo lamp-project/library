@@ -1,4 +1,4 @@
-# Cat Among the Pigeons <kbd>v2.4.2</kbd>
+# Cat Among the Pigeons <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 436
  - **A2:** 288
- - **B1:** 333
- - **B2:** 315
- - **C1:** 239
+ - **B1:** 335
+ - **B2:** 316
+ - **C1:** 240
  - **C2:** 89
 
 ## Source
