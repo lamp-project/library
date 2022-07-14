@@ -1,4 +1,4 @@
-# The Moonstone <kbd>v2.4.2</kbd>
+# The Moonstone <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 466
+ - **A1:** 467
  - **A2:** 351
- - **B1:** 520
- - **B2:** 578
- - **C1:** 375
+ - **B1:** 523
+ - **B2:** 579
+ - **C1:** 376
  - **C2:** 141
 
 ## Source
