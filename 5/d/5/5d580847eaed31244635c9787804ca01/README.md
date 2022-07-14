@@ -1,4 +1,4 @@
-# Casting the Runes <kbd>v2.4.2</kbd>
+# Casting the Runes <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 342
  - **A2:** 161
- - **B1:** 135
- - **B2:** 103
- - **C1:** 54
+ - **B1:** 138
+ - **B2:** 104
+ - **C1:** 55
  - **C2:** 18
 
 ## Source
