@@ -1,4 +1,4 @@
-# Diana; Princess of Wales <kbd>v2.4.2</kbd>
+# Diana; Princess of Wales <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 205
  - **A2:** 59
- - **B1:** 58
- - **B2:** 29
- - **C1:** 20
+ - **B1:** 61
+ - **B2:** 30
+ - **C1:** 21
  - **C2:** 10
 
 ## Source
