@@ -1,4 +1,4 @@
-# Mr Bean in Town <kbd>v2.4.2</kbd>
+# Mr Bean in Town <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 203
+ - **A1:** 204
  - **A2:** 69
- - **B1:** 61
- - **B2:** 49
- - **C1:** 26
+ - **B1:** 63
+ - **B2:** 50
+ - **C1:** 27
  - **C2:** 10
 
 ## Source
