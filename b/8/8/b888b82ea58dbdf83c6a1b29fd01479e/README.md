@@ -1,4 +1,4 @@
-# Princess Diana <kbd>v2.4.2</kbd>
+# Princess Diana <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 364
  - **A2:** 179
- - **B1:** 177
- - **B2:** 129
- - **C1:** 77
+ - **B1:** 180
+ - **B2:** 130
+ - **C1:** 78
  - **C2:** 28
 
 ## Source
