@@ -1,4 +1,4 @@
-# The No1 Ladies Detective Agency <kbd>v2.4.2</kbd>
+# The No1 Ladies Detective Agency <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 383
  - **A2:** 207
- - **B1:** 212
- - **B2:** 170
- - **C1:** 103
+ - **B1:** 216
+ - **B2:** 171
+ - **C1:** 104
  - **C2:** 26
 
 ## Source
