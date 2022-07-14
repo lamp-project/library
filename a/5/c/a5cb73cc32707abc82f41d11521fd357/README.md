@@ -1,4 +1,4 @@
-# Halloween Horror <kbd>v2.4.2</kbd>
+# Halloween Horror <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 236
  - **A2:** 89
- - **B1:** 79
+ - **B1:** 80
  - **B2:** 83
- - **C1:** 55
+ - **C1:** 56
  - **C2:** 30
 
 ## Source
