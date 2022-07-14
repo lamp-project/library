@@ -1,4 +1,4 @@
-# Doctor Who: Borrowed Time <kbd>v2.4.2</kbd>
+# Doctor Who: Borrowed Time <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 399
  - **A2:** 216
- - **B1:** 231
- - **B2:** 158
- - **C1:** 135
+ - **B1:** 233
+ - **B2:** 159
+ - **C1:** 136
  - **C2:** 47
 
 ## Source
