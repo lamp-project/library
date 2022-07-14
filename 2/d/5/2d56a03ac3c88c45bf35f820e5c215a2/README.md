@@ -1,4 +1,4 @@
-# Island of Dr Moreau <kbd>v2.4.2</kbd>
+# Island of Dr Moreau <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 380
  - **A2:** 218
- - **B1:** 225
- - **B2:** 193
- - **C1:** 105
+ - **B1:** 228
+ - **B2:** 194
+ - **C1:** 106
  - **C2:** 31
 
 ## Source
