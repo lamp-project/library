@@ -1,4 +1,4 @@
-# The Spy Who Came in from the Cold <kbd>v2.4.2</kbd>
+# The Spy Who Came in from the Cold <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 410
  - **A2:** 228
- - **B1:** 273
- - **B2:** 243
- - **C1:** 149
+ - **B1:** 276
+ - **B2:** 244
+ - **C1:** 150
  - **C2:** 60
 
 ## Source
