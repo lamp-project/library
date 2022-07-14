@@ -1,4 +1,4 @@
-# The Story of Troy <kbd>v2.4.2</kbd>
+# The Story of Troy <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 402
  - **A2:** 214
- - **B1:** 216
- - **B2:** 214
- - **C1:** 116
+ - **B1:** 219
+ - **B2:** 215
+ - **C1:** 117
  - **C2:** 39
 
 ## Source
