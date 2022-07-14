@@ -1,4 +1,4 @@
-# Man from the South <kbd>v2.4.2</kbd>
+# Man from the South <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 274
+ - **A1:** 275
  - **A2:** 100
- - **B1:** 99
- - **B2:** 84
- - **C1:** 57
+ - **B1:** 102
+ - **B2:** 85
+ - **C1:** 58
  - **C2:** 12
 
 ## Source
