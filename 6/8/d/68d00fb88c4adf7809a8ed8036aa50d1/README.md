@@ -1,4 +1,4 @@
-# The Lost Treasure of Bodega Bay <kbd>v2.4.2</kbd>
+# The Lost Treasure of Bodega Bay <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 308
  - **A2:** 143
- - **B1:** 108
+ - **B1:** 111
  - **B2:** 104
- - **C1:** 56
+ - **C1:** 57
  - **C2:** 37
 
 ## Source
