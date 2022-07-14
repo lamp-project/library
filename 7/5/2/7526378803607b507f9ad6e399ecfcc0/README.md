@@ -1,4 +1,4 @@
-# The Incredible Journey <kbd>v2.4.2</kbd>
+# The Incredible Journey <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 374
  - **A2:** 210
- - **B1:** 232
- - **B2:** 187
- - **C1:** 121
+ - **B1:** 234
+ - **B2:** 188
+ - **C1:** 122
  - **C2:** 40
 
 ## Source
