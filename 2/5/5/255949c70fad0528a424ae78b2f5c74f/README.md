@@ -1,4 +1,4 @@
-# Alien Alert in Seattle <kbd>v2.4.2</kbd>
+# Alien Alert in Seattle <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 319
+ - **A1:** 320
  - **A2:** 162
- - **B1:** 125
- - **B2:** 103
- - **C1:** 63
+ - **B1:** 126
+ - **B2:** 104
+ - **C1:** 64
  - **C2:** 41
 
 ## Source
