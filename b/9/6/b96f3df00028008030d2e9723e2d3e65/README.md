@@ -1,4 +1,4 @@
-# Fantastic Creatures Monsters, Mermaids, and Wild Men <kbd>v2.4.2</kbd>
+# Fantastic Creatures Monsters, Mermaids, and Wild Men <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -18,11 +18,11 @@
 ## Readablility
 
 
- - **A1:** 78%
+ - **A1:** 77%
  - **A2:** 84%
  - **B1:** 89%
  - **B2:** 94%
- - **C1:** 97%
+ - **C1:** 98%
  - **C2:** 100%
 
 ## Words Count
@@ -30,9 +30,9 @@
 
  - **A1:** 190
  - **A2:** 42
- - **B1:** 41
- - **B2:** 28
- - **C1:** 20
+ - **B1:** 44
+ - **B2:** 29
+ - **C1:** 21
  - **C2:** 13
 
 ## Source
