@@ -1,4 +1,4 @@
-# The Watchers <kbd>v2.4.2</kbd>
+# The Watchers <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 168
+ - **A1:** 169
  - **A2:** 49
- - **B1:** 32
- - **B2:** 17
- - **C1:** 11
+ - **B1:** 35
+ - **B2:** 18
+ - **C1:** 12
  - **C2:** 2
 
 ## Source
