@@ -1,4 +1,4 @@
-# The Final Diagnosis <kbd>v2.4.2</kbd>
+# The Final Diagnosis <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 475
  - **A2:** 420
- - **B1:** 649
+ - **B1:** 650
  - **B2:** 827
- - **C1:** 774
+ - **C1:** 775
  - **C2:** 526
 
 ## Source
