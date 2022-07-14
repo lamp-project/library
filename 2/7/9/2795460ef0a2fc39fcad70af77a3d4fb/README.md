@@ -1,4 +1,4 @@
-# A Time of Waiting <kbd>v2.4.2</kbd>
+# A Time of Waiting <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 441
  - **A2:** 286
- - **B1:** 342
- - **B2:** 354
- - **C1:** 272
+ - **B1:** 343
+ - **B2:** 355
+ - **C1:** 273
  - **C2:** 119
 
 ## Source
