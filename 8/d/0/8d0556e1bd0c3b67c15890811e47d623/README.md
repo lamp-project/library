@@ -1,4 +1,4 @@
-# Tales of Light and Dark <kbd>v2.4.2</kbd>
+# Tales of Light and Dark <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -30,9 +30,9 @@
 
  - **A1:** 429
  - **A2:** 295
- - **B1:** 363
- - **B2:** 425
- - **C1:** 400
+ - **B1:** 366
+ - **B2:** 426
+ - **C1:** 401
  - **C2:** 235
 
 ## Source
