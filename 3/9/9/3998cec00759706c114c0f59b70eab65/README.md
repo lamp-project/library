@@ -1,4 +1,4 @@
-# Mutiny on the Bounty <kbd>v2.4.2</kbd>
+# Mutiny on the Bounty <kbd>v2.5.3</kbd>
 
 ![](./cover.medium.jpg "")
 
@@ -28,11 +28,11 @@
 ## Words Count
 
 
- - **A1:** 274
+ - **A1:** 275
  - **A2:** 100
- - **B1:** 79
- - **B2:** 55
- - **C1:** 45
+ - **B1:** 82
+ - **B2:** 56
+ - **C1:** 46
  - **C2:** 10
 
 ## Source
